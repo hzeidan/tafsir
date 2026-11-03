@@ -1,0 +1,17 @@
+{
+"nuzul":{"name":"سبب نزول وسياق تاريخي","color":"#b45309"},
+"fadl":{"name":"فضل السورة","color":"#a16207"},
+"hadith":{"name":"حديث مرفوع","color":"#15803d"},
+"athar":{"name":"أثر عن الصحابة والتابعين","color":"#0f766e"},
+"quran":{"name":"تفسير القرآن بالقرآن (مقابلة بآية)","color":"#1d4ed8"},
+"lugha":{"name":"لغة وغريب","color":"#7c3aed"},
+"irab":{"name":"إعراب ونحو وصرف","color":"#9333ea"},
+"balagha":{"name":"بلاغة ونكت","color":"#c026d3"},
+"qiraat":{"name":"قراءات ورسم","color":"#db2777"},
+"aqida":{"name":"عقيدة","color":"#dc2626"},
+"ahkam":{"name":"أحكام وفقه","color":"#ea580c"},
+"munasaba":{"name":"مناسبات وترابط","color":"#0369a1"},
+"khilaf":{"name":"أقوال المفسرين وترجيح","color":"#475569"},
+"tafsir":{"name":"معنى وبيان","color":"#4b5563"},
+"hidaya":{"name":"هدايات وتدبر","color":"#059669"}
+}

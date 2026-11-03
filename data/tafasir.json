@@ -1,0 +1,11 @@
+[
+{"id":"tabari","name":"الطبري","full":"جامع البيان عن تأويل آي القرآن","author":"ابن جرير الطبري","d":310,"src":"ar-tafsir-al-tabari"},
+{"id":"ibnkathir","name":"ابن كثير","full":"تفسير القرآن العظيم","author":"إسماعيل بن كثير","d":774,"src":"ar-tafsir-ibn-kathir"},
+{"id":"qurtubi","name":"القرطبي","full":"الجامع لأحكام القرآن","author":"أبو عبد الله القرطبي","d":671,"src":"ar-tafseer-al-qurtubi"},
+{"id":"baghawi","name":"البغوي","full":"معالم التنزيل","author":"الحسين بن مسعود البغوي","d":516,"src":"ar-tafsir-al-baghawi"},
+{"id":"ibnjawzi","name":"ابن الجوزي","full":"زاد المسير في علم التفسير","author":"أبو الفرج ابن الجوزي","d":597,"src":"tafsir-ibn-al-jawzi"},
+{"id":"ibnashur","name":"ابن عاشور","full":"التحرير والتنوير","author":"محمد الطاهر ابن عاشور","d":1393,"src":"ar-tafseer-tahrir-al-tanwir"},
+{"id":"bahr","name":"البحر المحيط","full":"البحر المحيط","author":"أبو حيان الأندلسي","d":745,"src":"al-bahr-al-muhit"},
+{"id":"adwa","name":"أضواء البيان","full":"أضواء البيان في إيضاح القرآن بالقرآن","author":"محمد الأمين الشنقيطي (وتتمّته لتلميذه عطية محمد سالم من سورة المجادلة)","d":1393,"src":"adwa-al-bayan"},
+{"id":"saadi","name":"السعدي","full":"تيسير الكريم الرحمن","author":"عبد الرحمن بن ناصر السعدي","d":1376,"src":"ar-tafsir-as-saadi"}
+]

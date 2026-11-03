@@ -1,0 +1,306 @@
+<title>فوائد التفاسير</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap">
+<style>
+/* Layout: study desk — filter rail on the start side, results ledger beside it; ayat set in naskh like a mushaf margin */
+:root{
+  --bg:#f2f4f1; --surface:#ffffff; --sunk:#e8ece7; --ink:#18221e; --muted:#5a6761; --line:#d6ddd7;
+  --accent:#0d6656; --accent-soft:#d9ece6; --on-accent:#ffffff; --warn:#8a5a00; --warn-soft:#fbf1dc;
+  --f-quran:"Amiri","Noto Naskh Arabic","Traditional Arabic",serif;
+  --f-ui:"IBM Plex Sans Arabic","Segoe UI","Tahoma",system-ui,sans-serif;
+  --r:10px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1513; --surface:#161f1c; --sunk:#1c2723; --ink:#e5ebe7; --muted:#9aa8a1; --line:#2a3632;
+  --accent:#4cbfa4; --accent-soft:#1d3a33; --on-accent:#08201a; --warn:#f0c46a; --warn-soft:#3a2f17; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1513; --surface:#161f1c; --sunk:#1c2723; --ink:#e5ebe7; --muted:#9aa8a1; --line:#2a3632;
+  --accent:#4cbfa4; --accent-soft:#1d3a33; --on-accent:#08201a; --warn:#f0c46a; --warn-soft:#3a2f17; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-ui);font-size:15px;line-height:1.75}
+*{box-sizing:border-box}
+#app{direction:rtl;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px;max-width:1440px;margin-inline:auto}
+button,select,input{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;padding-bottom:16px;border-bottom:1px solid var(--line);margin-bottom:20px}
+.top h1{font-family:var(--f-quran);font-weight:700;font-size:clamp(28px,4vw,40px);line-height:1.2;margin:0;text-wrap:balance}
+.top h1 small{display:block;font-family:var(--f-ui);font-size:14px;font-weight:500;color:var(--muted);margin-top:4px}
+.surah-pick{display:flex;align-items:center;gap:8px}
+.surah-pick label{color:var(--muted);font-size:13px}
+
+.desk{display:grid;grid-template-columns:300px minmax(0,1fr);gap:24px;align-items:start}
+@media (max-width:900px){.desk{grid-template-columns:minmax(0,1fr)}}
+
+.rail{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);display:flex;flex-direction:column;gap:18px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;max-height:calc(100vh - 24px);overflow:auto}
+@media (max-width:900px){.rail{position:static;max-height:none}}
+.rail h2{font-size:12px;font-weight:600;letter-spacing:.02em;color:var(--muted);margin:0 0 8px;display:flex;justify-content:space-between;align-items:center}
+.rail h2 button{background:none;border:0;color:var(--accent);font-size:12px;cursor:pointer;padding:0}
+.field{display:flex;flex-direction:column;gap:6px}
+.input,select{background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0;width:100%}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.row2 label{font-size:12px;color:var(--muted)}
+
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:3px 10px;cursor:pointer;font-size:13px;line-height:1.6}
+.chip .n{font-variant-numeric:tabular-nums;color:var(--muted);font-size:11px}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.chip[aria-pressed="true"] .n{color:inherit;opacity:.8}
+.chip .dot{width:8px;height:8px;border-radius:50%;background:var(--c);flex:none}
+.chip[disabled]{opacity:.45;cursor:default}
+.hint{font-size:12px;color:var(--muted);margin:6px 0 0}
+
+.bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px}
+.count{font-size:14px;color:var(--muted)}
+.count b{color:var(--ink);font-variant-numeric:tabular-nums}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{border:0;background:var(--surface);padding:6px 12px;cursor:pointer;font-size:13px}
+.seg button[aria-pressed="true"]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.btn{border:1px solid var(--accent);background:var(--accent);color:var(--on-accent);border-radius:8px;padding:6px 14px;cursor:pointer;font-size:13px;font-weight:600}
+.btn.ghost{background:transparent;color:var(--accent)}
+.toast{font-size:12px;color:var(--muted)}
+
+/* ledger table */
+.tablewrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{position:sticky;top:0;background:var(--sunk);text-align:start;font-size:12px;font-weight:600;color:var(--muted);padding:8px 12px;white-space:nowrap}
+td{padding:10px 12px;border-top:1px solid var(--line);vertical-align:top}
+td.num{font-variant-numeric:tabular-nums;font-family:var(--f-quran);font-size:20px;text-align:center;color:var(--accent);width:56px}
+td.txt{min-width:320px;max-width:62ch}
+td.ref{color:var(--muted);font-size:13px;min-width:120px}
+td.srcs{min-width:150px}
+.type{display:inline-flex;align-items:center;gap:6px;font-size:12px;white-space:nowrap;padding:2px 8px;border-radius:6px;background:var(--sunk)}
+.type::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--c)}
+.src{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:6px;padding:0 6px;margin:0 0 4px 4px;white-space:nowrap}
+.src.on{border-color:var(--accent);color:var(--accent)}
+.note{display:block;margin-top:6px;font-size:12.5px;background:var(--warn-soft);color:var(--warn);border-radius:6px;padding:4px 8px}
+.note::before{content:"تنبيه المحرر: ";font-weight:600}
+.shared{font-size:11px;color:var(--muted)}
+@media (max-width:640px){
+  thead{display:none}
+  table,tbody,tr,td{display:block;width:100%}
+  tr{border-top:1px solid var(--line);padding:10px 12px;display:grid;grid-template-columns:auto 1fr;gap:4px 10px}
+  td{border:0;padding:0;min-width:0!important;max-width:none}
+  td.num{grid-row:span 4;font-size:22px;width:auto}
+}
+
+/* ayah view */
+.ayat{display:flex;flex-direction:column;gap:16px}
+.ayah{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.ayah header{display:flex;gap:12px;align-items:flex-start;padding:14px 16px;background:var(--sunk);border-bottom:1px solid var(--line)}
+.ayah .mark{flex:none;width:40px;height:40px;border-radius:50%;border:1.5px solid var(--accent);color:var(--accent);display:grid;place-items:center;font-family:var(--f-quran);font-size:18px;font-weight:700}
+.ayah .q{font-family:var(--f-quran);font-size:24px;line-height:2;margin:0;min-width:0}
+.ayah ul{list-style:none;margin:0;padding:4px 16px 12px}
+.ayah li{padding:10px 0;border-top:1px dashed var(--line);display:flex;flex-direction:column;gap:6px}
+.ayah li:first-child{border-top:0}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px}
+.meta .ref{color:var(--muted)}
+.empty{padding:40px 16px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:var(--r)}
+
+.about{margin-top:28px;font-size:13px;color:var(--muted);max-width:80ch}
+.about h3{font-size:13px;color:var(--ink);margin:0 0 6px}
+.about ul{margin:0;padding-inline-start:18px}
+@media (prefers-reduced-motion:no-preference){.chip,.btn,.seg button{transition:background-color .15s,border-color .15s}}
+</style>
+
+<div id="app">
+  <div class="top">
+    <h1 id="title">فوائد التفاسير<small id="subtitle"></small></h1>
+    <div class="surah-pick"><label for="surah">السورة</label><select id="surah"></select></div>
+  </div>
+
+  <div class="desk">
+    <aside class="rail" aria-label="عوامل التصفية">
+      <div class="field">
+        <h2><span>بحث في النص</span></h2>
+        <input id="q" class="input" type="search" placeholder="مثال: مناكب، قتادة، الملائكة">
+      </div>
+
+      <div class="field">
+        <h2><span>التفاسير</span><button type="button" id="tafAll">الكل</button></h2>
+        <div class="chips" id="tafChips"></div>
+        <label for="mode" class="hint" style="margin-top:8px">طريقة المطابقة</label>
+        <select id="mode">
+          <option value="any">ذكرها أيٌّ من المختار</option>
+          <option value="all">ذكرها كل المختار معًا</option>
+          <option value="unique">انفرد بها تفسير واحد من المختار</option>
+          <option value="shared">مشتركة بين تفسيرين فأكثر</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <h2><span>نوع الفائدة</span><button type="button" id="typeAll">الكل</button></h2>
+        <div class="chips" id="typeChips"></div>
+      </div>
+
+      <div class="field">
+        <h2><span>الآيات</span></h2>
+        <div class="row2">
+          <div class="field"><label for="from">من آية</label><select id="from"></select></div>
+          <div class="field"><label for="to">إلى آية</label><select id="to"></select></div>
+        </div>
+      </div>
+
+      <button type="button" class="btn ghost" id="reset">إعادة ضبط المرشّحات</button>
+    </aside>
+
+    <main style="min-width:0">
+      <div class="bar">
+        <div class="count" id="count"></div>
+        <div class="actions">
+          <div class="seg" role="group" aria-label="طريقة العرض">
+            <button type="button" data-view="table" aria-pressed="true">جدول</button>
+            <button type="button" data-view="ayah" aria-pressed="false">حسب الآية</button>
+          </div>
+          <button type="button" class="btn" id="csv">تنزيل CSV للعرض الحالي</button>
+          <span class="toast" id="toast" role="status"></span>
+        </div>
+      </div>
+      <div id="results"></div>
+
+      <section class="about">
+        <h3>عن هذه البيانات</h3>
+        <ul>
+          <li>كل فائدة مذكورة مرة واحدة، وتحتها أسماء كل التفاسير التي ذكرتها؛ فالتكرار بين التفاسير محذوف.</li>
+          <li>الفوائد ملخّصة بإعادة صياغة مختصرة من نصوص التفاسير (مصدر النصوص: مستودع spa5k/tafsir_api)، فارجع إلى الأصل قبل النقل أو الاستشهاد.</li>
+          <li>ما كُتب تحت «تنبيه المحرر» تعليق إضافي ليس من كلام المفسِّر.</li>
+          <li id="srcNotes"></li>
+        </ul>
+      </section>
+    </main>
+  </div>
+</div>
+
+<script>
+(function(){
+  document.documentElement.setAttribute("dir","rtl");
+  document.documentElement.setAttribute("lang","ar");
+  var ALL = window.TAFSIR_DATA || {};
+  var surahs = Object.keys(ALL).map(Number).sort(function(a,b){return a-b});
+  var $ = function(id){return document.getElementById(id)};
+  var ar = function(n){return Number(n).toLocaleString("ar-EG")};
+  var store = {get:function(k){try{return localStorage.getItem(k)}catch(e){return null}},
+               set:function(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+  function norm(s){return String(s||"").replace(/[ً-ٰٟۖ-ۭـ]/g,"")
+    .replace(/[إأآٱ]/g,"ا").replace(/ى/g,"ي").replace(/ة/g,"ه").replace(/ؤ/g,"و").replace(/ئ/g,"ي").toLowerCase()}
+
+  var D, st = {};
+  function initState(){
+    st = {q:"", taf:new Set(D.tafasir.map(function(t){return t.id})), types:new Set(Object.keys(D.types)),
+          mode:"any", from:1, to:D.ayat.length, view:store.get("tafsir.view")||"table"};
+  }
+  function load(n){
+    D = ALL[n];
+    D.benefits.forEach(function(e){e._n = norm(e.x+" "+(e.r||"")+" "+(e.n||""))});
+    D.tafById = {}; D.tafasir.forEach(function(t){D.tafById[t.id]=t});
+    initState();
+    $("subtitle").textContent = "سورة "+D.name+" · "+ar(D.ayat.length)+" آية · "+ar(D.benefits.length)+" فائدة من "+ar(D.tafasir.length)+" تفاسير";
+    var opts = D.ayat.map(function(_,i){return '<option value="'+(i+1)+'">'+ar(i+1)+'</option>'}).join("");
+    $("from").innerHTML = opts; $("to").innerHTML = opts;
+    $("srcNotes").textContent = "التفاسير: " + D.tafasir.map(function(t){return t.name+" ("+t.full+"، ت "+ar(t.d)+"هـ)"}).join("؛ ")+".";
+    render();
+  }
+
+  function passTaf(e){
+    var hit = e.s.filter(function(s){return st.taf.has(s)});
+    if (st.mode==="any") return hit.length>0;
+    if (st.mode==="all") return st.taf.size>0 && hit.length===st.taf.size;
+    if (st.mode==="unique") return e.s.length===1 && hit.length===1;
+    return e.s.length>1 && hit.length>0;
+  }
+  function passBase(e, skip){
+    if (e.a<st.from || e.a>st.to) return false;
+    if (st.q){ var words = norm(st.q).split(/\s+/).filter(Boolean);
+      for (var i=0;i<words.length;i++) if (e._n.indexOf(words[i])<0) return false; }
+    if (skip!=="type" && !st.types.has(e.t)) return false;
+    if (skip!=="taf" && !passTaf(e)) return false;
+    return true;
+  }
+  function filtered(){return D.benefits.filter(function(e){return passBase(e)})}
+
+  function chipsTaf(){
+    var base = D.benefits.filter(function(e){return passBase(e,"taf")});
+    $("tafChips").innerHTML = D.tafasir.map(function(t){
+      var n = base.filter(function(e){return e.s.indexOf(t.id)>=0}).length;
+      return '<button type="button" class="chip" data-taf="'+t.id+'" aria-pressed="'+st.taf.has(t.id)+'" title="'+esc(t.full+" — "+t.author)+'">'+esc(t.name)+' <span class="n">'+ar(n)+'</span></button>';
+    }).join("");
+  }
+  function chipsType(){
+    var base = D.benefits.filter(function(e){return passBase(e,"type")});
+    $("typeChips").innerHTML = Object.keys(D.types).map(function(k){
+      var n = base.filter(function(e){return e.t===k}).length;
+      return '<button type="button" class="chip" style="--c:'+D.types[k].color+'" data-type="'+k+'" aria-pressed="'+st.types.has(k)+'"><span class="dot"></span>'+esc(D.types[k].name)+' <span class="n">'+ar(n)+'</span></button>';
+    }).join("");
+  }
+  function srcs(e){
+    return e.s.map(function(s){return '<span class="src'+(st.taf.has(s)?" on":"")+'">'+esc(D.tafById[s].name)+'</span>'}).join("")
+      + (e.s.length>1?'<div class="shared">مشتركة بين '+ar(e.s.length)+' تفاسير</div>':"");
+  }
+  function typeTag(e){var t=D.types[e.t];return '<span class="type" style="--c:'+t.color+'">'+esc(t.name)+'</span>'}
+  function note(e){return e.n?'<span class="note">'+esc(e.n)+'</span>':""}
+
+  function render(){
+    chipsTaf(); chipsType();
+    $("q").value = st.q; $("mode").value = st.mode; $("from").value = st.from; $("to").value = st.to;
+    document.querySelectorAll(".seg button").forEach(function(b){b.setAttribute("aria-pressed", b.dataset.view===st.view)});
+    var rows = filtered();
+    var ay = new Set(rows.map(function(e){return e.a})).size;
+    $("count").innerHTML = "<b>"+ar(rows.length)+"</b> فائدة من "+ar(D.benefits.length)+" · في <b>"+ar(ay)+"</b> آية";
+    if (!rows.length){ $("results").innerHTML = '<div class="empty">لا توجد فوائد تطابق هذه المرشّحات. وسّع اختيار التفاسير أو الأنواع، أو اضغط «إعادة ضبط المرشّحات».</div>'; return; }
+    if (st.view==="table"){
+      $("results").innerHTML = '<div class="tablewrap"><table><thead><tr><th>الآية</th><th>النوع</th><th>الفائدة</th><th>الإحالة / المصدر</th><th>التفاسير</th></tr></thead><tbody>'
+        + rows.map(function(e){return '<tr><td class="num" title="'+esc(D.ayat[e.a-1])+'">'+ar(e.a)+'</td><td>'+typeTag(e)+'</td><td class="txt">'+esc(e.x)+note(e)+'</td><td class="ref">'+esc(e.r||"—")+'</td><td class="srcs">'+srcs(e)+'</td></tr>'}).join("")
+        + '</tbody></table></div>';
+    } else {
+      var by = {}; rows.forEach(function(e){(by[e.a]=by[e.a]||[]).push(e)});
+      $("results").innerHTML = '<div class="ayat">'+Object.keys(by).map(Number).sort(function(a,b){return a-b}).map(function(a){
+        return '<article class="ayah"><header><span class="mark">'+ar(a)+'</span><p class="q">'+esc(D.ayat[a-1])+'</p></header><ul>'
+          + by[a].map(function(e){return '<li><div>'+esc(e.x)+note(e)+'</div><div class="meta">'+typeTag(e)+(e.r?'<span class="ref">'+esc(e.r)+'</span>':"")+' '+srcs(e)+'</div></li>'}).join("")
+          + '</ul></article>';
+      }).join("")+'</div>';
+    }
+  }
+
+  function csv(){
+    var rows = filtered();
+    var head = ["السورة","رقم الآية","نص الآية","نوع الفائدة","الفائدة","الإحالة / المصدر","التفاسير","عدد التفاسير","تنبيه المحرر"];
+    var q = function(v){v=String(v==null?"":v);return /[",\r\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v};
+    var lines = [head.map(q).join(",")].concat(rows.map(function(e){
+      return [D.name, e.a, D.ayat[e.a-1], D.types[e.t].name, e.x, e.r||"", e.s.map(function(s){return D.tafById[s].name}).join(" | "), e.s.length, e.n||""].map(q).join(",");
+    }));
+    return {text:"﻿"+lines.join("\r\n"), n:rows.length};
+  }
+  function toast(m){$("toast").textContent=m; clearTimeout(toast.t); toast.t=setTimeout(function(){$("toast").textContent=""},4000)}
+  var dl = null;
+  if (window.claude && window.claude.use) window.claude.use("downloads").then(function(x){dl=x}).catch(function(){});
+  $("csv").addEventListener("click", function(){
+    var c = csv(); if(!c.n){toast("لا توجد صفوف للتنزيل.");return}
+    var name = "tafsir-surah-"+D.surah+"-"+c.n+"-rows.csv";
+    if (dl){ dl.save({filename:name, data:c.text}).then(function(){toast("تم حفظ "+ar(c.n)+" صفًّا.")})
+      .catch(function(err){toast(err&&err.code==="declined"?"أُلغي التنزيل.":"تعذّر التنزيل في هذا العرض.")}); return; }
+    var url = URL.createObjectURL(new Blob([c.text],{type:"text/csv;charset=utf-8"}));
+    var a = document.createElement("a"); a.href=url; a.download=name; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function(){URL.revokeObjectURL(url)},2000); toast("تم تنزيل "+ar(c.n)+" صفًّا.");
+  });
+
+  document.addEventListener("click", function(ev){
+    var b = ev.target.closest("button"); if(!b) return;
+    if (b.dataset.taf){ var k=b.dataset.taf; st.taf.has(k)?st.taf.delete(k):st.taf.add(k); render(); }
+    else if (b.dataset.type){ var t=b.dataset.type; st.types.has(t)?st.types.delete(t):st.types.add(t); render(); }
+    else if (b.dataset.view){ st.view=b.dataset.view; store.set("tafsir.view",st.view); render(); }
+    else if (b.id==="tafAll"){ st.taf = st.taf.size===D.tafasir.length? new Set(): new Set(D.tafasir.map(function(t){return t.id})); render(); }
+    else if (b.id==="typeAll"){ var all=Object.keys(D.types); st.types = st.types.size===all.length? new Set(): new Set(all); render(); }
+    else if (b.id==="reset"){ var v=st.view; initState(); st.view=v; render(); }
+  });
+  var qt; $("q").addEventListener("input", function(e){clearTimeout(qt); qt=setTimeout(function(){st.q=e.target.value.trim(); render(); $("q").focus()},180)});
+  $("mode").addEventListener("change", function(e){st.mode=e.target.value; render()});
+  $("from").addEventListener("change", function(e){st.from=+e.target.value; if(st.to<st.from) st.to=st.from; render()});
+  $("to").addEventListener("change", function(e){st.to=+e.target.value; if(st.from>st.to) st.from=st.to; render()});
+  $("surah").innerHTML = surahs.map(function(n){return '<option value="'+n+'">'+ar(n)+' – '+ALL[n].name+'</option>'}).join("");
+  $("surah").addEventListener("change", function(e){load(+e.target.value)});
+  if (surahs.length) load(surahs[0]); else $("results").innerHTML='<div class="empty">لم تُحمَّل بيانات أي سورة. شغّل scripts/build_data.py ثم scripts/build_site.py.</div>';
+})();
+</script>
