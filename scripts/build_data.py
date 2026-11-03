@@ -12,6 +12,8 @@ import json, sys, pathlib, re
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TAFASIR = json.load(open(ROOT / "data/tafasir.json", encoding="utf-8"))
 TYPES = json.load(open(ROOT / "data/types.json", encoding="utf-8"))
+GROUPS = json.load(open(ROOT / "data/groups.json", encoding="utf-8"))
+MISSING = ["تفسير ابن أبي حاتم", "البيضاوي (أنوار التنزيل)", "الوجيز للواحدي", "تفسير ابن عثيمين"]
 
 # Editor notes (clearly separated from what the tafsir itself says).
 NOTES = {
@@ -24,6 +26,16 @@ NOTES = {
     "mawt-kabsh": "ثبت في الصحيحين أن الموت يُؤتى به يوم القيامة كهيئة كبش أملح فيُذبح، أما وصف الحياة بالفرس فلا يصح.",
     "fadl-ibn-asakir": "أصل فضل السورة ثابت بحديث أبي هريرة عند الترمذي وغيره.",
     "kafir-la-aql": "لا يثبت مرفوعًا.",
+    "jaza-aql": "أحاديث فضل العقل ضعيفة عند أكثر المحدثين، وقال ابن القيم: أحاديث العقل كلها كذب.",
+    "aql-diama": "حديث «لكل شيء دعامة، ودعامة المؤمن عقله» ضعيف جدًا.",
+    "basir-ruya": "إثبات رؤية المؤمنين ربهم في الآخرة ثابت بالنصوص؛ أما الاستدلال بهذه الآية عليه فاجتهاد من الرازي.",
+    "afal-ibad-razi": "مذهب أهل السنة أن الله خالق العباد وأفعالهم، وأن للعبد مشيئة وقدرة حقيقية بها يُثاب ويُعاقب.",
+    "rabb-alamin-main": "لم يثبت في ذلك حديث صحيح، وإنما ذكره بعض المفسرين.",
+    "ruqya-ayn": "الرقية المشروعة ما كان بالقرآن والأدعية المأثورة؛ وهذه حكاية لا يُبنى عليها حكم.",
+    "fadl-laylat-qadr": "موضوع؛ من الأحاديث المختلقة في فضائل السور التي يذكرها بعض المفسرين آخر كل سورة.",
+    "yunus-hadith": "لا أصل له بهذا اللفظ؛ والثابت في الصحيح: «لا ينبغي لعبد أن يقول: أنا خير من يونس بن متى».",
+    "khabaya-ard": "حديث ضعيف، رواه الطبراني وأبو يعلى عن عائشة، وضعّفه المحدثون.",
+    "abu-jald-ard": "لا يصح، وهو من الأخبار المنقولة عن أهل الكتاب.",
 }
 # Text additions merged from a later tafsir into an earlier entry.
 APPEND = {
@@ -79,7 +91,7 @@ def build(surah: int):
                 del e[f]
     quran = json.load(open(ROOT / f"data/quran/{surah}.json", encoding="utf-8"))
     out = {"surah": surah, "name": quran["name"], "ayat": quran["ayat"],
-           "tafasir": TAFASIR, "types": TYPES, "benefits": rows}
+           "tafasir": TAFASIR, "groups": GROUPS, "missing": MISSING, "types": TYPES, "benefits": rows}
     (ROOT / f"data/{surah}.json").write_text(
         json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     site = ROOT / "site/data"
@@ -90,7 +102,7 @@ def build(surah: int):
     multi = sum(len(e["s"]) > 1 for e in rows)
     print(f"surah {surah}: {len(rows)} unique benefits, {multi} shared by 2+ tafsirs")
     for t in TAFASIR:
-        print(f"  {t['name']}: {sum(t['id'] in e['s'] for e in rows)}")
+        print(f"  {t['name']}: {sum(t['id'] in e['s'] for e in rows)}", flush=True)
 
 
 if __name__ == "__main__":

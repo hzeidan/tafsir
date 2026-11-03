@@ -1,11 +1,338 @@
 [
-{"id":"tabari","name":"الطبري","full":"جامع البيان عن تأويل آي القرآن","author":"ابن جرير الطبري","d":310,"src":"ar-tafsir-al-tabari"},
-{"id":"ibnkathir","name":"ابن كثير","full":"تفسير القرآن العظيم","author":"إسماعيل بن كثير","d":774,"src":"ar-tafsir-ibn-kathir"},
-{"id":"qurtubi","name":"القرطبي","full":"الجامع لأحكام القرآن","author":"أبو عبد الله القرطبي","d":671,"src":"ar-tafseer-al-qurtubi"},
-{"id":"baghawi","name":"البغوي","full":"معالم التنزيل","author":"الحسين بن مسعود البغوي","d":516,"src":"ar-tafsir-al-baghawi"},
-{"id":"ibnjawzi","name":"ابن الجوزي","full":"زاد المسير في علم التفسير","author":"أبو الفرج ابن الجوزي","d":597,"src":"tafsir-ibn-al-jawzi"},
-{"id":"ibnashur","name":"ابن عاشور","full":"التحرير والتنوير","author":"محمد الطاهر ابن عاشور","d":1393,"src":"ar-tafseer-tahrir-al-tanwir"},
-{"id":"bahr","name":"البحر المحيط","full":"البحر المحيط","author":"أبو حيان الأندلسي","d":745,"src":"al-bahr-al-muhit"},
-{"id":"adwa","name":"أضواء البيان","full":"أضواء البيان في إيضاح القرآن بالقرآن","author":"محمد الأمين الشنقيطي (وتتمّته لتلميذه عطية محمد سالم من سورة المجادلة)","d":1393,"src":"adwa-al-bayan"},
-{"id":"saadi","name":"السعدي","full":"تيسير الكريم الرحمن","author":"عبد الرحمن بن ناصر السعدي","d":1376,"src":"ar-tafsir-as-saadi"}
+{
+"id": "tabari",
+"name": "الطبري",
+"full": "جامع البيان عن تأويل آي القرآن",
+"author": "ابن جرير الطبري",
+"d": 310,
+"src": "ar-tafsir-al-tabari",
+"g": "asl"
+},
+{
+"id": "ibnkathir",
+"name": "ابن كثير",
+"full": "تفسير القرآن العظيم",
+"author": "إسماعيل بن كثير",
+"d": 774,
+"src": "ar-tafsir-ibn-kathir",
+"g": "asl"
+},
+{
+"id": "qurtubi",
+"name": "القرطبي",
+"full": "الجامع لأحكام القرآن",
+"author": "أبو عبد الله القرطبي",
+"d": 671,
+"src": "ar-tafseer-al-qurtubi",
+"g": "asl"
+},
+{
+"id": "baghawi",
+"name": "البغوي",
+"full": "معالم التنزيل",
+"author": "الحسين بن مسعود البغوي",
+"d": 516,
+"src": "ar-tafsir-al-baghawi",
+"g": "asl"
+},
+{
+"id": "ibnjawzi",
+"name": "ابن الجوزي",
+"full": "زاد المسير في علم التفسير",
+"author": "أبو الفرج ابن الجوزي",
+"d": 597,
+"src": "tafsir-ibn-al-jawzi",
+"g": "asl"
+},
+{
+"id": "ibnashur",
+"name": "ابن عاشور",
+"full": "التحرير والتنوير",
+"author": "محمد الطاهر ابن عاشور",
+"d": 1393,
+"src": "ar-tafseer-tahrir-al-tanwir",
+"g": "asl"
+},
+{
+"id": "bahr",
+"name": "البحر المحيط",
+"full": "البحر المحيط",
+"author": "أبو حيان الأندلسي",
+"d": 745,
+"src": "al-bahr-al-muhit",
+"g": "asl"
+},
+{
+"id": "adwa",
+"name": "أضواء البيان",
+"full": "أضواء البيان في إيضاح القرآن بالقرآن",
+"author": "محمد الأمين الشنقيطي (وتتمّته لتلميذه عطية محمد سالم من سورة المجادلة)",
+"d": 1393,
+"src": "adwa-al-bayan",
+"g": "asl"
+},
+{
+"id": "saadi",
+"name": "السعدي",
+"full": "تيسير الكريم الرحمن",
+"author": "عبد الرحمن بن ناصر السعدي",
+"d": 1376,
+"src": "ar-tafsir-as-saadi",
+"g": "asl"
+},
+{
+"id": "mawsua",
+"name": "موسوعة التفسير المأثور",
+"full": "موسوعة التفسير المأثور",
+"author": "مركز الدراسات والمعلومات القرآنية (معهد الإمام الشاطبي)",
+"d": null,
+"src": "mawsoo-at-al-tafsir-al-ma-thoor",
+"g": "mathur"
+},
+{
+"id": "durr",
+"name": "الدر المنثور",
+"full": "الدر المنثور في التفسير بالمأثور",
+"author": "جلال الدين السيوطي",
+"d": 911,
+"src": "al-durr-al-manthur",
+"g": "mathur",
+"note": "يقتصر على الآيات التي وردت فيها روايات"
+},
+{
+"id": "thalabi",
+"name": "الثعلبي",
+"full": "الكشف والبيان عن تفسير القرآن",
+"author": "أحمد بن محمد الثعلبي",
+"d": 427,
+"src": "ar-tafsir-al-tha-alibi",
+"g": "mathur"
+},
+{
+"id": "ibnabizamanin",
+"name": "ابن أبي زمنين",
+"full": "تفسير القرآن العزيز",
+"author": "ابن أبي زمنين",
+"d": 399,
+"src": "tafsir-ibn-abi-zamanin",
+"g": "mathur"
+},
+{
+"id": "samani",
+"name": "السمعاني",
+"full": "تفسير القرآن",
+"author": "أبو المظفر السمعاني",
+"d": 489,
+"src": "tafsir-al-sam-ani",
+"g": "mathur"
+},
+{
+"id": "samarqandi",
+"name": "السمرقندي",
+"full": "بحر العلوم",
+"author": "أبو الليث السمرقندي",
+"d": 373,
+"src": "tafsir-al-samarqandi",
+"g": "mathur"
+},
+{
+"id": "razi",
+"name": "الرازي",
+"full": "مفاتيح الغيب (التفسير الكبير)",
+"author": "فخر الدين الرازي",
+"d": 606,
+"src": "tafsir-al-razi",
+"g": "jami"
+},
+{
+"id": "alusi",
+"name": "الألوسي",
+"full": "روح المعاني",
+"author": "شهاب الدين الألوسي",
+"d": 1270,
+"src": "tafsir-al-alusi",
+"g": "jami"
+},
+{
+"id": "shawkani",
+"name": "الشوكاني",
+"full": "فتح القدير",
+"author": "محمد بن علي الشوكاني",
+"d": 1250,
+"src": "fath-al-qadir-al-shawkani",
+"g": "jami"
+},
+{
+"id": "qasimi",
+"name": "القاسمي",
+"full": "محاسن التأويل",
+"author": "جمال الدين القاسمي",
+"d": 1332,
+"src": "mahasin-al-ta-wil-al-qasimi",
+"g": "jami"
+},
+{
+"id": "ibnatiyya",
+"name": "ابن عطية",
+"full": "المحرر الوجيز",
+"author": "عبد الحق بن عطية",
+"d": 542,
+"src": "al-muharrar-al-wajiz-ibn-atiyyah",
+"g": "jami"
+},
+{
+"id": "basit",
+"name": "البسيط",
+"full": "التفسير البسيط",
+"author": "أبو الحسن الواحدي",
+"d": 468,
+"src": "al-basit",
+"g": "jami",
+"note": "النص المتاح في المصدر يغطي 6 آيات فقط من السورة"
+},
+{
+"id": "lubab",
+"name": "اللباب",
+"full": "اللباب في علوم الكتاب",
+"author": "ابن عادل الحنبلي",
+"d": 775,
+"src": "al-lubab-fi-ulum-al-kitab",
+"g": "jami"
+},
+{
+"id": "ibnqayyim",
+"name": "ابن القيم",
+"full": "تفسير ابن القيم (المجموع من كتبه)",
+"author": "ابن قيم الجوزية",
+"d": 751,
+"src": "tafsir-ibn-al-qayyim",
+"g": "jami",
+"note": "مجموع من كتبه، يتناول بعض الآيات"
+},
+{
+"id": "qinnawji",
+"name": "القنوجي",
+"full": "فتح البيان في مقاصد القرآن",
+"author": "صديق حسن خان القنوجي",
+"d": 1307,
+"src": "fath-al-bayan-li-al-qanuji",
+"g": "jami"
+},
+{
+"id": "wasit",
+"name": "الوسيط",
+"full": "التفسير الوسيط",
+"author": "محمد سيد طنطاوي",
+"d": 1431,
+"src": "ar-tafsir-al-wasit",
+"g": "mukhtasar"
+},
+{
+"id": "muyassar",
+"name": "الميسر",
+"full": "التفسير الميسر",
+"author": "نخبة من العلماء (مجمع الملك فهد)",
+"d": null,
+"src": "ar-tafsir-muyassar",
+"g": "mukhtasar"
+},
+{
+"id": "mukhtasar",
+"name": "المختصر",
+"full": "المختصر في التفسير",
+"author": "مركز تفسير للدراسات القرآنية",
+"d": null,
+"src": "ar-tafsir-al-mukhtasar",
+"g": "mukhtasar"
+},
+{
+"id": "jalalayn",
+"name": "الجلالين",
+"full": "تفسير الجلالين",
+"author": "المحلي والسيوطي",
+"d": 911,
+"src": "ar-tafsir-al-jalalayn",
+"g": "mukhtasar"
+},
+{
+"id": "nasafi",
+"name": "النسفي",
+"full": "مدارك التنزيل",
+"author": "أبو البركات النسفي",
+"d": 710,
+"src": "tafsir-al-nasafi",
+"g": "mukhtasar"
+},
+{
+"id": "abusuud",
+"name": "أبو السعود",
+"full": "إرشاد العقل السليم",
+"author": "أبو السعود العمادي",
+"d": 982,
+"src": "tafsir-abi-al-su-ood",
+"g": "mukhtasar"
+},
+{
+"id": "ibnjuzay",
+"name": "ابن جزي",
+"full": "التسهيل لعلوم التنزيل",
+"author": "ابن جزي الكلبي",
+"d": 741,
+"src": "tafsir-ibn-juzay",
+"g": "mukhtasar"
+},
+{
+"id": "jamiwajiz",
+"name": "الجامع الوجيز",
+"full": "التفسير الجامع الوجيز",
+"author": "غير مسمّى في المصدر",
+"d": null,
+"src": "ar-tafsir-al-jami-al-wajiz",
+"g": "mukhtasar"
+},
+{
+"id": "jazairi",
+"name": "أيسر التفاسير",
+"full": "أيسر التفاسير لكلام العلي الكبير",
+"author": "أبو بكر جابر الجزائري",
+"d": 1439,
+"src": "abu-bakr-jabir-al-jazairi",
+"g": "mukhtasar"
+},
+{
+"id": "mawardi",
+"name": "الماوردي",
+"full": "النكت والعيون",
+"author": "أبو الحسن الماوردي",
+"d": 450,
+"src": "tafsir-al-mawardi",
+"g": "mukhtasar"
+},
+{
+"id": "thaalibi",
+"name": "الثعالبي",
+"full": "الجواهر الحسان",
+"author": "عبد الرحمن الثعالبي",
+"d": 875,
+"src": "ar-tafsir-al-tha-alibi-527",
+"g": "mukhtasar"
+},
+{
+"id": "iji",
+"name": "الإيجي",
+"full": "جامع البيان في تفسير القرآن",
+"author": "محمد بن عبد الرحمن الإيجي",
+"d": 905,
+"src": "jamia-al-bayan-aliji",
+"g": "mukhtasar"
+},
+{
+"id": "makki",
+"name": "مكي",
+"full": "الهداية إلى بلوغ النهاية",
+"author": "مكي بن أبي طالب",
+"d": 437,
+"src": "tafsir-makhi",
+"g": "mukhtasar"
+}
 ]
