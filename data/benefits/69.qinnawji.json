@@ -388,5 +388,447 @@
 "a": 52,
 "t": "tafsir",
 "x": "«فسبح باسم ربك العظيم»: نزّهه عما لا يليق به، وقيل: صلِّ لربك، وقيل: هو قول «سبحان الله» (والأول أولى عند القنوجي)."
+},
+{
+"k": "haqqa-maana"
+},
+{
+"k": "haqqa-isnad-majazi"
+},
+{
+"k": "haqqa-lugha-arab"
+},
+{
+"k": "haqqa-basit-nazm"
+},
+{
+"k": "haqqa-ism-qiyama"
+},
+{
+"k": "adad-ay-qurtubi"
+},
+{
+"k": "adad-ay-bahr"
+},
+{
+"k": "haqqa-irab-mubtada"
+},
+{
+"k": "ma-sifa-hal"
+},
+{
+"k": "ma-adraka-kunh"
+},
+{
+"k": "qaria-qura-mubarrad"
+},
+{
+"k": "qaria-ibn-ashur"
+},
+{
+"k": "thamud-ad-istinaf"
+},
+{
+"k": "thamud-ad-tarid"
+},
+{
+"k": "taghiya-aqir"
+},
+{
+"k": "rida-bil-fil"
+},
+{
+"k": "taghiya-masdar"
+},
+{
+"k": "taghiya-tibaq-alusi"
+},
+{
+"k": "saba-dabur"
+},
+{
+"k": "atiya-bulugh"
+},
+{
+"k": "atiya-ghaliba"
+},
+{
+"k": "rih-khatam"
+},
+{
+"k": "husum-ishtiqaq"
+},
+{
+"k": "husum-ayyam-istiab"
+},
+{
+"k": "awwal-arbia-shawwal"
+},
+{
+"k": "fiha-ihtimal"
+},
+{
+"k": "sara-maut"
+},
+{
+"k": "nakhl-tadhkir"
+},
+{
+"k": "nakhl-munqair"
+},
+{
+"k": "baqiya-bahr"
+},
+{
+"k": "qablahu-abu-ubayd"
+},
+{
+"k": "mutafikat-umam"
+},
+{
+"k": "mutafikat-ishtiqaq"
+},
+{
+"k": "mutafika-ibn-zayd"
+},
+{
+"k": "mutafikat-majaz"
+},
+{
+"k": "khatia"
+},
+{
+"k": "khatia-takdhib"
+},
+{
+"k": "rasul-alusi"
+},
+{
+"k": "rabiya"
+},
+{
+"k": "tagha-ghadab"
+},
+{
+"k": "jariya"
+},
+{
+"k": "fi-hal-isma"
+},
+{
+"k": "tadhkira-zajjaj-tarjih"
+},
+{
+"k": "wajh-tadhkir-qudra"
+},
+{
+"k": "udhun-waiya"
+},
+{
+"k": "tayha-qiraat-bahr"
+},
+{
+"k": "waiya-alusi"
+},
+{
+"k": "nafkha-ula-alusi"
+},
+{
+"k": "nufikha-tadhkir"
+},
+{
+"k": "nafkha-nasb"
+},
+{
+"k": "hummilat-tashdid"
+},
+{
+"k": "dakka-bast"
+},
+{
+"k": "wahiya-ihn"
+},
+{
+"k": "wahiya-tashaqquq"
+},
+{
+"k": "wahiya-suf"
+},
+{
+"k": "wahiya"
+},
+{
+"k": "arjaa-ma-lam-yahi"
+},
+{
+"k": "rajan-raja"
+},
+{
+"k": "arjaa-iltija"
+},
+{
+"k": "arjaa-khilaf"
+},
+{
+"k": "karubiyyun-kalbi"
+},
+{
+"k": "hamalat-arba-thamaniya"
+},
+{
+"k": "ard-thalath-takhrij"
+},
+{
+"k": "la-takhfa-dhawat"
+},
+{
+"k": "khafiya-nafs"
+},
+{
+"k": "yakhfa-ya"
+},
+{
+"k": "haum-ibn-sikkit"
+},
+{
+"k": "ha-sakt-abu-hatim"
+},
+{
+"k": "kitabiyah-amil"
+},
+{
+"k": "zanantu-yaqin"
+},
+{
+"k": "zann-mumin-kafir"
+},
+{
+"k": "husn-zann-hasan"
+},
+{
+"k": "zann-razi-wujuh"
+},
+{
+"k": "radiya-majaz-aqli"
+},
+{
+"k": "aliya-azima"
+},
+{
+"k": "qutuf-muttakiin"
+},
+{
+"k": "qutuf-baraa"
+},
+{
+"k": "kulu-jam"
+},
+{
+"k": "haniyan-takdir"
+},
+{
+"k": "aslaftum"
+},
+{
+"k": "ayyam-sawm"
+},
+{
+"k": "tamanni-qabaih"
+},
+{
+"k": "qadiya-qatada"
+},
+{
+"k": "sultan-quwa"
+},
+{
+"k": "sultaniya-jawarih"
+},
+{
+"k": "thumma-rutbi"
+},
+{
+"k": "thumma-zamani"
+},
+{
+"k": "jahim-shat-musliya"
+},
+{
+"k": "jahim-tabaqa"
+},
+{
+"k": "silsila-musalsal"
+},
+{
+"k": "silsila-nawf"
+},
+{
+"k": "halqa-muqatil"
+},
+{
+"k": "sabun-haqiqa-mubalagha"
+},
+{
+"k": "fa-la-tamna"
+},
+{
+"k": "silsila-infirad"
+},
+{
+"k": "silsila-jarad"
+},
+{
+"k": "fasulkuh-zahir"
+},
+{
+"k": "la-yahuddu"
+},
+{
+"k": "abu-darda-maraajil"
+},
+{
+"k": "kufr-bukhl"
+},
+{
+"k": "hamim-shafaa"
+},
+{
+"k": "hamim-har"
+},
+{
+"k": "ghislin-qatada-ibnzayd"
+},
+{
+"k": "ghislin"
+},
+{
+"k": "ghislin-taqdim-rad"
+},
+{
+"k": "hamim-abu-baqa"
+},
+{
+"k": "khatiun"
+},
+{
+"k": "khatiun-qiraat"
+},
+{
+"k": "la-uqsim-nafy"
+},
+{
+"k": "nafy-qasam-rad"
+},
+{
+"k": "rasul-risala-tilawa"
+},
+{
+"k": "qalilan-ma"
+},
+{
+"k": "qalil-nafy"
+},
+{
+"k": "qalil-irab-bahr"
+},
+{
+"k": "ma-zaida-qalil"
+},
+{
+"k": "la-uqsim-sabab"
+},
+{
+"k": "aqawil-tahqir"
+},
+{
+"k": "yamin-qatl-sabr"
+},
+{
+"k": "watin"
+},
+{
+"k": "watin-qalb-maraq"
+},
+{
+"k": "watin-aqwal"
+},
+{
+"k": "watin-abhar"
+},
+{
+"k": "hasra-dawla"
+},
+{
+"k": "haqq-yaqin-alusi"
+},
+{
+"k": "haqq-yaqin-idafa"
+},
+{
+"k": "haqqa-sihah-kisai",
+"a": 1,
+"t": "lugha",
+"x": "في الصحاح: «حاقّه» خاصمه في صغار الأشياء، ويقال: ما له فيها حقّ ولا حِقاق ولا خصومة، والتحاقّ: التخاصم؛ والحاقّة والحِقّة والحقّ ثلاث لغات بمعنى؛ وقال الكسائي والمؤرّج: الحاقة يوم الحق."
+},
+{
+"k": "nuh-safina-tair",
+"a": 11,
+"t": "tafsir",
+"x": "سُمّيت سفينة نوح «جارية» لأنها تجري في الماء، ونوح أول من صنع السفن، وقيل: كان جبريل يعلّمه صنعتها فاتخذها على هيئة صدر الطائر ليكون ما يجري في الماء مقاربًا لما يجري في الهواء (القنوجي)."
+},
+{
+"k": "humilat-bad-qubur",
+"a": 14,
+"t": "tafsir",
+"x": "رفع الأرض والجبال من أماكنها يكون بعد خروج الناس من قبورهم (القنوجي)."
+},
+{
+"k": "zann-ghalib-nasafi",
+"a": 20,
+"t": "lugha",
+"x": "قال النسفي: إنما أُجري الظن مجرى العلم في «إني ظننت» لأن الظن الغالب يقوم مقام العلم في العبادات والأحكام، ولأن ما يُدرك بالاجتهاد قلّما يخلو عن الوساوس والخواطر المفضية إلى الظنون، فجاز إطلاق لفظ الظن عليه لما لا يخلو عنه."
+},
+{
+"k": "radiya-ghayat-saada",
+"a": 21,
+"t": "balagha",
+"x": "العرب لا تعبّر عن أكثر السعادات بأكثر من «العيشة الراضية»، والمعتبر في كمال اللذة الرضا؛ وقيل: المعنى أنه لو كان للمعيشة عقل لرضيت لنفسها بحالتها."
+},
+{
+"k": "maliyah-kalima-wahida",
+"a": 28,
+"t": "lugha",
+"x": "صيغة الخطاب تقتضي أن «مالي» في «ما أغنى عني ماليه» كلمة واحدة بمعنى المال، أي: أي شيء أغنى عني مالي الذي منعت منه حق الفقراء وتعظّمت به على عباد الله؟ وفي أبي السعود: ما كان لي من اليسار."
+},
+{
+"k": "silsila-ibn-jurayj",
+"a": 32,
+"t": "athar",
+"x": "ابن جريج في السلسلة التي «ذرعها سبعون ذراعًا»: لا يعرف قدرها إلا الله.",
+"r": "ابن جريج"
+},
+{
+"k": "fasulkuh-silk-khurz",
+"a": 32,
+"t": "balagha",
+"x": "«فاسلكوه»: اجعلوه فيها بحيث يكون كأنه السِّلك، أي الخيط الذي يُدخل في ثقب الخرزات بعسر لضيق الثقب، إما بإحاطتها بعنقه أو بجميع بدنه بأن تُلفّ عليه؛ يقال: سلكته الطريق إذا أدخلته فيه."
+},
+{
+"k": "hadd-tahdid",
+"a": 34,
+"t": "lugha",
+"x": "الحضّ: البعث والحثّ على الفعل والحرص على وقوعه، ومنه حروف التحضيض المبوّب لها في النحو لأنه يُطلب بها وقوع الفعل؛ ويجوز في «طعام المسكين» تقدير مضاف أي: على بذل طعام المسكين، والإضافة إليه لكونه مستحقه وآخذه فهي لأدنى ملابسة."
+},
+{
+"k": "karim-masawi",
+"a": 40,
+"t": "lugha",
+"x": "«رسول كريم»: كريم على الله، في غاية الكرم الذي هو البعد عن مساوئ الأخلاق."
+},
+{
+"k": "tadhkira-atf-jawab",
+"a": 48,
+"t": "irab",
+"x": "الظاهر أن «وإنه لتذكرة للمتقين» وما بعده معطوف على جواب القسم السابق «إنه لقول رسول كريم» فهو من جملة المقسم عليه، وما بينهما اعتراض؛ والمتقون خُصّوا لأنهم المنتفعون به لإقبالهم عليه إقبال مستفيد."
 }
 ]

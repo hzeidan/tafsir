@@ -66,12 +66,6 @@
 "k": "nafkha-ula-alusi"
 },
 {
-"k": "humilat-asbab"
-},
-{
-"k": "dukkata-tathniya"
-},
-{
 "k": "waqia"
 },
 {
@@ -117,15 +111,6 @@
 "k": "qutuf-insan"
 },
 {
-"k": "haniyan-irab"
-},
-{
-"k": "islaf-ishtiqaq"
-},
-{
-"k": "kulu-ifrad-jam"
-},
-{
 "k": "tamanni-ilm"
 },
 {
@@ -150,9 +135,6 @@
 "k": "sabun-kathra"
 },
 {
-"k": "azim-wifaq"
-},
-{
 "k": "kufr-bukhl"
 },
 {
@@ -171,9 +153,6 @@
 "k": "tubsirun-jam-muqsam"
 },
 {
-"k": "la-uqsim-tahqiq"
-},
-{
 "k": "rasul-karim-ibn-ashur"
 },
 {
@@ -181,9 +160,6 @@
 },
 {
 "k": "qalil-tamlih"
-},
-{
-"k": "iman-shir-tadhakkur-kahana"
 },
 {
 "k": "tanzil-tasrih"
@@ -208,9 +184,6 @@
 },
 {
 "k": "hajizin-maana"
-},
-{
-"k": "tadhkira-sharaf"
 },
 {
 "k": "tibaq-tadhkira-hasra"
@@ -241,5 +214,351 @@
 "a": 52,
 "t": "irab",
 "x": "الفاء في «فسبّح» للإفصاح: إذا كان الأمر كما ذكرنا من أن الدين حق والبعث حق والقرآن حق فنزّه ربك العظيم عما لا يليق به في الاعتقاد والعبادة والقول والفعل، تنزيهًا مصحوبًا بالطاعة والإخلاص والمراقبة."
+},
+{
+"k": "haqqa-sigha"
+},
+{
+"k": "haqqa-wujuh-tasmiya"
+},
+{
+"k": "haqqa-azhari"
+},
+{
+"k": "ma-adraka-kunh"
+},
+{
+"k": "haqqa-tarwi"
+},
+{
+"k": "izhar-tahwil"
+},
+{
+"k": "ma-adraka-ghayr-muayyan"
+},
+{
+"k": "manazil-thamud-ad"
+},
+{
+"k": "qaria-ibn-ashur"
+},
+{
+"k": "thamud-nasab"
+},
+{
+"k": "taghiya-rajfa"
+},
+{
+"k": "husum-ishtiqaq"
+},
+{
+"k": "husum-qat"
+},
+{
+"k": "husum-majaz-mursal"
+},
+{
+"k": "husum-irab"
+},
+{
+"k": "fiha-ihtimal"
+},
+{
+"k": "sara"
+},
+{
+"k": "mutafika-ibn-zayd"
+},
+{
+"k": "mutafikat-ishtiqaq"
+},
+{
+"k": "mutafikat-majaz"
+},
+{
+"k": "firawn-mutafikat-takhsis"
+},
+{
+"k": "khatia"
+},
+{
+"k": "rabiya-razi"
+},
+{
+"k": "akhdha-rabiya-istiara"
+},
+{
+"k": "tagha-maa"
+},
+{
+"k": "jariya-ism"
+},
+{
+"k": "tadhkira-zajjaj-tarjih"
+},
+{
+"k": "udhun-tankir"
+},
+{
+"k": "wahida-tawkid"
+},
+{
+"k": "wahida-tajib"
+},
+{
+"k": "humilat-rufiat"
+},
+{
+"k": "jawab-idha-nasafi"
+},
+{
+"k": "tuaradun-jawab"
+},
+{
+"k": "wahiya-ihn"
+},
+{
+"k": "malak-jins"
+},
+{
+"k": "arjaa"
+},
+{
+"k": "rajan-raja"
+},
+{
+"k": "thamaniya-khilaf"
+},
+{
+"k": "arsh-ghayb-qasimi"
+},
+{
+"k": "arjaa-ma-lam-yahi"
+},
+{
+"k": "fawqahum-razi"
+},
+{
+"k": "khafiya-nafs"
+},
+{
+"k": "amma-tafsil"
+},
+{
+"k": "suhuf-tadad"
+},
+{
+"k": "yamin-najat"
+},
+{
+"k": "haum-lughat"
+},
+{
+"k": "haum-farah"
+},
+{
+"k": "zanantu-yaqin"
+},
+{
+"k": "zann-mumin-kafir"
+},
+{
+"k": "radiya-wujuh"
+},
+{
+"k": "radiya-majaz-aqli"
+},
+{
+"k": "qutuf"
+},
+{
+"k": "aslaftum"
+},
+{
+"k": "dukhul-rahma"
+},
+{
+"k": "muqabala-saada-shaqa"
+},
+{
+"k": "qadiya-qatada"
+},
+{
+"k": "qadiya-hala"
+},
+{
+"k": "ma-aghna-istifham"
+},
+{
+"k": "ma-aghna-mali"
+},
+{
+"k": "sultaniya-khilaf"
+},
+{
+"k": "khudhuh-khazana"
+},
+{
+"k": "jahim-shat-musliya"
+},
+{
+"k": "silsila-halaq"
+},
+{
+"k": "fasulkuh-zahir"
+},
+{
+"k": "sabun-alf-malak"
+},
+{
+"k": "la-yumin-illa"
+},
+{
+"k": "la-yahuddu"
+},
+{
+"k": "hamim"
+},
+{
+"k": "hamim-zukhruf"
+},
+{
+"k": "khatiun-kafirun"
+},
+{
+"k": "khatm-tazim-quran"
+},
+{
+"k": "la-uqsim-khilaf"
+},
+{
+"k": "la-uqsim-nafy"
+},
+{
+"k": "rasul-karim-muhammad"
+},
+{
+"k": "rasul-malaki-bashari"
+},
+{
+"k": "tawkid-inna-lam"
+},
+{
+"k": "kahin-tarif"
+},
+{
+"k": "ma-zaida-qalil"
+},
+{
+"k": "qalil-rujua"
+},
+{
+"k": "taqawwul-sigha"
+},
+{
+"k": "yamin-ibn-ashur"
+},
+{
+"k": "yamin-qatl-sabr"
+},
+{
+"k": "watin"
+},
+{
+"k": "watin-warid-iji"
+},
+{
+"k": "anhu-damir"
+},
+{
+"k": "mutanabbi-halak"
+},
+{
+"k": "tadhkira-muttaqin"
+},
+{
+"k": "mukadhdhibin-waid"
+},
+{
+"k": "hasra-dawla"
+},
+{
+"k": "haqq-yaqin"
+},
+{
+"k": "maratib-yaqin-sufiyya"
+},
+{
+"k": "ma-adraka-ibn-abbas-tahwil",
+"a": 3,
+"t": "lugha",
+"x": "رُوي عن ابن عباس: كل شيء من القرآن من قوله «وما أدراك» فقد أدراه، وكل شيء من قوله «وما يدريك» فقد طُوي عنه؛ قال الطنطاوي: فإن صحّ عنه فمراده أن مفعول «ما أدراك» محقق الوقوع لأن الاستفهام فيه للتهويل، ومفعول «ما يدريك» غير محقق لأن الاستفهام فيه للإنكار بمعنى نفي الدراية، كقوله ﴿وما أدراك ما هيه نار حامية﴾ و﴿وما يدريك لعل الساعة قريب﴾.",
+"r": "ابن عباس"
+},
+{
+"k": "takrar-ma-tahwil",
+"a": 3,
+"t": "balagha",
+"x": "من مظاهر التهويل في مطلع السورة: افتتاحها بلفظ «الحاقة» الدال على أن القيامة حق، وتكرار «ما» ثلاث مرات، وإعادة المبتدأ بلفظه؛ والمعنى: أتدري أي شيء عظيم هو؟ وكيف تدري ونحن لم نُحط أحدًا بكنهه ولا بزمان وقوعه؟"
+},
+{
+"k": "thamud-thamad-qura-salih",
+"a": 4,
+"t": "tafsir",
+"x": "ثمود قوم صالح، سُمّوا باسم جدّهم، وقيل لقلة المياه في مساكنهم من «الثَّمَد» وهو الماء القليل، ومساكنهم بين الحجاز والشام وما زالت معروفة باسم «قرى صالح» بين الأردن والسعودية؛ وعاد سُمّوا باسم جدّهم ومساكنهم بالأحقاف باليمن (جمع حِقف: الرمل الكثير المائل)، وينتهي نسب القبيلتين إلى نوح عليه السلام (الطنطاوي)."
+},
+{
+"k": "tara-istihdar-tashni",
+"a": 7,
+"t": "balagha",
+"x": "عبّر بـ«فترى القوم» لاستحضار صورتهم في الأذهان ليزداد المخاطب اعتبارًا، والتشبيه «كأنهم أعجاز نخل خاوية» مقصوده تشنيع صورتهم والتنفير من مصيرهم، لأن من كان هذا مصيره كان جديرًا بأن تُجتنب أفعاله التي أدّت به إليه."
+},
+{
+"k": "khawiya-khawa-najm",
+"a": 7,
+"t": "lugha",
+"x": "«خاوية»: ساقطة، من «خوى النجم» إذا سقط للغروب، أو من «خوى المكان» إذا خلا من أهله؛ و«صرعى» جمع صريع كقتيل وقتلى؛ والأعجاز: جذوع النخل التي قُطعت رؤوسها، شُبّهوا بها في ضخامة أجسادهم."
+},
+{
+"k": "rasul-rabbihim-idafa",
+"a": 10,
+"t": "balagha",
+"x": "قال «فعصوا رسول ربهم» ولم يقل «رسولهم» للإشعار بأنهم لم يكتفوا بمعصية رسول بشر مثلهم، بل تجاوزوا إلى الاستخفاف بما جاءهم به من عند ربهم وخالقهم؛ والتعبير بالأخذ للإشعار بسرعة الإهلاك وشدته."
+},
+{
+"k": "wahiya-qayd-tari",
+"a": 16,
+"t": "balagha",
+"x": "قيّد الوهي بقوله «يومئذ» للإشارة إلى أنه ضعف طارئ حدث بسبب النفخ في الصور، أما قبل ذلك فكانت السماء في نهاية الإحكام والقوة؛ وكل ذلك تهويل لشأن النفخة ومقدمات الساعة ليستعد الناس لها."
+},
+{
+"k": "hamalat-ahadith-daifa",
+"a": 17,
+"t": "hadith",
+"x": "قال الطنطاوي: وردت في صفة الملائكة الثمانية حملة العرش أحاديث ضعيفة، لذا ضربنا صفحًا عن ذكرها؛ ونؤمن بأن لله عرشًا ونفوّض معرفة هيئته وكنهه إليه سبحانه."
+},
+{
+"k": "ard-jamal-askar",
+"a": 18,
+"t": "tafsir",
+"x": "قال الجمل: «يومئذ تعرضون» أي تُسألون وتُحاسبون، وعبّر عنه بالعرض تشبيهًا بعرض السلطان العسكر والجند لينظر في أمرهم فيختار المصلح للتقريب والإكرام والمفسد للإبعاد والتعذيب."
+},
+{
+"k": "ma-aghna-hadhf-mafool",
+"a": 28,
+"t": "irab",
+"x": "«ما أغنى عني ماليه»: «ما» نافية والمفعول محذوف للتعميم، أي لم يغن عني شيئًا من عذاب الله ولو منفعة قليلة؛ ويجوز أن تكون استفهامية للتوبيخ."
+},
+{
+"k": "khudhuh-istinaf-bayani",
+"a": 30,
+"t": "irab",
+"x": "«خذوه» معمول لقول محذوف، وهو جواب عن سؤال نشأ مما سبق، كأنه قيل: وماذا يُفعل به بعد هذا التحسّر والتفجّع؟ فكان الجواب أمر الله ملائكته: «خذوه فغلّوه»."
+},
+{
+"k": "taqawwul-tahdid-dalil",
+"a": 44,
+"t": "tafsir",
+"x": "في آيات «ولو تقوّل علينا...» أقوى الأدلة على أن القرآن من عند الله، إذ لو كان من تأليف الرسول ﷺ كما زعموا لما نطق بألفاظ فيها تهديده ووعيده؛ وفيها إشارة إلى أنه ﷺ لم يتقوّل شيئًا بل بلّغه دون أن يزيد حرفًا أو ينقص حرفًا."
 }
 ]
