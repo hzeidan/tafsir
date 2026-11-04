@@ -1,0 +1,621 @@
+[
+{
+"k": "makkiyya"
+},
+{
+"k": "lubab-adad",
+"a": 1,
+"t": "fadl",
+"x": "ابن عادل: سورة النازعات مكية، ست وأربعون آية، ومائة وسبعون كلمة، وسبعمائة وثلاثون حرفًا."
+},
+{
+"k": "gharqan-hal"
+},
+{
+"k": "qasam-qiyama-haqq"
+},
+{
+"k": "naziat-aqwal"
+},
+{
+"k": "naziat-ibn-masud-kuffar"
+},
+{
+"k": "naziat-said-kuffar"
+},
+{
+"k": "naziat-kafir-yara-yaghriq"
+},
+{
+"k": "naziat-suddi-sadr"
+},
+{
+"k": "naziat-nujum-nazaa-dhahaba"
+},
+{
+"k": "ighraq-qaws"
+},
+{
+"k": "naziat-ghuzat-wahsh"
+},
+{
+"k": "nasht-hamza-salb",
+"a": 2,
+"t": "lugha",
+"x": "«نشطا وسبحا وسبقا» مصادر؛ والنشط: الربط، والإنشاط: الحل، فالهمزة في «أنشط» للسلب، ومنه «كأنما أنشط من عقال»، ونشط أيضًا: ذهب بسرعة، ومنه بقر الوحش النواشط."
+},
+{
+"k": "nasht-jadhb-lugha"
+},
+{
+"k": "nashitat-mumin-janna"
+},
+{
+"k": "nashitat-kuffar-aqab"
+},
+{
+"k": "nashitat-malaika-nashat"
+},
+{
+"k": "nashitat-aqwal"
+},
+{
+"k": "nashitat-nujum-burj"
+},
+{
+"k": "naz-shidda-nasht-rifq"
+},
+{
+"k": "sabihat-arwah-muminin"
+},
+{
+"k": "sabihat-malaika-nuzul"
+},
+{
+"k": "sabihat-khayl"
+},
+{
+"k": "sabihat-nujum-quran"
+},
+{
+"k": "sabihat-aqwal"
+},
+{
+"k": "sabihat-arwah-shawq"
+},
+{
+"k": "sabiqat-wahy-shayatin"
+},
+{
+"k": "sabiqat-arwah-janna"
+},
+{
+"k": "sabiqat-aqwal"
+},
+{
+"k": "sabiqat-fa-sababiyya"
+},
+{
+"k": "fa-wahidi-itirad"
+},
+{
+"k": "amran-hal-baid",
+"a": 5,
+"t": "irab",
+"x": "«أمرا» مفعول به للمدبرات، وقيل: حال أي تدبّره مأمورات، وهو بعيد."
+},
+{
+"k": "mudabbirat-kawakib"
+},
+{
+"k": "samin-mawsufat",
+"a": 5,
+"t": "khilaf",
+"x": "قال شهاب الدين السمين: المراد بهذه المذكورات في جميع القسم إما طوائف الملائكة، وإما خيل الغزاة، وإما النجوم، وإما المنايا، وإما بقر الوحش وما جرى مجراها لسرعتها، وإما أرواح المؤمنين."
+},
+{
+"k": "mudabbirat-idafa-majaz"
+},
+{
+"k": "mudabbirat-riyah-amtar"
+},
+{
+"k": "mudabbirat-arbaa"
+},
+{
+"k": "amr-ifrad-jins"
+},
+{
+"k": "qasam-makhluq"
+},
+{
+"k": "jawab-qasam-khilaf"
+},
+{
+"k": "jawab-lanunfikhanna"
+},
+{
+"k": "yawm-mutasi-nafkhatayn"
+},
+{
+"k": "jawab-qasam-aqwal-ukhra"
+},
+{
+"k": "hal-qad-istifham-kashshaf",
+"a": 15,
+"t": "irab",
+"x": "جعل «هل أتاك» جواب القسم لأن «هل» بمعنى «قد» غلط، لأن «هل» لا تكون بمعنى «قد» إلا في الاستفهام كما قال الزمخشري في ﴿هل أتى﴾."
+},
+{
+"k": "jawab-tatbauha-lam",
+"a": 7,
+"t": "irab",
+"x": "وقيل: الجواب «تتبعها» والأصل: ليوم ترجف الراجفة تتبعها، فحُذفت اللام ولم تدخل نون التوكيد للفصل بين اللام المقدّرة والفعل بالظرف، ومثله ﴿لإلى الله تحشرون﴾."
+},
+{
+"k": "yawm-nasb"
+},
+{
+"k": "radifa-hal-imtidad"
+},
+{
+"k": "radifa-saa-ibn-zayd"
+},
+{
+"k": "rajifa-radifa-nafkhatan"
+},
+{
+"k": "bayna-nafkhatayn-arbaun"
+},
+{
+"k": "radifa-mujahid-inshiqaq"
+},
+{
+"k": "radifa-zalzala-ukhra"
+},
+{
+"k": "rajfa-sawt-haraka"
+},
+{
+"k": "radf-tab"
+},
+{
+"k": "qulub-takhsis-radd"
+},
+{
+"k": "wajifa-aqwal-lugha"
+},
+{
+"k": "wajf-ishfaq-qays"
+},
+{
+"k": "wajifa-quran-hanajir"
+},
+{
+"k": "khashia-quran-qalam"
+},
+{
+"k": "hafira-quran-isra",
+"a": 10,
+"t": "quran",
+"x": "قولهم «أئنا لمردودون في الحافرة» كقولهم ﴿أإنا لمبعوثون خلقا جديدا﴾: أنُردّ بعد موتنا إلى أول الأمر فنعود أحياء؟",
+"r": "الإسراء: 49"
+},
+{
+"k": "hafira-kashshaf"
+},
+{
+"k": "hafira-raghib-haram",
+"a": 10,
+"t": "lugha",
+"x": "الراغب: «في الحافرة» مثل لمن يُردّ من حيث جاء، أي أنحيا بعد أن نموت؟ ويقال: رجع الشيخ إلى حافرته أي هرم، كقوله ﴿ومنكم من يرد إلى أرذل العمر﴾؛ و«النقد عند الحافرة» أصله في الفرس إذا بيع: لا يزول حافره حتى يُنقد ثمنه؛ وعلى أنها القبور يكون «في الحافرة» حالًا: ونحن في القبور."
+},
+{
+"k": "hafira-qubur-nasab"
+},
+{
+"k": "hafira-dunya-ajila"
+},
+{
+"k": "hafira-aqwal"
+},
+{
+"k": "hafira-qiraa-hafra"
+},
+{
+"k": "abu-muslim-rajifa-khayl"
+},
+{
+"k": "nakhira-qiraat-ashr"
+},
+{
+"k": "nakhira-hadhir-hadhir",
+"a": 11,
+"t": "lugha",
+"x": "ناخرة ونخرة كحاذر وحذر: «فاعل» لمن صدر عنه الفعل، و«فعِل» لمن كان فيه غريزة أو كالغريزة؛ وقيل: ناخرة تصوّت فيها الريح ونخرة ينخر فيها دائمًا، وقيل: ناخرة بالية ونخرة متآكلة."
+},
+{
+"k": "nakhira-fail-ablagh"
+},
+{
+"k": "nakhira-shahid-qawarir"
+},
+{
+"k": "sahira-shir-dhi-qar"
+},
+{
+"k": "idha-nasb-mahdhuf"
+},
+{
+"k": "tilka-idhan-irab"
+},
+{
+"k": "idhan-jawab-jaza",
+"a": 12,
+"t": "irab",
+"x": "«إذن» في «تلك إذا كرة خاسرة» حرف جواب وجزاء عند الجمهور، أي إن كان رجوعنا حقًّا فتلك رجعة خاسرة، وقيل: قد لا تكون جوابًا؛ و«خاسرة» ذات خسران أو أُسند إليها الخسار مجازًا."
+},
+{
+"k": "karra-khaiba-kadhiba"
+},
+{
+"k": "karr-lugha"
+},
+{
+"k": "la-tastasibuha"
+},
+{
+"k": "sahira-sahw-khawf"
+},
+{
+"k": "sahira-raghib-wat"
+},
+{
+"k": "asharan-sahur",
+"a": 14,
+"t": "lugha",
+"x": "الأسهران: عرقان في الأنف، والساهور: غلاف القمر الذي يدخل فيه عند كسوفه."
+},
+{
+"k": "sahur-qamar"
+},
+{
+"k": "sahira-fidda"
+},
+{
+"k": "sahira-aqwal-ukhra"
+},
+{
+"k": "sahira-jahannam-la-yanamun"
+},
+{
+"k": "hal-ataka-tasliya-quwwa"
+},
+{
+"k": "idh-zarf-hadith"
+},
+{
+"k": "muqaddas-mutahhar"
+},
+{
+"k": "tuwa-adl-tanwin"
+},
+{
+"k": "tuwa-thina-farra"
+},
+{
+"k": "tuwa-razi-aqwal"
+},
+{
+"k": "an-tafsiriyya-masdariyya",
+"a": 17,
+"t": "irab",
+"x": "«اذهب» تفسير للنداء أو على إضمار القول، وقيل على حذف «أن» (قراءة عبد الله «أن اذهب»)، و«أن» هذه ظاهرة أو مقدرة تحتمل أن تكون تفسيرية أو مصدرية أي: ناداه ربه بكذا."
+},
+{
+"k": "tughyan-khaliq-khalq"
+},
+{
+"k": "firawn-asl"
+},
+{
+"k": "hal-laka-mathal-ila"
+},
+{
+"k": "hal-laka-abul-baqa"
+},
+{
+"k": "tazakka-tasadda-qiraa",
+"a": 18,
+"t": "qiraat",
+"x": "قرأ نافع وابن كثير «تزّكّى» بالتشديد وكذلك «تصدّى» في سورة عبس بعدها، فالحرميان أدغما والباقون حذفوا، وفي المحذوفة من التاءين خلاف تقدّم."
+},
+{
+"k": "tazakka-islam"
+},
+{
+"k": "tazakka-shahada"
+},
+{
+"k": "ahdiyaka-taa"
+},
+{
+"k": "idhhab-juz-nida"
+},
+{
+"k": "tazakka-mutazila-khalq-afal"
+},
+{
+"k": "sakhr-qadar-musa"
+},
+{
+"k": "fa-fasiha-arahu"
+},
+{
+"k": "aya-kubra-razi-asa"
+},
+{
+"k": "aya-kubra-aqwal"
+},
+{
+"k": "kadhdhaba-asa-farq"
+},
+{
+"k": "adbara-yasa-aqwal"
+},
+{
+"k": "adbara-ruban-hasan"
+},
+{
+"k": "hashara-aqwal"
+},
+{
+"k": "nakal-kalimatayn"
+},
+{
+"k": "nakal-amhalahu"
+},
+{
+"k": "firawn-dahri-razi"
+},
+{
+"k": "nakal-hal-daif",
+"a": 25,
+"t": "irab",
+"x": "يضعف جعل «نكال» حالًا لتعريفه بالإضافة، وتأويله كتأويل «جهدك وطاقتك» غير مقيس؛ ويجوز أن يكون مصدرًا للأخذ مع التجوز في الفعل أو المصدر، أو مفعولًا له، أو مؤكدًا لمضمون الجملة."
+},
+{
+"k": "nakal-masdar-kashshaf"
+},
+{
+"k": "nakal-nasb-aqwal"
+},
+{
+"k": "nakal-lugha"
+},
+{
+"k": "nakal-aqwal"
+},
+{
+"k": "nakal-qaffal-azhar"
+},
+{
+"k": "antum-ashaddu-quran"
+},
+{
+"k": "antum-taqri"
+},
+{
+"k": "am-samaa-zukhruf",
+"a": 27,
+"t": "irab",
+"x": "«أم السماء» عطف على «أنتم»، و«بناها» بيان لكيفية خلقها، فالوقف على «السماء» والابتداء بما بعدها، ونظيره في الزخرف ﴿أآلهتنا خير أم هو﴾."
+},
+{
+"k": "samk-lugha"
+},
+{
+"k": "samak-najm",
+"a": 28,
+"t": "lugha",
+"x": "سمك قاصر ومتعدٍّ: سمكت الشيء رفعته، وسمك هو سموكًا ارتفع؛ وسماك البيت ما سمكته به؛ والسِّماك نجم معروف وهما اثنان: رامح وأعزل؛ وأنشد للفرزدق: «إن الذي سمك السماء بنى لنا بيتًا»."
+},
+{
+"k": "banaha-waqf-khilaf"
+},
+{
+"k": "sawwaha-la-futur"
+},
+{
+"k": "sawwaha-kura"
+},
+{
+"k": "aghtasha-anmar"
+},
+{
+"k": "ghatash-raghib-amash"
+},
+{
+"k": "ghatash-lugha"
+},
+{
+"k": "duha-akmal-nahar"
+},
+{
+"k": "bada-dhalika-ibn-abbas"
+},
+{
+"k": "bada-qabl-munkar",
+"a": 30,
+"t": "khilaf",
+"x": "ابن عادل: «بعد» على بابها من التأخير ولا معارضة بينها وبين آية فصلت، وقول أبي عبيدة إنها بمعنى «قبل» منكر عند العلماء."
+},
+{
+"k": "dahw-lughat"
+},
+{
+"k": "udhiyy-naama"
+},
+{
+"k": "dahaha-mahhadaha"
+},
+{
+"k": "ard-raf-qiraa"
+},
+{
+"k": "raf-ard-zajjaj"
+},
+{
+"k": "bayt-qabla-ard"
+},
+{
+"k": "bada-maa-dhalika"
+},
+{
+"k": "bada-bimana-qabl"
+},
+{
+"k": "dahaha-ibn-zayd-shaqq"
+},
+{
+"k": "akhraja-tafsir-tamhid"
+},
+{
+"k": "akhraja-hal-qad"
+},
+{
+"k": "maa-uyun-mara-dawab"
+},
+{
+"k": "mara-istiara-ratu"
+},
+{
+"k": "mara-masdar-taqdim-maa"
+},
+{
+"k": "maa-mara-jami-arzaq"
+},
+{
+"k": "maa-nabat-janna"
+},
+{
+"k": "arsaha-athbataha"
+},
+{
+"k": "mataan-nasb"
+},
+{
+"k": "mataan-mafuul-lahu"
+},
+{
+"k": "jawab-idha-aqwal"
+},
+{
+"k": "yawm-abul-baqa"
+},
+{
+"k": "tamma-lugha"
+},
+{
+"k": "tamma-nafkha-thaniya"
+},
+{
+"k": "tamma-qasim-siyaq"
+},
+{
+"k": "tadhakkur-ahsahu"
+},
+{
+"k": "barazat-qiraa-tafsil"
+},
+{
+"k": "liman-raa-ibn-masud"
+},
+{
+"k": "burrizat-wurud-muminin"
+},
+{
+"k": "burrizat-yaraha-kull"
+},
+{
+"k": "tagha-nadr"
+},
+{
+"k": "rabit-mawa-khilaf"
+},
+{
+"k": "al-iwad-shahid-radd",
+"a": 39,
+"t": "irab",
+"x": "احتج من منع أن تكون «أل» عوضًا من الضمير بقول الشاعر: «رحيب قطاب الجيب منها رقيقة بجسّ الندامى بضّة المتجرد»، إذ لو كانت عوضًا لما جُمع بينهما؛ وقال السمين ردًّا على أبي حيان: قول الزمخشري «لما عُلم أن الطاغي صاحب المأوى» هو عين قول البصريين."
+},
+{
+"k": "maqam-aqwal"
+},
+{
+"k": "muqabala-tughyan-khawf"
+},
+{
+"k": "khawf-ilm-sabab-hawa"
+},
+{
+"k": "ibn-masud-hawa-haqq"
+},
+{
+"k": "musab-akhuhu-nuzul"
+},
+{
+"k": "abu-bakr-ghulam-nuzul"
+},
+{
+"k": "kalbi-ammatan",
+"a": 41,
+"t": "nuzul",
+"x": "قال الكلبي: الآيتان (فأما من طغى / وأما من خاف) عامّتان."
+},
+{
+"k": "saala-istihza-istijal"
+},
+{
+"k": "mursaha-iqama"
+},
+{
+"k": "fima-irab-taajjub"
+},
+{
+"k": "fima-taajjub-hirs"
+},
+{
+"k": "anta-min-dhikraha-kashshaf"
+},
+{
+"k": "muntaha-quran-luqman"
+},
+{
+"k": "fima-anta-wajhan"
+},
+{
+"k": "mundhir-qiraat"
+},
+{
+"k": "mundhir-asl-idafa"
+},
+{
+"k": "samin-radd-abu-hayyan",
+"a": 45,
+"t": "irab",
+"x": "قال السمين ردًّا على أبي حيان في اعتراضه على الزمخشري: لا يلزمه أن يذكر إلا محل الوفاق، وما ذكره (التنوين أصل والماضي لا يكون إلا مضافًا) مذهب جماهير الناس."
+},
+{
+"k": "mundhir-khass-muntafi"
+},
+{
+"k": "ashiyya-quran-ahqaf"
+},
+{
+"k": "ashiyya-idafa-duha"
+},
+{
+"k": "ashiyya-ha-sila"
+}
+]
