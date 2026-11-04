@@ -1,0 +1,291 @@
+[
+{
+"k": "saail-nadr"
+},
+{
+"k": "saal-kuffar-ibn-abbas"
+},
+{
+"k": "saal-nadr-anfal"
+},
+{
+"k": "saal-aqwam-qatada"
+},
+{
+"k": "sail-urwa",
+"a": 1,
+"t": "lugha",
+"x": "روى عروة بن ثابت أن «سائل» من السيلان وأنه وادٍ من أودية جهنم، فتكون همزة «سائل» بدلًا من ياء."
+},
+{
+"k": "lil-kafirin-ala"
+},
+{
+"k": "lam-lil-kafirin-aqwal"
+},
+{
+"k": "ba-mubarrid-ilhad",
+"a": 1,
+"t": "irab",
+"x": "قال المبرد: الباء في «بعذاب» متعلقة بالمصدر الذي دلّ عليه الفعل، وقال غيره: زائدة كقوله ﴿ومن يرد فيه بإلحاد بظلم﴾، وهي بمعنى «عن» عند من جعله من السؤال (الحسن وابن السكيت).",
+"r": "الحج: 25"
+},
+{
+"k": "laysa-lahu-dafi"
+},
+{
+"k": "maarij-uluw-fawadil"
+},
+{
+"k": "ruh-jibril"
+},
+{
+"k": "khamsin-masafa"
+},
+{
+"k": "alf-sana-sajda"
+},
+{
+"k": "khamsin-hukm-makhluq"
+},
+{
+"k": "khamsin-kafirin"
+},
+{
+"k": "ata-aqal-khalqi"
+},
+{
+"k": "taqdim-takhir-fi-yawm"
+},
+{
+"k": "yukhaffaf-mumin"
+},
+{
+"k": "khamsin-umr-dunya"
+},
+{
+"k": "ibn-abbas-tawaqquf"
+},
+{
+"k": "ruh-hafaza-mujahid"
+},
+{
+"k": "sabr-jamil-la-shakwa"
+},
+{
+"k": "sabr-naskh-radd"
+},
+{
+"k": "baid-takdhib"
+},
+{
+"k": "yawm-takun-ihdharu",
+"a": 8,
+"t": "irab",
+"x": "قال مكي: «يوم تكون السماء» أي: ونرى العذاب قريبًا يوم تكون، وقيل: يبصّرونهم يوم تكون، وقيل: التقدير: احذروا يوم تكون."
+},
+{
+"k": "muhl-khudra-qatada",
+"a": 8,
+"t": "athar",
+"x": "روى مكي عن قتادة: تتحول السماء لونًا آخر إلى الخضرة (والمشهور عنه: إلى الحمرة).",
+"r": "قتادة"
+},
+{
+"k": "ihn-masbugh"
+},
+{
+"k": "hamim-shughl"
+},
+{
+"k": "yubassarunahum-khilaf"
+},
+{
+"k": "qiraa-yusal"
+},
+{
+"k": "la-taziru-wazira",
+"a": 10,
+"t": "quran",
+"x": "على قراءة «ولا يُسأل»: يجوز أن يكون المعنى: لا يُسأل إنسان عن ذنب قريبه، كقوله: ﴿ولا تزر وازرة وزر أخرى﴾.",
+"r": "الأنعام: 164"
+},
+{
+"k": "fasila-ashira"
+},
+{
+"k": "thumma-yunjih-idmar"
+},
+{
+"k": "tartib-fida"
+},
+{
+"k": "fasila-ruba"
+},
+{
+"k": "sawda-hufat",
+"a": 11,
+"t": "hadith",
+"x": "عن سودة: قال رسول الله ﷺ: «يحشر الناس حفاة عراة غُرْلًا حتى ألجمهم العرق وبلغ شحوم الآذان»، قالت: واسوءتاه! أينظر بعضنا إلى بعض؟ قال: «شُغل الناس ﴿لكل امرئ منهم يومئذ شأن يغنيه﴾».",
+"r": "الطبراني والحاكم عن سودة"
+},
+{
+"k": "kalla-radd-fida"
+},
+{
+"k": "laza-ism"
+},
+{
+"k": "shawa-aqwal"
+},
+{
+"k": "shawa-murra-farwa"
+},
+{
+"k": "tajdid-julud"
+},
+{
+"k": "tadu-man-adbara"
+},
+{
+"k": "la-sultan-ala-mumin"
+},
+{
+"k": "dua-laza-aqwal"
+},
+{
+"k": "tadu-turid-tadai",
+"a": 17,
+"t": "lugha",
+"x": "وقيل: «تدعو»: تريد وتطلب كقوله ﴿ولهم ما يدعون﴾؛ ويقال: تداعت الحيطان إذا انقاضت، وتداعى عليه العدو إذا أتى من كل جانب، ودواعي الدهر: صروفه."
+},
+{
+"k": "awa-udhun-waiya",
+"a": 18,
+"t": "lugha",
+"x": "«أوعى»: أحاط بمنع المال وحفظه، ومنه: وعيتُ العلم، و﴿أذن واعية﴾."
+},
+{
+"k": "halu-tarif"
+},
+{
+"k": "jazu-manu-mal"
+},
+{
+"k": "musallin-istithna"
+},
+{
+"k": "daimun-maktuba"
+},
+{
+"k": "daimun-la-yaltafitun"
+},
+{
+"k": "haqq-malum-khilaf"
+},
+{
+"k": "ijma-la-fard-siwa-zakat",
+"a": 24,
+"t": "ahkam",
+"x": "قال مكي: القول بأن في المال حقًّا سوى الزكاة إنما هو على الندب والترغيب لا على الفرض، لأن المسلمين أجمعوا على ألّا فرض في المال سوى الزكاة المعلومة."
+},
+{
+"k": "mahrum-aqwal"
+},
+{
+"k": "yawm-din-bath"
+},
+{
+"k": "mushfiqun-wajilun"
+},
+{
+"k": "ghayr-mamun"
+},
+{
+"k": "waqf-laza-makki",
+"a": 16,
+"t": "qiraat",
+"x": "الوقف على «لظى» جائز حسن في قراءة من رفع «نزاعة» على تقدير: هي نزاعة، ولا يوقف عليها إن جُعلت «لظى» بدلًا من اسم إن و«نزاعة» خبرًا، أو «نزاعة» بدلًا أو خبرًا ثانيًا، أو الضمير للقصة، أو على قراءة النصب حالًا."
+},
+{
+"k": "mubarrid-mana-nasb"
+},
+{
+"k": "furuj-hifz"
+},
+{
+"k": "adun-tarif"
+},
+{
+"k": "amanat-uhud-tabari"
+},
+{
+"k": "shahadat-qaimun"
+},
+{
+"k": "yuhafizun-mawaqit"
+},
+{
+"k": "jannat-mukramun"
+},
+{
+"k": "muhtiin-aqwal"
+},
+{
+"k": "izin-halaq"
+},
+{
+"k": "tama-janna-inkar"
+},
+{
+"k": "khalaqnahum-qadhar"
+},
+{
+"k": "khalaqnahum-nutfa-fadl"
+},
+{
+"k": "la-sila"
+},
+{
+"k": "mashariq-manazil"
+},
+{
+"k": "shams-360-kuwwa"
+},
+{
+"k": "mashariq-matali"
+},
+{
+"k": "nubaddil-khayran"
+},
+{
+"k": "dharhum-yakhudu"
+},
+{
+"k": "yawm-badal"
+},
+{
+"k": "nusub-alam"
+},
+{
+"k": "qiraa-nusub"
+},
+{
+"k": "nusub-lugha-qurtubi"
+},
+{
+"k": "nusub-ghaya-ibn-abbas"
+},
+{
+"k": "nusub-ibn-zayd-nahl"
+},
+{
+"k": "khashia-amil-makki",
+"a": 44,
+"t": "irab",
+"x": "قال مكي: العامل في «خاشعة» «يخرجون» أو «ترهقهم»."
+},
+{
+"k": "khashia-dhilla"
+}
+]

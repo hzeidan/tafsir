@@ -1,0 +1,199 @@
+[
+{
+"k": "makkiya"
+},
+{
+"k": "saal-nadr-anfal"
+},
+{
+"k": "harith-alqama-ata"
+},
+{
+"k": "saal-ahl-makka"
+},
+{
+"k": "ba-zaida-an"
+},
+{
+"k": "qiraa-saal-nafi"
+},
+{
+"k": "lughat-quraysh-naqd"
+},
+{
+"k": "sail-zayd-thabit"
+},
+{
+"k": "qiraa-sal-sayl"
+},
+{
+"k": "sayl-ibn-jinni"
+},
+{
+"k": "waqi-waid-takdhib"
+},
+{
+"k": "lam-lil-kafirin-aqwal"
+},
+{
+"k": "maarij-istiara-hasan"
+},
+{
+"k": "miraj-iyad",
+"a": 3,
+"t": "lugha",
+"x": "نقل الثعالبي عن عياض في «مشارق الأنوار»: «فعُرج بي إلى السماء» أي ارتُقي بي، والمعراج: الدَّرَج، وقيل: سُلّم تعرج فيه الأرواح، وقيل: أحسن شيء لا تتمالك النفس إذا رأته أن تخرج وإليه يشخص بصر الميت، وقيل: الذي تصعد فيه الأعمال."
+},
+{
+"k": "taruj-tasad"
+},
+{
+"k": "ruh-hafaza-mujahid"
+},
+{
+"k": "khamsin-kafirin"
+},
+{
+"k": "mani-zakat-khamsin"
+},
+{
+"k": "yukhaffaf-mumin"
+},
+{
+"k": "abu-hurayra-waqt-salat",
+"a": 4,
+"t": "athar",
+"x": "ابن المبارك عن أبي هريرة: يقصر يومئذ على المؤمن حتى يكون كوقت الصلاة.",
+"r": "أبو هريرة (رقائق ابن المبارك)"
+},
+{
+"k": "yawm-kalf-tawaif"
+},
+{
+"k": "abdulhaq-aqiba",
+"a": 4,
+"t": "aqida",
+"x": "عبد الحق الإشبيلي في «العاقبة»: يوم القيامة آلاف من الأعوام، طوله خمسون ألف سنة، ولا يكون خلاص الناس دفعة واحدة بل يتخلصون شيئًا بعد شيء: فمنهم من يطول حبسه إلى آخر اليوم، ومنهم من ينفصل في مقدار يوم أو ساعة أو أقل في ظل كسبه وعرش ربه، ومنهم من يؤمر به إلى الجنة بغير حساب، ومنهم من يؤمر به إلى النار أول الأمر."
+},
+{
+"k": "sabr-jamil-ibn-atiyya"
+},
+{
+"k": "sabr-muhkam-ibn-atiyya"
+},
+{
+"k": "sabr-jins-insan",
+"a": 5,
+"t": "tafsir",
+"x": "قال الثعالبي: ولو قيل إن «فاصبر» خطاب لجنس الإنسان في شأن هول ذلك اليوم لما بَعُد."
+},
+{
+"k": "muhl-ibn-atiyya-sawad"
+},
+{
+"k": "hamim-la-yasaluhu-nusra"
+},
+{
+"k": "bassara-sarf-razi"
+},
+{
+"k": "yubassarunahum-istinaf"
+},
+{
+"k": "yusal-sima"
+},
+{
+"k": "fasila-ibn-atiyya"
+},
+{
+"k": "kalla-radd-fida"
+},
+{
+"k": "laza-tabaqa-tazim"
+},
+{
+"k": "shawati-arabi"
+},
+{
+"k": "dua-laza-haqiqa"
+},
+{
+"k": "awa-lugha"
+},
+{
+"k": "ibn-ukaym-kis"
+},
+{
+"k": "insan-jins-kuffar"
+},
+{
+"k": "halu-faza-matami"
+},
+{
+"k": "musallin-akhira-awkad"
+},
+{
+"k": "dawam-nafila-ibn-atiyya"
+},
+{
+"k": "ghazali-tadabbur",
+"a": 23,
+"t": "hidaya",
+"x": "نقل الثعالبي عن الغزالي في الإحياء: ينبغي أن تفهم ما تقرؤه في صلاتك: فالرجاء حق الوعد، والخوف حق الوعيد، والعزم حق الأمر والنهي، والاتعاظ حق الموعظة، والشكر حق ذكر المنة، والاعتبار حق أخبار الأنبياء؛ وأن ترتّل ولا تسرد، وتفرق بين نغماتك في آيات الرحمة والعذاب."
+},
+{
+"k": "daimun-la-yaltafitun"
+},
+{
+"k": "haqq-ibn-atiyya-makki"
+},
+{
+"k": "amanat-jam-hasan"
+},
+{
+"k": "shahada-ibn-atiyya-manayan"
+},
+{
+"k": "ala-mithl-shams"
+},
+{
+"k": "muhti-kaba-shair"
+},
+{
+"k": "muhti-yamshi"
+},
+{
+"k": "izin-qalil"
+},
+{
+"k": "mali-arakum-izin"
+},
+{
+"k": "tama-nima-rida"
+},
+{
+"k": "khalaq-qudra-iada"
+},
+{
+"k": "haya-hadith-hasan",
+"a": 39,
+"t": "hadith",
+"x": "عن الحسن مرسلًا: «كلكم يحب أن يدخل الجنة؟ قالوا: نعم، قال: فأقصروا من الأمل، وثبّتوا آجالكم بين أبصاركم، واستحيوا من الله حق الحياء... أن لا تنسوا المقابر والبِلى، ولا تنسوا الجوف وما وعى، ولا الرأس وما حوى»، وأكثره عند الترمذي.",
+"r": "ابن المبارك في الرقائق عن الحسن مرسلا؛ الترمذي عن ابن مسعود"
+},
+{
+"k": "ajdath-qubur"
+},
+{
+"k": "nusub-shabaka"
+},
+{
+"k": "nusub-alam"
+},
+{
+"k": "yufidun-israa"
+},
+{
+"k": "khashia-dhilla"
+}
+]

@@ -1,0 +1,201 @@
+[
+{
+"k": "qiraa-saal-nafi"
+},
+{
+"k": "saal-istihza-dua"
+},
+{
+"k": "saal-istijal-quran"
+},
+{
+"k": "saala-dua-la-tadmin"
+},
+{
+"k": "saail-nadr"
+},
+{
+"k": "abu-jahl-kisf"
+},
+{
+"k": "ba-thalath-maani"
+},
+{
+"k": "waqi-dunya-akhira-wasit",
+"a": 1,
+"t": "balagha",
+"x": "قال «بعذاب واقع» ولم يقل «سيقع» إشارةً إلى تحقق وقوعه في الدنيا (فقد قُتل النضر وأبو جهل ببدر) والآخرة أشد وأبقى."
+},
+{
+"k": "lam-illa"
+},
+{
+"k": "miraj-sullam"
+},
+{
+"k": "yafirru-almar"
+},
+{
+"k": "hamim-wafi",
+"a": 10,
+"t": "lugha",
+"x": "الحميم: الصديق الوفيّ القريب من نفس صديقه."
+},
+{
+"k": "yubassarunahum-istinaf"
+},
+{
+"k": "tartib-qasimi"
+},
+{
+"k": "thumma-istibad"
+},
+{
+"k": "kalla-rad-wadada"
+},
+{
+"k": "laza-lahab-khalis"
+},
+{
+"k": "nazzaa-tauud",
+"a": 16,
+"t": "tafsir",
+"x": "«نزاعة للشوى»: قلّاعة لجلدة الرأس وأطراف البدن ثم تعود الجلدة والأطراف كما كانت."
+},
+{
+"k": "nazzaa-mubalagha"
+},
+{
+"k": "nar-tadu-abnaaha"
+},
+{
+"k": "la-tui-hadith"
+},
+{
+"k": "jama-hirs-awa-amal"
+},
+{
+"k": "halu-ifrat",
+"a": 19,
+"t": "lugha",
+"x": "الطنطاوي: الهلع إفراط النفس وخروجها عن التوسط والاعتدال عند نزول ما يضرها أو نيل ما يسرها؛ ويدخل الكافر في «الإنسان» دخولًا أوليًّا."
+},
+{
+"k": "halu-kafir-dalil"
+},
+{
+"k": "jazu-manu-irab-lubab"
+},
+{
+"k": "daimun-sharh-wasit",
+"a": 23,
+"t": "tafsir",
+"x": "«دائمون»: يواظبون على أدائها مواظبة تامة لا يشغلهم عنها عسر أو يسر، أو غنى أو فقر، أو إقامة أو سفر."
+},
+{
+"k": "dawam-nur-juma"
+},
+{
+"k": "idafat-salat-ismiyya"
+},
+{
+"k": "haqq-zakat-makki"
+},
+{
+"k": "haqq-shuraka-makki"
+},
+{
+"k": "ishfaq-tarif"
+},
+{
+"k": "ishfaq-istiqsar"
+},
+{
+"k": "ghayr-mamun-talil",
+"a": 28,
+"t": "irab",
+"x": "جملة «إن عذاب ربهم غير مأمون» تعليلية مقرّرة لما قبلها: لأن العاقل لا يأمن عذاب الله مهما قدّم من الطاعات."
+},
+{
+"k": "ghayr-malumin-talil",
+"a": 30,
+"t": "irab",
+"x": "جملة «فإنهم غير ملومين» تعليل للاستثناء، أي غير مؤاخذين لأن معاشرة الأزواج والإماء مما أحلّه الله."
+},
+{
+"k": "ada-lugha",
+"a": 31,
+"t": "lugha",
+"x": "يقال: عدا فلان الشيءَ يعدوه عدوًا إذا جاوزه وتركه، فـ«العادون» تجاوزوا الحلال وتركوه خلف ظهورهم واتجهوا إلى الحرام."
+},
+{
+"k": "rai-asl"
+},
+{
+"k": "shahada-katm-baqara"
+},
+{
+"k": "iftitah-ikhtitam-salat"
+},
+{
+"k": "dawam-muhafaza-farq"
+},
+{
+"k": "jannat-salam-raad",
+"a": 35,
+"t": "quran",
+"x": "«مكرمون»: يُستقبلون فيها بالتعظيم والحفاوة، حيث تقول لهم الملائكة: ﴿سلام عليكم بما صبرتم فنعم عقبى الدار﴾.",
+"r": "الرعد: 24"
+},
+{
+"k": "famal-tafri-takhjib"
+},
+{
+"k": "ihta-madd-unuq"
+},
+{
+"k": "izin-saff-malaika"
+},
+{
+"k": "yamin-shimal-ihata"
+},
+{
+"k": "izin-tasawwur",
+"a": 37,
+"t": "balagha",
+"x": "«عزين» تصوير بديع لالتفافهم حوله متفرقين في مشاربهم ومآربهم وطباعهم."
+},
+{
+"k": "tama-bila-iman"
+},
+{
+"k": "tama-tamthil-tahakkum"
+},
+{
+"k": "ibham-haya"
+},
+{
+"k": "mashriq-ifrad-tathniya"
+},
+{
+"k": "nubaddil-ibn-ashur"
+},
+{
+"k": "khawd-laib"
+},
+{
+"k": "nusub-ibn-zayd-nahl"
+},
+{
+"k": "nusub-sanam-tashbih"
+},
+{
+"k": "rahaq-qahr",
+"a": 44,
+"t": "lugha",
+"x": "يقال: رهِقه الأمر يرهقه رهقًا إذا غشيه بقهر وغلبة لا يمكن دفعها."
+},
+{
+"k": "khatm-bada"
+}
+]
