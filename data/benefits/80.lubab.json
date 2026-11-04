@@ -1,0 +1,518 @@
+[
+{
+"k": "asmaa-sura"
+},
+{
+"k": "makkiyya"
+},
+{
+"k": "adad-kalimat"
+},
+{
+"k": "abasa-tawalla"
+},
+{
+"k": "an-jaahu-mafulun-lah"
+},
+{
+"k": "basri-mukhtar",
+"a": 2,
+"t": "irab",
+"x": "ابن عادل: ناصب «أنْ جاءه» إما «تولّى» (البصريون) أو «عبس» (الكوفيون)، والمختار مذهب البصريين لعدم الإضمار في الثاني."
+},
+{
+"k": "aan-hasan-waqf"
+},
+{
+"k": "mushrik-man-aqwal"
+},
+{
+"k": "ibn-arabi-ibtal-qurtubi"
+},
+{
+"k": "atbauhu-umyan"
+},
+{
+"k": "marhaban-bi-man-atabani"
+},
+{
+"k": "istikhlaf-ibn-umm-maktum"
+},
+{
+"k": "anas-qadisiyya"
+},
+{
+"k": "razi-ishkal-tadib"
+},
+{
+"k": "suu-adab-ibn-umm-maktum"
+},
+{
+"k": "talif-raghba"
+},
+{
+"k": "jafa-ibn-umm-maktum"
+},
+{
+"k": "ghayba-tazim"
+},
+{
+"k": "yazzakka-ilm"
+},
+{
+"k": "razi-ama-rifq"
+},
+{
+"k": "razi-isma"
+},
+{
+"k": "tarajji-ijra-istifham",
+"a": 3,
+"t": "irab",
+"x": "ابن عادل: الظاهر أنه أجرى الترجّي مجرى الاستفهام لما بينهما من معنى الطلب في التعليق، إذ المعنى منصبّ على تسليط الدراية على الترجّي؛ وقيل: الوقف على «يدريك» والابتداء «لعله يزّكّى»."
+},
+{
+"k": "laallahu-kafir"
+},
+{
+"k": "nazir-itab-anam-kahf"
+},
+{
+"k": "tanfauhu-nasb"
+},
+{
+"k": "tarajji-tamanni"
+},
+{
+"k": "samin-difa-ibn-atiyya",
+"a": 4,
+"t": "irab",
+"x": "السمين الحلبي (شهاب الدين): إنما أراد ابن عطية التمني المفهوم من الكلام، ويدل له قول أبي البقاء: «بالنصب على جواب التمني في المعنى»، وإلا فالفرق بين التمني والترجي لا يجهله ابن عطية؛ وقال مكي: من نصب جعله جواب «لعل» لأنه غير موجَب فأشبه التمني والاستفهام، وهو غير معروف عند البصريين."
+},
+{
+"k": "yadhkur-takhfif"
+},
+{
+"k": "istaghna-athra-fasid"
+},
+{
+"k": "tasadda-ibdal-tazanniyt",
+"a": 6,
+"t": "irab",
+"x": "الزجاج: أصل «تصدّى» تصدّد من الصدد، فأُبدل أحد الأمثال حرف علة، مثل: تظنّيت (من تظنّنت)، وقصّيت (أظفاري)، وتقضّى البازي (تقضّض)."
+},
+{
+"k": "tasadda-sada-sawt"
+},
+{
+"k": "tusadda-abu-jafar"
+},
+{
+"k": "ma-alayka-itirad"
+},
+{
+"k": "ma-alayka-hirs"
+},
+{
+"k": "yasa-fasaw"
+},
+{
+"k": "yakhsha-hal-min-hal",
+"a": 9,
+"t": "irab",
+"x": "«وهو يخشى» حال من فاعل «يسعى» فهو حال من حال، وجعلها حالًا ثانية معطوفة على الأولى ليس بالقوي."
+},
+{
+"k": "yakhsha-aqwal"
+},
+{
+"k": "talahha-lahw"
+},
+{
+"k": "talahha-samin-adab",
+"a": 10,
+"t": "aqida",
+"x": "السمين: إنما لم يجعلوا «تلهّى» من اللهو لأنه مسند إلى ضمير النبي ﷺ، ولا يليق بمنصبه الكريم أن يُنسب إليه التفعّل من اللهو، بخلاف الاشتغال فيجوز أن يصدر منه أحيانًا، ولا ينبغي أن يُعتقد غير هذا."
+},
+{
+"k": "bazzi-la-nazir",
+"a": 10,
+"t": "qiraat",
+"x": "قراءة البزّي «عنهو تّلهّى» بصلة هاء الكناية وتشديد التاء جمعت بين ساكنين لوجود حرف علة وإدغام، وليس لهذه الآية نظير، إذ القاعدة أنه إذا لقي صلةَ هاء الكناية ساكنٌ وجب حذف الصلة."
+},
+{
+"k": "talahha-qiraat-abu-hayyan"
+},
+{
+"k": "anta-taqwi-ikhtisas"
+},
+{
+"k": "hasan-kalla-surri"
+},
+{
+"k": "tark-awla"
+},
+{
+"k": "tadhkira-jurjani"
+},
+{
+"k": "innaha-ittisal"
+},
+{
+"k": "dhakarahu-damir-ibn-ashur"
+},
+{
+"k": "fi-suhuf-khabar-thani",
+"a": 13,
+"t": "irab",
+"x": "«في صحف» صفة لـ«تذكرة» و«فمن شاء ذكره» معترضة بين الصفة والموصوف كقوله ﴿فمن شاء اتخذ إلى ربه سبيلًا﴾، ويجوز أن يكون «في صحف» خبرًا ثانيًا لـ«إنها» والجملة معترضة بين الخبرين."
+},
+{
+"k": "man-shaa-bayyina"
+},
+{
+"k": "suhuf-muntasakha"
+},
+{
+"k": "safara-kataba-asfar"
+},
+{
+"k": "safir-lugha"
+},
+{
+"k": "ibn-arabi-safara-malaika"
+},
+{
+"k": "kiram-aqwal"
+},
+{
+"k": "barara-sidq"
+},
+{
+"k": "tathir-qaffal"
+},
+{
+"k": "mutahharun-waqia"
+},
+{
+"k": "qutila-luin"
+},
+{
+"k": "qutila-udhdhiba"
+},
+{
+"k": "mujahid-qutila-kafir"
+},
+{
+"k": "qutila-ujb-ilaj"
+},
+{
+"k": "utba-abi-lahab-asad"
+},
+{
+"k": "lubab-umum",
+"a": 17,
+"t": "khilaf",
+"x": "ابن عادل: قيل نزلت في عتبة بن أبي لهب، والظاهر العموم."
+},
+{
+"k": "qutila-dua-ashadd"
+},
+{
+"k": "dua-taajjub-ajiz"
+},
+{
+"k": "ma-taajjub-arab"
+},
+{
+"k": "min-ayy-tawbikh-tahqir",
+"a": 18,
+"t": "khilaf",
+"x": "الاستفهام في «من أي شيء خلقه» قيل: توبيخ، أي أيّ شيء دعاه إلى الكفر؟ وقيل: تحقير له، فذكر أول مراتبه وهو النطفة الحقيرة، ومن كان أصله ذلك كيف يتكبر؟"
+},
+{
+"k": "qaddarahu-kammiyya"
+},
+{
+"k": "qaddarahu-aqwal"
+},
+{
+"k": "sabil-inqilab-mawlud"
+},
+{
+"k": "sabil-abu-muslim"
+},
+{
+"k": "sabil-abu-baqa",
+"a": 20,
+"t": "irab",
+"x": "في نصب «السبيل»: يجوز أن يكون ظرفًا والضمير للإنسان (يسّر له الطريق)، وأجاز أبو البقاء أن يكون مفعولًا ثانيًا لـ«يسّره» والهاء للإنسان، قال السمين: فلا بد من تضمينه معنى «أعطى» أو حذف الجار (يسّره للسبيل)، ويجوز الاشتغال: يسّر السبيلَ يسّره، أي سهّله للناس كقوله ﴿أعطى كل شيء خلقه ثم هدى﴾."
+},
+{
+"k": "sabil-khilaf"
+},
+{
+"k": "kullun-muyassar"
+},
+{
+"k": "aqbarahu-ikram"
+},
+{
+"k": "aqbarahu"
+},
+{
+"k": "shaa-mafulu-mahdhuf",
+"a": 22,
+"t": "irab",
+"x": "مفعول «شاء» محذوف أي شاء إنشاره، و«أنشره» جواب «إذا»."
+},
+{
+"k": "nasharahu-qiraa"
+},
+{
+"k": "idha-shaa-ghayb"
+},
+{
+"k": "kalla-rad-takabbur"
+},
+{
+"k": "mujahid-la-yaqdi-ahad"
+},
+{
+"k": "razi-rad-mujahid"
+},
+{
+"k": "ibn-furak-lamma-yaqdi"
+},
+{
+"k": "lamma-yaqdi-mithaq"
+},
+{
+"k": "ma-mawsula-samin",
+"a": 23,
+"t": "irab",
+"x": "«ما أمره» موصولة، قدّر أبو البقاء العائد «ما أمره به»، واعترضه السمين بأنه قدّر العائد مجرورًا بحرف لم يجرّ الموصول، وإن قُدّر غير مجرور (لتعدّي أمر بحذف الحرف) فتقديره متصلًا أو منفصلًا كلاهما مشكل."
+},
+{
+"k": "lamma-ima-kalam"
+},
+{
+"k": "kalla-waqf-anbari"
+},
+{
+"k": "anfus-afaq"
+},
+{
+"k": "samaa-dhakar-ard-untha"
+},
+{
+"k": "taam-munasaba-khalq"
+},
+{
+"k": "nazar-qalb-maad"
+},
+{
+"k": "taam-madkhal-makhraj"
+},
+{
+"k": "dahhak-taamuk"
+},
+{
+"k": "ibn-umar-khala"
+},
+{
+"k": "taam-halatan"
+},
+{
+"k": "anna-qiraat"
+},
+{
+"k": "anna-husayn-imala"
+},
+{
+"k": "anna-awjuh-makki",
+"a": 25,
+"t": "irab",
+"x": "في فتح «أنّا» ثلاثة أوجه: بدل من «طعامه» في محل جر، أو بدل اشتمال لأن صبّ الماء سبب إخراج الطعام (قال مكي: الاشتمال من الثاني على الأول، لأن الاعتبار بالأشياء التي يتكوّن منها الطعام)، أو على تقدير لام العلة، أو خبر لمبتدأ محذوف (هو أنّا صببنا)."
+},
+{
+"k": "anna-badal-waqf"
+},
+{
+"k": "anna-kalima-wahida",
+"a": 25,
+"t": "qiraat",
+"x": "قراءة «أنّى» بمعنى كيف فيها معنى التعجب، وهي على هذه القراءة كلمة واحدة وعلى غيرها كلمتان."
+},
+{
+"k": "thamaniya-anwa"
+},
+{
+"k": "habb-qamh"
+},
+{
+"k": "qadb-rutab-ibn-abbas"
+},
+{
+"k": "qadb-ishtiqaq"
+},
+{
+"k": "qadb-raghib",
+"a": 28,
+"t": "lugha",
+"x": "الراغب: القَضْب كالقضيب، لكن القضيب يُستعمل في فروع الشجر والقضب في البقل، والقَضْب بالفتح القطع، ومنه أنه ﷺ كان إذا رأى في ثوب تصليبًا قضبه، وسيف قاضب وقضيب أي قاطع، ويقال لما لم يُهذّب مقتضب، ومنه اقتضاب الحديث."
+},
+{
+"k": "ghulb-jam-ahmar"
+},
+{
+"k": "ghulb-asad-istiara"
+},
+{
+"k": "ghalaba-qahr",
+"a": 30,
+"t": "lugha",
+"x": "ابن عادل: الغَلَبة: القهر، وأصلها أن يُنال ويُصاب على رقبته؛ وحديقة غلباء: ملتفّة، وحدائق غُلْب."
+},
+{
+"k": "ghulb"
+},
+{
+"k": "fakiha-tin"
+},
+{
+"k": "fakiha-atf-mughayara"
+},
+{
+"k": "abb-hasid"
+},
+{
+"k": "abb-tahayyu-ibban",
+"a": 31,
+"t": "lugha",
+"x": "أبّ لكذا يؤبّ أبًّا: تهيّأ لقصده، وأبّ إلى وطنه إذا نزع إليه، وأبّ بسيفه: تهيّأ لسلّه، ومنه قولهم «إبّان ذلك» فِعلان منه، أي الشيء المتهيّئ لفعله ومجيئه؛ وقيل: الأبّ يابس الفاكهة لأنها تُؤبّ للشتاء."
+},
+{
+"k": "abb-fakiha-yabisa"
+},
+{
+"k": "abb-aqwal"
+},
+{
+"k": "abb-tin"
+},
+{
+"k": "abu-bakr-ayy-samaa"
+},
+{
+"k": "umar-abb-takalluf"
+},
+{
+"k": "khuliqtum-min-sab"
+},
+{
+"k": "mataan-masdar"
+},
+{
+"k": "nabat-mathal-bath"
+},
+{
+"k": "sakhkha-sakk"
+},
+{
+"k": "sakhkha-zajjaj-shadkh"
+},
+{
+"k": "sakhkha-mumsima-musmia"
+},
+{
+"k": "jawab-idha-mahdhuf"
+},
+{
+"k": "sakhkha-munasaba"
+},
+{
+"k": "aghrad-thalatha"
+},
+{
+"k": "sakhkha-nafkha-thaniya"
+},
+{
+"k": "sakhkha-isakha"
+},
+{
+"k": "yughnihi-la-yamal",
+"a": 34,
+"t": "irab",
+"x": "«يوم يفرّ المرء» بدل من «إذا»، ولا يجوز أن يكون «يغنيه» عاملًا في «إذا» ولا في «يوم» لأنه صفة لـ«شأن»، ولا يتقدّم معمول الصفة على موصوفها."
+},
+{
+"k": "yanihi-qasadani"
+},
+{
+"k": "firar-asbab"
+},
+{
+"k": "firar-tabiat-tafsil"
+},
+{
+"k": "firar-ila-allah"
+},
+{
+"k": "firar-anbiya"
+},
+{
+"k": "firar-man-yastajir"
+},
+{
+"k": "yughnihi-ahl-maani"
+},
+{
+"k": "farqayn"
+},
+{
+"k": "musfira-ilm-fawz"
+},
+{
+"k": "razi-musfira-quds"
+},
+{
+"k": "musfira-asbab"
+},
+{
+"k": "man-kathurat-salatuhu"
+},
+{
+"k": "qatara-sawad-dukhan"
+},
+{
+"k": "qatara-atf-ikhtilaf-lafz",
+"a": 41,
+"t": "irab",
+"x": "في عطف القترة على الغبرة ما يردّ قول أبي عبيدة (القتر: الغبار)، إلا أن يقال: اختلف اللفظ فحسن العطف، كقولهم: «كذبًا ومَينًا» و«النأي والبعد»، وهو خلاف الأصل."
+},
+{
+"k": "ghabara-bahaim"
+},
+{
+"k": "ghabara-qatara-farq"
+},
+{
+"k": "ghabara-dukhan"
+},
+{
+"k": "rahq-lugha"
+},
+{
+"k": "ghabara-sawad-jam"
+},
+{
+"k": "qatra-iskan"
+},
+{
+"k": "fajara-ashl"
+},
+{
+"k": "fadl-ubayy-abasa"
+}
+]
