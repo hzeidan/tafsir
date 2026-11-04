@@ -9,9 +9,6 @@
 "k": "dahr-hin-lugha"
 },
 {
-"k": "istinaf-bayani-khalq"
-},
-{
 "k": "amshaj-lugha"
 },
 {
@@ -37,9 +34,6 @@
 },
 {
 "k": "salasil-ghafir"
-},
-{
-"k": "abrar-bar-ablagh"
 },
 {
 "k": "mizaj-lugha"
@@ -69,9 +63,6 @@
 "k": "ala-bimana-maa"
 },
 {
-"k": "taam-tawtia"
-},
-{
 "k": "asnaf-balad"
 },
 {
@@ -81,34 +72,10 @@
 "k": "qawl-mahdhuf-hal"
 },
 {
-"k": "qasr-qalb-innama"
-},
-{
-"k": "abus-istiara"
-},
-{
-"k": "qamtarir-wazn"
-},
-{
 "k": "nadra-badal-abus"
 },
 {
-"k": "jinas-muharraf"
-},
-{
-"k": "bima-sabaru-jami"
-},
-{
-"k": "ittika-tarif"
-},
-{
 "k": "shams-kinaya"
-},
-{
-"k": "zamharir-hijaz"
-},
-{
-"k": "zilal-kinaya-tadalli"
 },
 {
 "k": "tadhlil-istiara"
@@ -123,16 +90,7 @@
 "k": "kanat-tashbih-baligh"
 },
 {
-"k": "qawarir-takrir"
-},
-{
 "k": "qaddaru-damir"
-},
-{
-"k": "saqya-ukhra"
-},
-{
-"k": "zanjabil-farisi"
 },
 {
 "k": "salsabil-tarkib"
@@ -150,9 +108,6 @@
 "k": "raayta-lazim"
 },
 {
-"k": "mulk-tashbih-baligh"
-},
-{
 "k": "shiar-muluk"
 },
 {
@@ -168,28 +123,16 @@
 "k": "tahur-ihtiras"
 },
 {
-"k": "kana-tahqiq-jaza"
-},
-{
 "k": "inna-nahnu-qasr"
 },
 {
 "k": "isbir-lam-tadmin"
 },
 {
-"k": "hukm-risala"
-},
-{
-"k": "athim-kafur-illa"
-},
-{
 "k": "aw-awkad-wa"
 },
 {
 "k": "dhikr-awn-sabr"
-},
-{
-"k": "layl-faragh-dawa"
 },
 {
 "k": "inna-talil-tai"
@@ -201,30 +144,288 @@
 "k": "thaqil-istiara"
 },
 {
-"k": "khalq-dalil-baath"
-},
-{
 "k": "shadd-asr-istiara"
 },
 {
 "k": "asr-ishtiqaq"
 },
 {
-"k": "amthal-ajsad-thaniya"
+"k": "hal-ittifaq-qad"
 },
 {
-"k": "fadhlaka"
+"k": "lam-yakun-nat-hal"
 },
 {
-"k": "sabil-tawba"
+"k": "insan-kull-ibn-abbas"
 },
 {
-"k": "mashia-tayasur"
+"k": "insan-2-dhurriyya"
 },
 {
-"k": "mashiatan-jabriyya"
+"k": "amshaj-jam-majmu-maayn"
 },
 {
-"k": "zalimin-ishtighal"
+"k": "amshaj-buyayda"
+},
+{
+"k": "imma-tafsil-taqsim"
+},
+{
+"k": "nahr-shakir-altaf"
+},
+{
+"k": "hidaya-adilla-razi"
+},
+{
+"k": "salasil-qiraat-tafsil"
+},
+{
+"k": "salasil-yuqadun"
+},
+{
+"k": "kas-min-tabid"
+},
+{
+"k": "kas-zajjaj"
+},
+{
+"k": "abrar-lugha"
+},
+{
+"k": "ba-ilsaq"
+},
+{
+"k": "ba-bimana-min"
+},
+{
+"k": "ibad-tashrif"
+},
+{
+"k": "yufajjirunaha"
+},
+{
+"k": "tafjir-quran"
+},
+{
+"k": "nadhr-hadd"
+},
+{
+"k": "wafa-tarif"
+},
+{
+"k": "mustatir-ibn-abbas"
+},
+{
+"k": "ala-hubbihi-damir"
+},
+{
+"k": "ala-hubbihi-quran"
+},
+{
+"k": "nuzul-ali-ibn-abbas-mawsua"
+},
+{
+"k": "lisan-hal"
+},
+{
+"k": "abus-asad"
+},
+{
+"k": "qamtarir-lugha"
+},
+{
+"k": "nadra-surur"
+},
+{
+"k": "jannat-harir-ibn-kathir"
+},
+{
+"k": "araik-zajjaj"
+},
+{
+"k": "zamharir"
+},
+{
+"k": "daniya-nasb"
+},
+{
+"k": "zilal-ziyada-naim"
+},
+{
+"k": "bara-qutuf"
+},
+{
+"k": "aniya-lugha"
+},
+{
+"k": "awani-jam-jam"
+},
+{
+"k": "kanat-tamma-hal"
+},
+{
+"k": "fidda-qawarir"
+},
+{
+"k": "qawarir-salasil-qiraat"
+},
+{
+"k": "qaddaruha-rayy"
+},
+{
+"k": "qaddaruha-shaaribun"
+},
+{
+"k": "zanjabil-arab"
+},
+{
+"k": "kas-khamr-muqatil"
+},
+{
+"k": "salsabil-lugha"
+},
+{
+"k": "salsabil-khilaf"
+},
+{
+"k": "salsabil-la-ladh"
+},
+{
+"k": "mukhalladun-khilaf"
+},
+{
+"k": "luluan-manthura"
+},
+{
+"k": "thamma-bud"
+},
+{
+"k": "thamma-zarf"
+},
+{
+"k": "thamma-janna"
+},
+{
+"k": "mulk-qudra-istidhan"
+},
+{
+"k": "aliyahum-maana"
+},
+{
+"k": "aliyahum-qiraa"
+},
+{
+"k": "aliyahum-irab"
+},
+{
+"k": "sundus-istabraq"
+},
+{
+"k": "khudr-istabraq-qiraat"
+},
+{
+"k": "qail-allah-malaika"
+},
+{
+"k": "shukr-qabul"
+},
+{
+"k": "tathbit-rasul"
+},
+{
+"k": "tanzil-la-iftira"
+},
+{
+"k": "nazzalna-tafriq"
+},
+{
+"k": "isbir-qadar"
+},
+{
+"k": "la-tuti-fima-yadu"
+},
+{
+"k": "aw-ablagh-nahy"
+},
+{
+"k": "athim-fajir-kafur-qalb"
+},
+{
+"k": "bukra-awwal-nahar"
+},
+{
+"k": "salawat-khams-ibn-habib"
+},
+{
+"k": "ayat-salawat-khams"
+},
+{
+"k": "ajila-dunya"
+},
+{
+"k": "waraahum-khilaf"
+},
+{
+"k": "badalna-amthalahum"
+},
+{
+"k": "asr-khalq"
+},
+{
+"k": "asr-mafasil-shurj"
+},
+{
+"k": "asr-asab-hibal"
+},
+{
+"k": "asr-imtinan-takhwif"
+},
+{
+"k": "sabil-wasila"
+},
+{
+"k": "man-shaa-tahdid"
+},
+{
+"k": "mashia-tabia"
+},
+{
+"k": "kana-dhati"
+},
+{
+"k": "wasit-hidaya-talil-tafsil",
+"a": 3,
+"t": "irab",
+"x": "قال الوسيط: «إنا هديناه السبيل» تعليل لقوله «نبتليه» وتفصيل لقوله «فجعلناه سميعا بصيرا»، والهداية هنا الدلالة والإرشاد إلى طريق الحق بإرسال الرسل وتزويده بالعقل المستعد للتدبر."
+},
+{
+"k": "wasit-qafl-bab-qadar",
+"a": 3,
+"t": "aqida",
+"x": "المقصود من الآية قفل الباب أمام الذين يفسقون عن أمر ربهم ثم يعلّقون أفعالهم على قضاء الله وقدره، كما حكى عن المشركين «لو شاء الله ما أشركنا»؛ فالهداية حاصلة في كل الأحوال، والمنتفع بها هم الشاكرون وحدهم."
+},
+{
+"k": "wasit-yawm-tankir",
+"a": 7,
+"t": "balagha",
+"x": "جاء لفظ «يوما» منكّرًا ووُصف بأن له شرًّا مستطيرًا لتهويل أمره وتعظيم شأنه، حتى يستعد الناس لاستقباله بالإيمان والعمل الصالح."
+},
+{
+"k": "wasit-tawaf-majhul",
+"a": 15,
+"t": "balagha",
+"x": "«ويطاف» من الطواف وهو السعي المكرر حول الشيء، وبُني للمجهول للعلم بالطائفين وهم الخدم؛ وعطف «الأكواب» (القدح الذي لا عروة له) على «الآنية» من عطف الخاص على العام."
+},
+{
+"k": "wasit-fa-ifsah",
+"a": 24,
+"t": "irab",
+"x": "الفاء في «فاصبر لحكم ربك» للإفصاح، أي: ما دام الأمر كما ذكرنا من تنزيل القرآن عليك فاصبر واخضع لقضائه؛ والمقصود من الآيتين تثبيت فؤاد النبي ﷺ وتيئيس المشركين من استجابته لمطالبهم الفاسدة."
+},
+{
+"k": "wasit-tabdil-yadhhabkum",
+"a": 28,
+"t": "quran",
+"x": "«وإذا شئنا بدلنا أمثالهم تبديلا» تأكيد لشمول قدرته: إذا شئنا أهلكناهم وجئنا بأمثالهم في شدة الخلق، و«تبديلا» مفعول مطلق مؤكد؛ ونظيره «إن يشأ يذهبكم أيها الناس ويأت بآخرين» و«إن يشأ يذهبكم ويأت بخلق جديد»."
 }
 ]

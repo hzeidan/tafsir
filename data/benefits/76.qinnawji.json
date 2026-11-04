@@ -201,6 +201,551 @@
 "k": "atat-samaa"
 },
 {
-"k": "lan-qadariyya"
+"k": "aswad-shawq-janna"
+},
+{
+"k": "insan-kull-ibn-abbas"
+},
+{
+"k": "lam-yakun-nat-hal"
+},
+{
+"k": "madhkur-ilm-qadim"
+},
+{
+"k": "taqdim-takhir-muqatil"
+},
+{
+"k": "laytaha-tammat"
+},
+{
+"k": "hal-taqrir-baath-alusi"
+},
+{
+"k": "insan-2-dhurriyya"
+},
+{
+"k": "nutfa-lugha"
+},
+{
+"k": "amshaj-jam-majmu-maayn"
+},
+{
+"k": "amshaj-hamra-bayad"
+},
+{
+"k": "amshaj-mubarrad-dam"
+},
+{
+"k": "amshaj-awtar"
+},
+{
+"k": "amshaj-mufrad-kashshaf"
+},
+{
+"k": "nabtalihi-khilaf"
+},
+{
+"k": "sami-basir-kinaya-tamyiz"
+},
+{
+"k": "sami-mutii-basir-alim"
+},
+{
+"k": "sabil-khuruj-rahim"
+},
+{
+"k": "hadaynahu-rusul"
+},
+{
+"k": "shakir-kafur-sabil-majaz"
+},
+{
+"k": "bai-nafsahu-hadith"
+},
+{
+"k": "amma-fath-hamza"
+},
+{
+"k": "imma-aqwal-razi"
+},
+{
+"k": "nahr-shakir-altaf"
+},
+{
+"k": "salasil-muzawaja"
+},
+{
+"k": "sarf-jam-shuara"
+},
+{
+"k": "sarf-masahif"
+},
+{
+"k": "tanwin-itlaq"
+},
+{
+"k": "salasil-aghlal"
+},
+{
+"k": "ikhtisar-iqab-rahma"
+},
+{
+"k": "abrar-aqwal"
+},
+{
+"k": "abrar-muharib"
+},
+{
+"k": "kas-lugha"
+},
+{
+"k": "mizaj-lugha"
+},
+{
+"k": "kana-zaida"
+},
+{
+"k": "qafur-qiraa"
+},
+{
+"k": "kafur-khilaf"
+},
+{
+"k": "aynan-zajjaj-min"
+},
+{
+"k": "ibad-awliya"
+},
+{
+"k": "yashrabuha-qiraa"
+},
+{
+"k": "ba-bimana-min"
+},
+{
+"k": "nadhr-ijab"
+},
+{
+"k": "nadhr-wajib-maana"
+},
+{
+"k": "nadhr-wajib-awla"
+},
+{
+"k": "nadhr-hadd"
+},
+{
+"k": "man-nadhara-ytiullah"
+},
+{
+"k": "nadhr-wajib-shar"
+},
+{
+"k": "kanu-mahdhuf"
+},
+{
+"k": "nadhr-ahd-uqud"
+},
+{
+"k": "istatara-harik"
+},
+{
+"k": "istatara-ablagh"
+},
+{
+"k": "mustatir-farra"
+},
+{
+"k": "mustatir-muqatil"
+},
+{
+"k": "ala-hubbihi-quran"
+},
+{
+"k": "ala-hubbihi-amdah"
+},
+{
+"k": "naskh-itam-asir"
+},
+{
+"k": "asir-mara"
+},
+{
+"k": "asir-arbaa"
+},
+{
+"k": "nuzul-am-qurtubi"
+},
+{
+"k": "lisan-hal"
+},
+{
+"k": "qawl-mahdhuf-hal"
+},
+{
+"k": "abus-sifat-yawm"
+},
+{
+"k": "qamtarir-abu-ubayda"
+},
+{
+"k": "qamtarir-ishtiqaq"
+},
+{
+"k": "abus-mujahid-shafatayn"
+},
+{
+"k": "qamtarir-anas"
+},
+{
+"k": "jaza-ala-khawf"
+},
+{
+"k": "nadra-badal-abus"
+},
+{
+"k": "nadra-surur"
+},
+{
+"k": "sabr-khilaf"
+},
+{
+"k": "jannat-harir-hasan"
+},
+{
+"k": "janna-harir-munasaba"
+},
+{
+"k": "muttakiin-madh"
+},
+{
+"k": "muttakiin-sifa-kufiyya"
+},
+{
+"k": "araik"
+},
+{
+"k": "zamharir-ibn-masud"
+},
+{
+"k": "hawa-janna-sajsaj"
+},
+{
+"k": "nafasayn-jahannam"
+},
+{
+"k": "daniya-nasb"
+},
+{
+"k": "daniya-qiraa-ibn-masud"
+},
+{
+"k": "zilal-ziyada-naim"
+},
+{
+"k": "dhullilat-atf"
+},
+{
+"k": "qutuf-lugha"
+},
+{
+"k": "bara-qutuf"
+},
+{
+"k": "tartib-taam-libas-maskan"
+},
+{
+"k": "aniya-lugha"
+},
+{
+"k": "akwab-abariq"
+},
+{
+"k": "fidda-tanbih-dhahab"
+},
+{
+"k": "kanat-takwin"
+},
+{
+"k": "qawarir-raml"
+},
+{
+"k": "la-nazir-dunya"
+},
+{
+"k": "takrir-abu-baqa"
+},
+{
+"k": "qaddaruha-rayy"
+},
+{
+"k": "qaddaruha-shaaribun"
+},
+{
+"k": "quddiruha-hadhf-jar"
+},
+{
+"k": "qaddaruha-fam"
+},
+{
+"k": "zanjabil-la-yushbih"
+},
+{
+"k": "aynan-badal-kas-17"
+},
+{
+"k": "salsabil-lugha"
+},
+{
+"k": "salsabil-tarkib"
+},
+{
+"k": "salsabil-ajami"
+},
+{
+"k": "tusamma-tusaf"
+},
+{
+"k": "salsabil-tasilu-turuq"
+},
+{
+"k": "sharab-janna-thalath"
+},
+{
+"k": "muqarrabun-siddiqun-shuhada"
+},
+{
+"k": "mukhalladun-khilaf"
+},
+{
+"k": "luluan-ata"
+},
+{
+"k": "thamma-janna"
+},
+{
+"k": "thamma-bud"
+},
+{
+"k": "thamma-zarf"
+},
+{
+"k": "raayta-yashi"
+},
+{
+"k": "mulk-qudra-istidhan"
+},
+{
+"k": "aliyahum-qiraa"
+},
+{
+"k": "aliyahum-maana"
+},
+{
+"k": "aliyahum-hal-tawwaf"
+},
+{
+"k": "aliyahum-hal-arba"
+},
+{
+"k": "aliyahum-qiraa-shadh"
+},
+{
+"k": "sundus-raf-thalath"
+},
+{
+"k": "khudr-ikhtiyar-abi-ubayd"
+},
+{
+"k": "wasf-jins-jam"
+},
+{
+"k": "sundus-istabraq"
+},
+{
+"k": "siwar-dastwara"
+},
+{
+"k": "tahur-tajarrud-abusuud"
+},
+{
+"k": "tahur-naw-akhar"
+},
+{
+"k": "tahur-adnas"
+},
+{
+"k": "tahur-la-yabulun"
+},
+{
+"k": "tahur-muqatil-ghill"
+},
+{
+"k": "tanzil-la-iftira"
+},
+{
+"k": "tanzil-tathbit-qital"
+},
+{
+"k": "isbir-tahkhir-nasr"
+},
+{
+"k": "aw-bimana-la"
+},
+{
+"k": "utba-athim-walid-kafur"
+},
+{
+"k": "bukra-fajr-asil-asr"
+},
+{
+"k": "bukra-asil-salawat"
+},
+{
+"k": "min-tabid-layl"
+},
+{
+"k": "tasbih-salat"
+},
+{
+"k": "qiyam-naskh-ibn-zayd"
+},
+{
+"k": "thaqil-sabab"
+},
+{
+"k": "thaqil-istiara"
+},
+{
+"k": "waraahum-khilaf"
+},
+{
+"k": "wara-thalatha-razi"
+},
+{
+"k": "asr-mafasil-shurj"
+},
+{
+"k": "asr-asab-hibal"
+},
+{
+"k": "asr-ishtiqaq"
+},
+{
+"k": "tabdil-maskh"
+},
+{
+"k": "sabil-wasila"
+},
+{
+"k": "radd-zarf-an-yasha"
+},
+{
+"k": "mashia-ahl-sunna-samani"
+},
+{
+"k": "rahma-hujja-mutazila"
+},
+{
+"k": "zalimin-raf-ishtighal"
+},
+{
+"k": "qanuji-nafy-qayd",
+"a": 1,
+"t": "irab",
+"x": "قال الفراء في «لم يكن شيئا مذكورا»: كان شيئًا ولم يكن مذكورًا، فجعل النفي متوجّهًا إلى القيد (مذكورا) لا إلى أصل الشيئية."
+},
+{
+"k": "qanuji-taqdim-sam",
+"a": 2,
+"t": "balagha",
+"x": "نقل صديق حسن خان عن الخطيب: جعلناه عظيم السمع والبصر والبصيرة ليشاهد الدلائل ببصره ويسمع الآيات بسمعه ويعرف الحجج ببصيرته فيصحّ تكليفه وابتلاؤه؛ وقُدّم السمع لأنه أنفع في المخاطبات، ولأن الآيات المسموعة أبين من المرئية."
+},
+{
+"k": "qanuji-maa-imraatayn",
+"a": 2,
+"t": "tafsir",
+"x": "ذكر صديق حسن خان قولًا: ما كان من عصب وعظم فمن نطفة الرجل، وما كان من لحم ودم وشعر فمن ماء المرأة، وحكى أنه وُلد في عصر السلطان غياث الدين ولد بلا عظم فأفتى محمد بن الحاج من علماء ظفر آباد بأنه خُلق من ماء امرأتين."
+},
+{
+"k": "qanuji-kas-ajnas",
+"a": 5,
+"t": "lugha",
+"x": "قال صديق حسن خان: لا وجه لتخصيص الكأس بالزجاجة، بل تكون من الزجاج والذهب والفضة والصيني وغير ذلك، وقد كانت كؤوس العرب من أجناس مختلفة؛ وقد تطلق الكأس على نفس الخمر كقول الأعشى: «وكأس شربت على لذة»."
+},
+{
+"k": "qanuji-takmil-ikhlas",
+"a": 9,
+"t": "balagha",
+"x": "وصفهم بقولهم «إنما نطعمكم لوجه الله» من باب التكميل: وصفهم أولًا بالجود والبذل ثم كمّله بأن ذلك عن إخلاص لا رياء فيه؛ وجملة «لا نريد منكم جزاء ولا شكورا» مقرّرة لما قبلها."
+},
+{
+"k": "qanuji-iqmatarat-naqa",
+"a": 10,
+"t": "lugha",
+"x": "قال الزجاج: يقال اقمطرّت الناقة إذا رفعت ذنبها وجمعت قُطريها ورمت بأنفها، فجعل الميم في «قمطرير» مزيدة."
+},
+{
+"k": "qanuji-hait-dhalil",
+"a": 14,
+"t": "lugha",
+"x": "قال النحاس: المذلّل القريب التناول، ومنه قولهم: حائط ذليل أي قصير؛ وقال ابن قتيبة: «ذُلّلت» أُدنيت، من قولهم حائط ذليل إذا كان قصير السَّمك."
+},
+{
+"k": "qanuji-yutaf-yatuf",
+"a": 15,
+"t": "balagha",
+"x": "قال هنا «ويطاف» بالبناء للمجهول وفيما بعد «ويطوف عليهم ولدان»، لأن المقصود في الأول ما يُطاف به (الآنية والأكواب) لا الطائفون، والمقصود في الثاني الطائفون، فذكر في كلٍّ ما يناسبه."
+},
+{
+"k": "qanuji-aniya-sarf",
+"a": 15,
+"t": "lugha",
+"x": "قال السمين: «آنية» جمع إناء وأصلها «أأنية» بهمزتين، الأولى مزيدة للجمع والثانية فاء الكلمة، فقُلبت الثانية ألفًا وجوبًا، نظير كساء وأكسية، وفي الصحيح اللام حمار وأحمرة."
+},
+{
+"k": "qanuji-alf-khadim",
+"a": 19,
+"t": "athar",
+"x": "عن عبد الله بن عمرو: إن أدنى أهل الجنة منزلًا من يسعى عليه ألف خادم، كل خادم على عمل ليس عليه صاحبه، وتلا «إذا رأيتهم حسبتهم لؤلؤا منثورا»؛ أخرجه ابن المبارك وهناد وعبد بن حميد والبيهقي في البعث.",
+"r": "عبد الله بن عمرو"
+},
+{
+"k": "qanuji-asil-zuhr",
+"a": 25,
+"t": "lugha",
+"x": "قال البيضاوي: «بكرة وأصيلا» دُم على صلاة الفجر والظهر والعصر لأن الأصيل يتناول وقتيهما؛ وتعقّبه الشهاب: تناول الأصيل للعصر ظاهر، أما الظهر فباعتبار آخره، إذ الزوال وما يقرب منه لا يسمى أصيلًا."
+},
+{
+"k": "qanuji-fa-shart-layl",
+"a": 26,
+"t": "irab",
+"x": "الفاء في «ومن الليل فاسجد له» دالة على معنى الشرط، والتقدير: مهما يكن من شيء فصلِّ من الليل، وهو يفيد بتأكيده الاعتناء التام؛ و«من» للتبعيض على كل تقدير."
+},
+{
+"k": "qanuji-faslaha-hah",
+"a": 26,
+"t": "balagha",
+"x": "في «فاسجد له وسبحه» دليل على عدم صحة قول بعض أهل المعاني إن الجمع بين الحاء والهاء يُخرج الكلمة عن الفصاحة كما في بيت أبي تمام «أمدحه أمدحه»؛ وفرّق السمين بأن المُخرج للبيت عن الفصاحة هو التكرار ولا تكرار في الآية."
+},
+{
+"k": "qanuji-asr-ajb",
+"a": 28,
+"t": "lugha",
+"x": "وقيل: المراد بالأسر في «وشددنا أسرهم» عَجْب الذَّنَب لأنه لا يتفتّت في القبر؛ والأُسر بالضم احتباس البول كالحُصر في الغائط."
+},
+{
+"k": "qanuji-iltifat-mashia",
+"a": 30,
+"t": "balagha",
+"x": "في «وما تشاءون» التفات من الغيبة في «خلقناهم» إلى الخطاب؛ ومشيئة العبد مجرّدة لا تأتي بخير ولا تدفع شرًّا، وإن كان يثاب على المشيئة الصالحة ويؤجر على قصد الخير كما في حديث «إنما الأعمال بالنيات»."
+},
+{
+"k": "qanuji-ata-niyya",
+"a": 31,
+"t": "athar",
+"x": "قال عطاء في «يدخل من يشاء في رحمته»: من صدقت نيته أدخله الله تعالى جنته.",
+"r": "عطاء"
 }
 ]
