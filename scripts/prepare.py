@@ -8,7 +8,7 @@ merged into one block "=== آيات a-b ===". Diacritics are stripped for readin
 import json, pathlib, re, sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 NAMES = {68: "القلم", 69: "الحاقة", 70: "المعارج", 71: "نوح", 72: "الجن", 73: "المزمل",
-         74: "المدثر", 75: "القيامة", 76: "الإنسان", 77: "المرسلات", 67: "الملك"}
+         74: "المدثر", 75: "القيامة", 76: "الإنسان", 77: "المرسلات", 78: "النبأ", 79: "النازعات", 80: "عبس", 67: "الملك"}
 TASHKEEL = re.compile(r"[ؐ-ًؚ-ٰٟۖ-ۭـ]")
 
 
