@@ -1,0 +1,304 @@
+[
+{
+"k": "makkiya"
+},
+{
+"k": "adad-huruf",
+"a": 1,
+"t": "munasaba",
+"x": "سورة الحاقة: ألف وأربعة وثمانون حرفًا، وست وخمسون كلمة (كذا في المطبوع)، واثنتان وخمسون آية."
+},
+{
+"k": "fadl-hisab-yasir",
+"a": 1,
+"t": "fadl",
+"x": "رُوي عن أبي بن كعب مرفوعًا: «من قرأ سورة الحاقة حاسبه الله حسابًا يسيرًا».",
+"r": "الثعلبي عن أبي بن كعب"
+},
+{
+"k": "fadl-dajjal"
+},
+{
+"k": "haqqa-wujuh-tasmiya"
+},
+{
+"k": "haqqa-zumar"
+},
+{
+"k": "haqqa-irab"
+},
+{
+"k": "qaria-qura-mubarrad"
+},
+{
+"k": "taghiya-khilaf"
+},
+{
+"k": "taghiya-masdar"
+},
+{
+"k": "atiya"
+},
+{
+"k": "rih-mikyal-marfu"
+},
+{
+"k": "taskhir"
+},
+{
+"k": "ayyam-ajuz"
+},
+{
+"k": "ayyam-ajuz-adhar"
+},
+{
+"k": "makfi-zan",
+"a": 7,
+"t": "lugha",
+"x": "اسم اليوم الثامن من أيام العجوز: مُكفي الظَّعن، وأنشد ثعلب أبيات «كسع الشتاء بسبعة غُبر...»."
+},
+{
+"k": "husum-khilaf"
+},
+{
+"k": "husum-kamila"
+},
+{
+"k": "husum-khalil"
+},
+{
+"k": "husum-jam-hasim"
+},
+{
+"k": "sara"
+},
+{
+"k": "khawiya-wujuh"
+},
+{
+"k": "baqiya"
+},
+{
+"k": "qablahu-qiraat"
+},
+{
+"k": "qablahu-abu-ubayd"
+},
+{
+"k": "mutafika-tawhid"
+},
+{
+"k": "rabiya-zaida-umam"
+},
+{
+"k": "tagha-maa"
+},
+{
+"k": "jariya"
+},
+{
+"k": "tayha-iskan"
+},
+{
+"k": "tayha-radia",
+"a": 12,
+"t": "qiraat",
+"x": "وصف الثعلبي قراءة طلحة «وتعْيها» بالإسكان بأنها رديئة غير قوية، والباقون بالإشباع."
+},
+{
+"k": "udhun-waiya"
+},
+{
+"k": "waiya-ali"
+},
+{
+"k": "nafkha-ula"
+},
+{
+"k": "dakka-haba"
+},
+{
+"k": "dukkata-tathniya"
+},
+{
+"k": "wahiya"
+},
+{
+"k": "malak-jins"
+},
+{
+"k": "rajan-hudhayl"
+},
+{
+"k": "thamaniya-khilaf"
+},
+{
+"k": "hamalat-arba-thamaniya"
+},
+{
+"k": "thamaniya-awal"
+},
+{
+"k": "hamalat-arbaat-awjuh"
+},
+{
+"k": "arsh-anwar",
+"a": 17,
+"t": "athar",
+"x": "رُوي عن علي بن الحسين: خلق الله العرش رابعًا، لم يخلق قبله إلا الهواء والقلم والنور، ثم خلقه من أنوار مختلفة: أخضر وأصفر وأحمر وأبيض هو نور الأنوار، وجعله سبعين ألف ألف ألف طبق، كل طبق يسبّح بأصوات لو أُذن لها أن تُسمع لهدمت الجبال.",
+"r": "علي بن الحسين"
+},
+{
+"k": "yakhfa-ya"
+},
+{
+"k": "ard-thalath"
+},
+{
+"k": "haum"
+},
+{
+"k": "ha-sakt"
+},
+{
+"k": "zanantu-yaqin"
+},
+{
+"k": "awwal-yamin-umar"
+},
+{
+"k": "awwal-yamin-umar-marfu",
+"a": 19,
+"t": "hadith",
+"x": "روى الثعلبي عن زيد بن ثابت مرفوعًا: «أول من يُعطى كتابه بيمينه من هذه الأمة عمر بن الخطاب، وله شعاع كشعاع الشمس»، قيل: فأين أبو بكر؟ قال: «هيهات، زفّته الملائكة إلى الجنة».",
+"r": "الثعلبي عن زيد بن ثابت"
+},
+{
+"k": "abu-bakr-la-hisab",
+"a": 19,
+"t": "hadith",
+"x": "روى الثعلبي عن عائشة مرفوعًا: «يا عائشة، كل الناس يحاسبون يوم القيامة إلا أبا بكر».",
+"r": "الثعلبي عن عائشة"
+},
+{
+"k": "radiya-wujuh"
+},
+{
+"k": "janna-aliya"
+},
+{
+"k": "qutuf-lugha"
+},
+{
+"k": "aslaftum"
+},
+{
+"k": "yusuf-hanafi-awliya"
+},
+{
+"k": "shimal-khalf-zahr"
+},
+{
+"k": "qadiya"
+},
+{
+"k": "qadiya-istaraha",
+"a": 27,
+"t": "tafsir",
+"x": "وقيل: «يا ليتها كانت القاضية» أي يا ليتني متّ فاسترحت."
+},
+{
+"k": "qadiya-qatada"
+},
+{
+"k": "sultaniya-khilaf"
+},
+{
+"k": "miat-alf-wadak",
+"a": 30,
+"t": "athar",
+"x": "يُروى أنه يجتمع على الواحد من أهل النار مائة ألف من الزبانية فيتقطّع في أيديهم فلا يُرى على أيديهم منه إلا الوَدَك، ثم يُعاد خلقًا جديدًا."
+},
+{
+"k": "silsila-dhira-malak"
+},
+{
+"k": "silsila-nawf"
+},
+{
+"k": "dhira-sufyan"
+},
+{
+"k": "rasasa-silsila"
+},
+{
+"k": "kab-halqa"
+},
+{
+"k": "ahl-nar-silsila"
+},
+{
+"k": "hamim-har"
+},
+{
+"k": "ghislin-furuj"
+},
+{
+"k": "khatiun-kafirun"
+},
+{
+"k": "tubsirun-aqwal"
+},
+{
+"k": "tubsirun-jafar"
+},
+{
+"k": "tubsirun-junayd",
+"a": 39,
+"t": "athar",
+"x": "الجنيد: «ما تبصرون» من آثار الرسالة والوحي على محمد ﷺ، و«ما لا تبصرون» من السرّ معه ليلة الإسراء؛ وابن عطاء: ما تبصرون من آثار القدرة وما لا تبصرون من أسرارها.",
+"r": "الجنيد، ابن عطاء"
+},
+{
+"k": "rasul-karim-muhammad"
+},
+{
+"k": "rasul-hadhf-mudaf",
+"a": 40,
+"t": "irab",
+"x": "وقيل: «لقول رسول كريم» أي لقول مُرسِلِ رسولٍ كريم، فحُذف المضاف كقوله ﴿واسأل القرية﴾."
+},
+{
+"k": "yuminun-ya"
+},
+{
+"k": "taqawwul-takalluf"
+},
+{
+"k": "yamin-haqq-saffat"
+},
+{
+"k": "yamin-aqwal"
+},
+{
+"k": "watin-aqwal"
+},
+{
+"k": "hajizin-jam"
+},
+{
+"k": "ghanaim-sud-ruus"
+},
+{
+"k": "tadhkira-muttaqin"
+},
+{
+"k": "hasra-wujuh"
+},
+{
+"k": "haqq-yaqin-idafa"
+},
+{
+"k": "sabbih-ism"
+}
+]

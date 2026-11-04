@@ -1,0 +1,371 @@
+[
+{
+"k": "makkiya"
+},
+{
+"k": "qiraa-fajr"
+},
+{
+"k": "haqqa-azhari"
+},
+{
+"k": "haqqa-wujuh-tasmiya"
+},
+{
+"k": "haqqa-irab-mubtada"
+},
+{
+"k": "ma-adraka-sifa"
+},
+{
+"k": "ma-adraka-ibn-sallam"
+},
+{
+"k": "adraka-taaddi"
+},
+{
+"k": "qaria-qura-mubarrad"
+},
+{
+"k": "taghiya-khilaf"
+},
+{
+"k": "sarsar-sirr"
+},
+{
+"k": "atiya"
+},
+{
+"k": "taskhir"
+},
+{
+"k": "husum-irab"
+},
+{
+"k": "husum-khilaf"
+},
+{
+"k": "husum-qat"
+},
+{
+"k": "husum-ayyam-istiab"
+},
+{
+"k": "awwal-ayyam-khilaf"
+},
+{
+"k": "ayyam-ajuz"
+},
+{
+"k": "tara-fardi"
+},
+{
+"k": "fiha-ihtimal"
+},
+{
+"k": "khawiya-wujuh"
+},
+{
+"k": "nakhl-tadhkir"
+},
+{
+"k": "baqiya-wujuh"
+},
+{
+"k": "baqiya-bahr"
+},
+{
+"k": "qablahu-qiraat"
+},
+{
+"k": "qablahu-abu-ubayd"
+},
+{
+"k": "mutafika-tawhid"
+},
+{
+"k": "khatia-masdar"
+},
+{
+"k": "rasul-musa-lut"
+},
+{
+"k": "rabiya-zaida-umam"
+},
+{
+"k": "tagha-maa"
+},
+{
+"k": "fi-hal-isma"
+},
+{
+"k": "qasas-zajr"
+},
+{
+"k": "tadhkira-khilaf"
+},
+{
+"k": "waa-awa"
+},
+{
+"k": "waiya-farra"
+},
+{
+"k": "tayha-iskan"
+},
+{
+"k": "tayha-ibn-kathir-razi"
+},
+{
+"k": "nafkha-khilaf"
+},
+{
+"k": "nufikha-tadhkir"
+},
+{
+"k": "nafkha-nasb"
+},
+{
+"k": "humilat-tashdid-bahr"
+},
+{
+"k": "dakka-haba"
+},
+{
+"k": "dukkata-tathniya"
+},
+{
+"k": "dakka-bast"
+},
+{
+"k": "waqia"
+},
+{
+"k": "wahiya-tashaqquq"
+},
+{
+"k": "arjaa-khilaf"
+},
+{
+"k": "arjaa-dahhak-amr"
+},
+{
+"k": "thamaniya-khilaf"
+},
+{
+"k": "ard-hisab"
+},
+{
+"k": "la-takhfa-hal"
+},
+{
+"k": "haum-lughat"
+},
+{
+"k": "haum"
+},
+{
+"k": "ha-sakt"
+},
+{
+"k": "zanantu-muakhadha"
+},
+{
+"k": "zann-mumin-kafir"
+},
+{
+"k": "husn-zann-hasan"
+},
+{
+"k": "zann-alusi"
+},
+{
+"k": "radiya-wujuh"
+},
+{
+"k": "aliya-azima"
+},
+{
+"k": "qutuf-lugha"
+},
+{
+"k": "haniyan-takdir"
+},
+{
+"k": "ayyam-sawm"
+},
+{
+"k": "tamanni-qabaih"
+},
+{
+"k": "qadiya"
+},
+{
+"k": "qadiya-qatada"
+},
+{
+"k": "qadiya-jumua"
+},
+{
+"k": "qadiya-hala"
+},
+{
+"k": "ma-aghna-istifham"
+},
+{
+"k": "sultaniya-khilaf"
+},
+{
+"k": "sultan-quwa"
+},
+{
+"k": "sultaniya-jawarih"
+},
+{
+"k": "khudhuh-khazana"
+},
+{
+"k": "taqdim-hasr-rad"
+},
+{
+"k": "dhira-hasan"
+},
+{
+"k": "silsila-nawf"
+},
+{
+"k": "halqa-muqatil"
+},
+{
+"k": "fasulkuh-khilaf"
+},
+{
+"k": "tul-silsila-fiada"
+},
+{
+"k": "taam-ism-masdar"
+},
+{
+"k": "hamim-yataharun"
+},
+{
+"k": "ghislin-furuj"
+},
+{
+"k": "ghislin-shajara"
+},
+{
+"k": "ghislin-dari"
+},
+{
+"k": "khatiun-kafirun"
+},
+{
+"k": "khati-mukhti"
+},
+{
+"k": "khatiun-qiraat"
+},
+{
+"k": "la-uqsim-nafy"
+},
+{
+"k": "la-uqsim-khilaf"
+},
+{
+"k": "tubsirun-kull"
+},
+{
+"k": "rasul-karim-khilaf"
+},
+{
+"k": "qawl-rasul-jawab"
+},
+{
+"k": "mubayin-shir"
+},
+{
+"k": "ma-zaida-qalil"
+},
+{
+"k": "tanzil-irab"
+},
+{
+"k": "tanzil-nasb"
+},
+{
+"k": "taqawwul-takalluf"
+},
+{
+"k": "taqawwul-qiraat"
+},
+{
+"k": "yamin-khilaf"
+},
+{
+"k": "yamin-aqwal"
+},
+{
+"k": "watin-irq-zahr"
+},
+{
+"k": "yamin-qatl-sabr"
+},
+{
+"k": "la-yatakallaf-kadhib"
+},
+{
+"k": "hajizin-irab"
+},
+{
+"k": "tadhkira-muttaqin"
+},
+{
+"k": "mukadhdhibin-waid"
+},
+{
+"k": "hasra-wujuh"
+},
+{
+"k": "haqq-yaqin"
+},
+{
+"k": "sabbih-salli"
+},
+{
+"k": "shawkani-ta-ala-mubalagha",
+"a": 2,
+"t": "irab",
+"x": "قال الشوكاني: «ما الحاقة» أي: أي شيء هي في حالها أو صفاتها، وقيل: «ما» خبر لما بعدها."
+},
+{
+"k": "aakam-haml-ghalib",
+"a": 11,
+"t": "irab",
+"x": "«حملناكم»: أي في أصلاب آبائكم، أو حملناهم وحملناكم في أصلابهم تغليبًا للمخاطبين على الغائبين."
+},
+{
+"k": "tayha-wasl-waqf",
+"a": 12,
+"t": "qiraat",
+"x": "قال الشوكاني في قراءة الإسكان «وتعْيها»: الأولى أن يكون من باب إجراء الوصل مجرى الوقف، كقراءة من قرأ «وما يشعرْكم» بسكون الراء."
+},
+{
+"k": "ghislin-taqdim-rad",
+"a": 36,
+"t": "khilaf",
+"x": "ردّ الشوكاني القول بالتقديم والتأخير (فليس له حميم إلا من غسلين، والحميم الماء الحار) بأنه لا مُلجئ إليه."
+},
+{
+"k": "quran-qawl-allah-shawkani",
+"a": 40,
+"t": "aqida",
+"x": "قال الشوكاني: على كل حال فالقرآن ليس من قول محمد ﷺ ولا من قول جبريل، بل هو قول الله، فلا بد من تقدير التلاوة أو التبليغ."
+},
+{
+"k": "man-masakin-jurm",
+"a": 34,
+"t": "hidaya",
+"x": "في جعل ترك الحضّ على طعام المسكين قرينًا لترك الإيمان بالله أبلغ دلالة على الترغيب في التصدق وسدّ فاقة المساكين، وأن منعهم من أعظم الجرائم وأشد المآثم."
+}
+]

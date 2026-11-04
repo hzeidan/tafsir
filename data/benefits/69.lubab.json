@@ -1,0 +1,536 @@
+[
+{
+"k": "makkiya"
+},
+{
+"k": "haqqa-irab-mubtada"
+},
+{
+"k": "izhar-tahwil"
+},
+{
+"k": "haqqa-wujuh-tasmiya"
+},
+{
+"k": "haqqa-azhari"
+},
+{
+"k": "haqqa-dhat-haqq"
+},
+{
+"k": "adraka-taaddi"
+},
+{
+"k": "ma-adraka-sifa"
+},
+{
+"k": "ma-adraka-ibn-sallam"
+},
+{
+"k": "ma-adraka-sufyan"
+},
+{
+"k": "qaria"
+},
+{
+"k": "qaria-zamakhshari"
+},
+{
+"k": "qaria-qura-mubarrad"
+},
+{
+"k": "manazil-thamud-ad"
+},
+{
+"k": "halaku-zayd"
+},
+{
+"k": "taghiya-khilaf"
+},
+{
+"k": "taghiya-aqir"
+},
+{
+"k": "rida-bil-fil"
+},
+{
+"k": "taghiya-saiqa"
+},
+{
+"k": "taghiya-masdar"
+},
+{
+"k": "taghiya-razi"
+},
+{
+"k": "sarsar-sirr"
+},
+{
+"k": "atiya"
+},
+{
+"k": "atiya-bulugh"
+},
+{
+"k": "rih-mikyal-marfu"
+},
+{
+"k": "taskhir"
+},
+{
+"k": "sakhkharaha-falak"
+},
+{
+"k": "fiadat-adad-husum"
+},
+{
+"k": "ayyam-ajuz"
+},
+{
+"k": "husum-irab"
+},
+{
+"k": "husum-fath"
+},
+{
+"k": "husum-qat"
+},
+{
+"k": "husum-khalil"
+},
+{
+"k": "husum-ayyam-istiab"
+},
+{
+"k": "awwal-ayyam-khilaf"
+},
+{
+"k": "ayyam-ajuz-adhar"
+},
+{
+"k": "fiha-ihtimal"
+},
+{
+"k": "ajuz-nakhil-shadh"
+},
+{
+"k": "nakhl-tadhkir"
+},
+{
+"k": "khawiya-wujuh"
+},
+{
+"k": "baqiya-wujuh"
+},
+{
+"k": "baqiya-bahr"
+},
+{
+"k": "qablahu-qiraat"
+},
+{
+"k": "qablahu-abu-ubayd"
+},
+{
+"k": "mutafika-tawhid"
+},
+{
+"k": "mutafikat"
+},
+{
+"k": "qura-lut-khams"
+},
+{
+"k": "khatia-masdar"
+},
+{
+"k": "rasul-musa-lut"
+},
+{
+"k": "rabiya-zaida-umam"
+},
+{
+"k": "rabiya-razi"
+},
+{
+"k": "tagha-maa"
+},
+{
+"k": "jariya-ism"
+},
+{
+"k": "tadhkira-zajjaj-tarjih"
+},
+{
+"k": "tayha-qiraat-bahr"
+},
+{
+"k": "waa-awa"
+},
+{
+"k": "wajh-tadhkir-qudra"
+},
+{
+"k": "waiya-ali"
+},
+{
+"k": "udhun-tankir"
+},
+{
+"k": "waiya-qaf"
+},
+{
+"k": "udhun-waiya"
+},
+{
+"k": "qasas-qudra-hikma"
+},
+{
+"k": "nat-tawkid"
+},
+{
+"k": "nafkha-nasb"
+},
+{
+"k": "nafkha-ula-yawm-wasi"
+},
+{
+"k": "nufikha-tadhkir"
+},
+{
+"k": "humilat-asbab"
+},
+{
+"k": "dakka-nasb"
+},
+{
+"k": "dukkata-tathniya"
+},
+{
+"k": "dakka-bast"
+},
+{
+"k": "humilat-tashdid-bahr"
+},
+{
+"k": "inshiqaq-nuzul-malaika"
+},
+{
+"k": "wahiya-ihn"
+},
+{
+"k": "wahiya-suf"
+},
+{
+"k": "malak-jins"
+},
+{
+"k": "rajan-hudhayl"
+},
+{
+"k": "arjaa-khilaf"
+},
+{
+"k": "malaika-saqa"
+},
+{
+"k": "malak-amm-rad"
+},
+{
+"k": "fawqahum-khilaf"
+},
+{
+"k": "thamaniya-khilaf"
+},
+{
+"k": "thamaniya-awal"
+},
+{
+"k": "hamalat-arbaat-awjuh"
+},
+{
+"k": "idafat-arsh"
+},
+{
+"k": "razi-arsh-tawil"
+},
+{
+"k": "yakhfa-ya"
+},
+{
+"k": "ard-hisab"
+},
+{
+"k": "ard-thalath"
+},
+{
+"k": "khafiya-wujuh"
+},
+{
+"k": "la-takhfa-razi"
+},
+{
+"k": "yamin-najat"
+},
+{
+"k": "awwal-yamin-umar"
+},
+{
+"k": "haum-lughat"
+},
+{
+"k": "kitabiyah-amil"
+},
+{
+"k": "ha-sakt"
+},
+{
+"k": "zanantu-yaqin"
+},
+{
+"k": "zanantu-muakhadha"
+},
+{
+"k": "zann-mumin-kafir"
+},
+{
+"k": "husn-zann-hasan"
+},
+{
+"k": "radiya-wujuh"
+},
+{
+"k": "naim-dawam"
+},
+{
+"k": "aliya-azima"
+},
+{
+"k": "qutuf-lugha"
+},
+{
+"k": "haniyan-zamakhshari"
+},
+{
+"k": "amal-mujib-razi"
+},
+{
+"k": "nuzul-abu-salama"
+},
+{
+"k": "ras-khayr-sharr"
+},
+{
+"k": "qadiya-hala"
+},
+{
+"k": "qadiya-jumua"
+},
+{
+"k": "ma-aghna-istifham"
+},
+{
+"k": "sultaniya-razi"
+},
+{
+"k": "taqdim-hasr-rad"
+},
+{
+"k": "sabun-kathra"
+},
+{
+"k": "silsila-dhira-malak"
+},
+{
+"k": "silsila-nawf"
+},
+{
+"k": "dhira-hasan"
+},
+{
+"k": "fasulkuh-qalb"
+},
+{
+"k": "thumma-zamani"
+},
+{
+"k": "kuffar-furu"
+},
+{
+"k": "abu-darda-silsila"
+},
+{
+"k": "taam-ism-masdar"
+},
+{
+"k": "laysa-khabar-bahr"
+},
+{
+"k": "ghislin-dari-tabayun"
+},
+{
+"k": "ghislin"
+},
+{
+"k": "taam-tahiyya"
+},
+{
+"k": "khati-mukhti"
+},
+{
+"k": "khatiun-qiraat"
+},
+{
+"k": "khatiun-khutuwat"
+},
+{
+"k": "khatm-tazim-quran"
+},
+{
+"k": "la-uqsim-khilaf"
+},
+{
+"k": "la-uqsim-sabab"
+},
+{
+"k": "rasul-karim-khilaf"
+},
+{
+"k": "kalam-idafa-razi"
+},
+{
+"k": "qalil-irab-bahr"
+},
+{
+"k": "qalil-ibn-atiyya"
+},
+{
+"k": "mubayin-shir"
+},
+{
+"k": "qalil-rujua"
+},
+{
+"k": "tanzil-nasb"
+},
+{
+"k": "taqawwul-qiraat"
+},
+{
+"k": "aqawil-tahqir"
+},
+{
+"k": "yamin-aqwal"
+},
+{
+"k": "watin-aqwal"
+},
+{
+"k": "watin-abhar"
+},
+{
+"k": "hajizin-khabar-tarjih"
+},
+{
+"k": "hajizin-irab"
+},
+{
+"k": "tadhkira-baqara"
+},
+{
+"k": "hasra-masdar-mafhum"
+},
+{
+"k": "mutazila-kufr-razi"
+},
+{
+"k": "haqq-yaqin-idafa"
+},
+{
+"k": "haqq-yaqin-tawkid"
+},
+{
+"k": "sabbih-razi"
+},
+{
+"k": "sabbih-salli"
+},
+{
+"k": "fadl-hisab-yasir"
+},
+{
+"k": "fadl-dajjal"
+},
+{
+"k": "adad-kalim-lubab",
+"a": 1,
+"t": "munasaba",
+"x": "ابن عادل: سورة الحاقة مكية، اثنتان وخمسون آية، ومائتان وست وخمسون كلمة، وألف وأربعة وستون حرفًا."
+},
+{
+"k": "tisa-raht",
+"a": 5,
+"t": "tafsir",
+"x": "ويحتمل أن «الطاغية» الفرقة الطاغية، وهم التسعة رهط الذين كانوا يفسدون في الأرض ولا يصلحون، وأحدهم عاقر الناقة."
+},
+{
+"k": "ba-sababiyya-istiana",
+"a": 5,
+"t": "irab",
+"x": "الباء في «بالطاغية» للسببية على الأقوال كلها إلا على قول قتادة (الصيحة) فإنها للاستعانة كـ«عملتُ بالقَدوم»."
+},
+{
+"k": "idgham-hal-tara",
+"a": 8,
+"t": "qiraat",
+"x": "أدغم أبو عمرو وحده اللام في التاء في «فهل ترى»؛ و«من باقية» مفعول، و«من» مزيدة."
+},
+{
+"k": "tanith-nakhl-fawasil",
+"a": 7,
+"t": "balagha",
+"x": "اسم الجنس «نخل» يُذكّر ويؤنّث، واختير تأنيثه هنا («خاوية») للفواصل، كما اختير تذكيره لها في القمر («منقعر»)."
+},
+{
+"k": "awal-wajh-thawr",
+"a": 17,
+"t": "aqida",
+"x": "فإن قيل: إذا لم يكن فيهم صورة وعل فكيف سُمّوا أوعالًا؟ فالجواب: أن وجه الثور إذا كانت له قرون الوعل أشبه الوعل."
+},
+{
+"k": "jawab-idha-lubab",
+"a": 18,
+"t": "irab",
+"x": "قال أبو حيان: «يومئذ تعرضون» جواب «فإذا نفخ»، وتعقّبه ابن عادل: فيه نظر، بل جوابها «وقعت الواقعة»، و«تعرضون» مستأنف."
+},
+{
+"k": "kulu-amr-imtinan",
+"a": 24,
+"t": "ahkam",
+"x": "قال ابن عادل: «كلوا واشربوا» أمر امتنان لا أمر تكليف."
+},
+{
+"k": "makki-thumma-rad",
+"a": 32,
+"t": "balagha",
+"x": "قال مكي: «ثم» للتراخي الزماني: يُصلى بعد أن يُسلك ويُسلك بعد أن يُؤخذ ويُغلّ بمهلة، وتعقّبه ابن عادل بأن التوعّد بتوالي العذاب آكد وأقطع من التوعّد بتفريقه."
+},
+{
+"k": "hamim-abu-baqa",
+"a": 35,
+"t": "irab",
+"x": "قال أبو البقاء: التقدير: ليس له حميم إلا من غسلين ولا طعام، فجعل «من غسلين» صفة للحميم (ما يُحمّ به البدن من صديد)، أو صفة للحميم والطعام معًا لأن الجميع يُطعم ﴿ومن لم يطعمه فإنه مني﴾؛ ويمتنع إذا أريد بالحميم الصديق."
+},
+{
+"k": "samin-difa",
+"a": 41,
+"t": "irab",
+"x": "دافع السمين الحلبي عن ابن عطية بأنه لم يُرد بدلالة «تؤمنون» على الفعل المحذوف باب الاشتغال بل مجرد الدلالة اللفظية، وقال في ردّ أبي حيان على الزمخشري في معنى القلة: «وهذا مجرد دعوى»."
+},
+{
+"k": "yuminun-haml-khatiun",
+"a": 41,
+"t": "qiraat",
+"x": "قرأ ابن كثير وابن عامر (بخلاف عن ابن ذكوان) «يؤمنون، يذّكّرون» بالغيبة حملًا على «الخاطئون»، والباقون بالخطاب حملًا على «بما تبصرون»."
+}
+]
