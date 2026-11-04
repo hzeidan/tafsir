@@ -1,18 +1,6 @@
 [
 {
-"k": "tasmiya-haqqa",
-"a": 1,
-"t": "munasaba",
-"x": "سُمّيت السورة «الحاقة» لافتتاحها بهذا اللفظ، وهي القيامة التي يتحقق فيها الوعد والوعيد، وتكرر ذكرها في مطلعها ثلاث مرات توكيدًا لأهمية شأنها."
-},
-{
-"k": "maqasid-haqqa",
-"a": 1,
-"t": "munasaba",
-"x": "من مقاصد السورة: تهويل يوم القيامة وتهديد المكذبين به وتذكيرهم بما حلّ بالأمم المكذبة، ووصف أهوال الجزاء وحال السعداء والأشقياء، والتنويه بشأن القرآن والقسم على صدق الرسول ﷺ وردّ افتراءات المشركين، وبيان أن القرآن رحمة للمؤمنين وحسرة على الكافرين."
-},
-{
-"k": "haqqa-tahaqquq-waad"
+"k": "haqqa-maana"
 },
 {
 "k": "ma-adraka-tazim"
@@ -30,19 +18,22 @@
 "k": "sarsar"
 },
 {
-"k": "husum-khilaf"
+"k": "husum-kamila"
 },
 {
-"k": "khawiya-kharba"
+"k": "fiha-ihtimal"
+},
+{
+"k": "khawiya-wujuh"
 },
 {
 "k": "baqiya-wujuh"
 },
 {
-"k": "firawn-taghiya",
-"a": 9,
-"t": "tafsir",
-"x": "«وجاء فرعون»: الطاغية، ومن سبقه من الأمم الكافرة، وأهل قرى قوم لوط، بسبب الفعلة المنكرة من الكفر والشرك والفواحش."
+"k": "mutafikat"
+},
+{
+"k": "khatia-takdhib"
 },
 {
 "k": "rasul-jins"
@@ -57,22 +48,28 @@
 "k": "hamalnakum-aba"
 },
 {
-"k": "tadhkira-zajjaj-tarjih"
+"k": "tadhkira-khilaf"
 },
 {
 "k": "udhun-waiya"
 },
 {
-"k": "sur-qarn-muyassar",
-"a": 13,
-"t": "tafsir",
-"x": "«فإذا نفخ في الصور»: نفخ الملك في القرن نفخة واحدة، وهي النفخة الأولى التي يكون عندها هلاك العالم."
+"k": "sur-qarn-muyassar"
+},
+{
+"k": "nafkha-khilaf"
 },
 {
 "k": "humilat-rufiat"
 },
 {
+"k": "dakka"
+},
+{
 "k": "waqia"
+},
+{
+"k": "inshiqaq-nuzul-malaika"
 },
 {
 "k": "wahiya-suf"
@@ -81,16 +78,19 @@
 "k": "arjaa"
 },
 {
-"k": "thamaniya-khilaf"
+"k": "thamaniya-ashkhas"
+},
+{
+"k": "ard-hisab"
 },
 {
 "k": "la-takhfa"
 },
 {
-"k": "haum-farah"
+"k": "yamin-tanwih"
 },
 {
-"k": "iman-bath-sabab"
+"k": "zanantu-yaqin"
 },
 {
 "k": "radiya-wujuh"
@@ -102,19 +102,25 @@
 "k": "qutuf"
 },
 {
+"k": "haniyan"
+},
+{
 "k": "aslaftum"
 },
 {
 "k": "tamanni-qabaih"
 },
 {
-"k": "qadiya"
+"k": "lam-adri-hal"
+},
+{
+"k": "qadiya-mawta-la-hayat"
 },
 {
 "k": "ma-aghna-mali"
 },
 {
-"k": "sultaniya-khilaf"
+"k": "mal-jah"
 },
 {
 "k": "khudhuh-khazana"
@@ -141,7 +147,10 @@
 "k": "rasul-karim-muhammad"
 },
 {
-"k": "laysa-shiran"
+"k": "mubayin-shir"
+},
+{
+"k": "tanzil-irab"
 },
 {
 "k": "taqawwul-ziyada"
@@ -153,7 +162,7 @@
 "k": "watin"
 },
 {
-"k": "hajizin-maana"
+"k": "la-yatakallaf-kadhib"
 },
 {
 "k": "tadhkira-muttaqin"
@@ -168,6 +177,6 @@
 "k": "haqq-yaqin"
 },
 {
-"k": "sabbih-saadi"
+"k": "sabbih-ism"
 }
 ]

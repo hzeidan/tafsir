@@ -1,23 +1,9 @@
 [
 {
-"k": "tasmiya-qalam",
-"a": 1,
-"t": "tafsir",
-"x": "سُمّيت السورة «القلم» لافتتاحها بإقسام الله بالقلم، وفي ذلك التنويه بشأن القلم وما يترتب على علم الخط والكتابة من رقيّ الأمم وحضاراتها.",
-"r": "التفسير الميسر"
-},
-{
-"k": "maqasid-sura",
-"a": 1,
-"t": "munasaba",
-"x": "من مقاصد سورة القلم: تسلية النبي ﷺ عما لقيه من أذى المشركين وأمره بالصبر وبيان رفعة قدره وكمال هديه وضلال معانديه وتحذيره من طاعتهم؛ ووعيد المشركين بضرب مثل كفرانهم النعمة بقصة أصحاب الجنة ومقابلته بحال المتقين جمعًا بين الترغيب والترهيب؛ والحديث عن القيامة وأهوالها وعجز آلهتهم وأن ما هم فيه من النعمة استدراج.",
-"r": "التفسير الميسر"
-},
-{
 "k": "qalam-jins"
 },
 {
-"k": "yasturun-damir"
+"k": "yasturun"
 },
 {
 "k": "bi-nimat-nubuwwa"
@@ -29,19 +15,25 @@
 "k": "khuluq-quran-maana"
 },
 {
+"k": "tubsir-yubsirun"
+},
+{
 "k": "maftun-aqwal"
 },
 {
-"k": "dalal-fitra"
+"k": "hikma-hidaya"
 },
 {
-"k": "mumalaa-kufr"
+"k": "taat-mukadhdhib-amm"
 },
 {
-"k": "tudhin-aqwal"
+"k": "mudahana-mulatafa"
 },
 {
-"k": "hallaf-kadhdhab-mahin"
+"k": "hallaf-zajr"
+},
+{
+"k": "hammaz"
 },
 {
 "k": "namim"
@@ -50,16 +42,19 @@
 "k": "mannaa-khayr"
 },
 {
-"k": "utul-hadith-fahish"
+"k": "mutad-qabaih"
 },
 {
-"k": "zanim-walad-zina"
+"k": "utul"
+},
+{
+"k": "zanim-zanama-bair"
 },
 {
 "k": "mal-tughyan"
 },
 {
-"k": "ibra-umum-lafz"
+"k": "asatir"
 },
 {
 "k": "khurtum-aqwal"
@@ -77,22 +72,43 @@
 "k": "sarim-aqwal-q"
 },
 {
+"k": "tanadaw"
+},
+{
+"k": "harth-janna"
+},
+{
+"k": "yatakhafatun"
+},
+{
 "k": "hard-aqwal"
 },
 {
 "k": "dallun-mahrumun"
 },
 {
-"k": "awsatuhum"
+"k": "mahrumun-muharafun"
 },
 {
-"k": "tasbih-tawba-saadi"
+"k": "awsat-ibn-ashur"
+},
+{
+"k": "tasbih-tawba-alusi"
+},
+{
+"k": "zalimin"
 },
 {
 "k": "talawum"
 },
 {
 "k": "taghin-tafrit"
+},
+{
+"k": "yubdiluna"
+},
+{
+"k": "raghibun-dua"
 },
 {
 "k": "kadhalika-adhab"
@@ -104,7 +120,10 @@
 "k": "muslimin-mujrimin"
 },
 {
-"k": "tadrusun-waqf"
+"k": "hukm-awaj"
+},
+{
+"k": "kitab-tadrusun"
 },
 {
 "k": "aymanun-ahd"
@@ -116,16 +135,22 @@
 "k": "shuraka"
 },
 {
-"k": "saq-saadi-sifa"
-},
-{
 "k": "saq-sifa-bukhari"
 },
 {
-"k": "sujud-maktuba"
+"k": "saq-saadi-sifa"
 },
 {
-"k": "istidraj-khidhlan"
+"k": "sujud-taat"
+},
+{
+"k": "dharni"
+},
+{
+"k": "istidraj"
+},
+{
+"k": "kayd-matin-saadi"
 },
 {
 "k": "maghram"
@@ -137,10 +162,7 @@
 "k": "isbir-hukm"
 },
 {
-"k": "yunus-qissa-quran"
-},
-{
-"k": "nima-tawfiq"
+"k": "makzum"
 },
 {
 "k": "madhmum-mulim"
@@ -149,7 +171,7 @@
 "k": "ijtaba"
 },
 {
-"k": "ayn-haqq"
+"k": "nazar-bughd"
 },
 {
 "k": "dhikr-jinn-ins"

@@ -269,7 +269,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -278,7 +278,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -1231,7 +1231,7 @@
    "t": "nuzul",
    "x": "سُمّيت السورة «الإنسان» لافتتاحها بذكر الإنسان وخلقه من عدم وخلق ما يلزمه من خيرات الأرض.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1240,7 +1240,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: بيان قدرة الله في خلق الإنسان وتهيئته للتكليف بالسمع والبصر، وأمره بإفراد الله بالعبادة شكرًا وتحذيره من الشرك، وإثبات الجزاء؛ وذكر نعيم أهل السعادة وأوصافهم؛ وتثبيت النبي ﷺ وأمره بالصبر وتحذيره من الليونة للكافرين، وأن اصطفاءه للرسالة نعمة تُشكر بالإقبال على العبادة ليلًا ونهارًا.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1639,7 +1639,7 @@
    "s": [
     "ibnashur",
     "wasit",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -2017,7 +2017,7 @@
     "durr",
     "ibnabizamanin",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "thaalibi",
     "makki"
    ]
@@ -2279,7 +2279,7 @@
    "x": "أرسل إليه الرسل وأنزل الكتب، وبيّن الطريق الموصلة إليه ورغّبه فيها، وبيّن طريق الهلاك ورهّبه عنها، وابتلاه بذلك، فانقسم الناس إلى شاكر قائم بحقوق الله، وكفور ردّ النعم الدينية والدنيوية.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -2776,7 +2776,7 @@
    "s": [
     "tabari",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -2937,7 +2937,7 @@
     "baghawi",
     "thalabi",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -3001,7 +3001,7 @@
    "s": [
     "ibnashur",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jazairi"
    ]
   },
@@ -3068,7 +3068,7 @@
    "x": "مُزجت الخمر بالكافور ليبرّدها ويكسر حدّتها، وهو كافور قد سلم من كل مكدّر في كافور الدنيا، فإن الآفة الموجودة في الدنيا تُعدم من الأسماء التي ذكرها الله في الجنة، كـ«سدر مخضود» و«أزواج مطهرة».",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -3353,7 +3353,7 @@
    "s": [
     "ibnkathir",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "iji"
    ]
   },
@@ -3367,7 +3367,7 @@
     "bahr",
     "adwa",
     "alusi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "iji"
    ]
@@ -3589,7 +3589,7 @@
    "x": "«عينا يشرب بها عباد الله»: لا يخافون نفاد الكأس بل له مادة لا تنقطع، عين دائمة الفيضان يفجّرونها أنّى شاءوا إلى البساتين والرياض وجوانب القصور.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4817,7 +4817,7 @@
     "qasimi",
     "lubab",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "nasafi"
    ]
   },
@@ -5837,7 +5837,7 @@
    "s": [
     "tabari",
     "ibnjawzi",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -5949,7 +5949,7 @@
    "x": "«بما صبروا»: على طاعته فعملوا ما أمكنهم، وعن معاصيه فتركوها، وعلى أقداره المؤلمة فلم يتسخّطوها.",
    "s": [
     "saadi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -6157,7 +6157,7 @@
    "x": "«لا يرون فيها شمسا ولا زمهريرا»: لا حرّ مزعج ولا برد مؤلم، بل مزاج واحد دائم سرمدي، «لا يبغون عنها حولا».",
    "s": [
     "ibnkathir",
-    "mukhtasar",
+    "muyassar",
     "iji"
    ]
   },
@@ -6269,7 +6269,7 @@
     "thalabi",
     "samani",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz"
    ]
@@ -6877,7 +6877,7 @@
    "x": "يطوف عليهم الخدم بأواني الطعام وهي من فضة، وأكواب الشراب وهي الكيزان التي لا عرى لها ولا خراطيم.",
    "s": [
     "ibnkathir",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -7865,7 +7865,7 @@
     "alusi",
     "shawkani",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -8203,7 +8203,7 @@
     "samarqandi",
     "qasimi",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "mawardi",
     "makki"
    ]
@@ -8244,7 +8244,7 @@
    "x": "«حسبتهم لؤلؤا منثورا»: في انتشارهم لقضاء حوائج السادة وكثرتهم وصباحة وجوههم؛ ولا يكون في التشبيه أحسن من هذا، ولا في المنظر أحسن من اللؤلؤ المنثور.",
    "s": [
     "ibnkathir",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -8857,7 +8857,7 @@
     "razi",
     "alusi",
     "lubab",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -8981,7 +8981,7 @@
     "samani",
     "razi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "iji",
     "makki"
@@ -9216,7 +9216,7 @@
    "s": [
     "baghawi",
     "thalabi",
-    "muyassar",
+    "mukhtasar",
     "ibnjuzay",
     "jamiwajiz",
     "iji"
@@ -9425,7 +9425,7 @@
    "x": "«شرابا طهورا»: لا كدر فيه بوجه، مطهّرًا لما في بطونهم من كل أذى وقذى.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -9736,9 +9736,9 @@
    "id": "sundus-bitana",
    "a": 21,
    "t": "tafsir",
-   "x": "قال الميسر: «عاليهم ثياب سندس خضر وإستبرق»: ثياب بطائنها من الحرير الرقيق الأخضر، وظاهرها من الحرير الغليظ.",
+   "x": "قال المختصر: «عاليهم ثياب سندس خضر وإستبرق»: ثياب بطائنها من الحرير الرقيق الأخضر، وظاهرها من الحرير الغليظ.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -10051,7 +10051,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "jazairi",
@@ -10230,7 +10230,7 @@
    "x": "الآثم: الفاجر في أفعاله، والكفور: الكافر بقلبه؛ أي لا تطع الكافرين والمنافقين إن أرادوا صدّك عما أُنزل إليك.",
    "s": [
     "ibnkathir",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -10636,7 +10636,7 @@
    "t": "tafsir",
    "x": "«ولا تطع منهم آثما أو كفورا»: لا تطع آثمًا فيما يدعو إليه من الإثم، ولا كافرًا فيما يدعو إليه من الكفر.",
    "s": [
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "jamiwajiz"
@@ -10680,7 +10680,7 @@
     "tabari",
     "mawsua",
     "ibnabizamanin",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -10691,7 +10691,7 @@
    "x": "«بكرة وأصيلا»: أول النهار وآخره.",
    "s": [
     "ibnkathir",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -10711,7 +10711,7 @@
     "ibnatiyya",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "jazairi",
@@ -10819,7 +10819,7 @@
     "adwa",
     "mawsua",
     "samani",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "jamiwajiz"
@@ -10992,7 +10992,7 @@
     "qurtubi",
     "mawsua",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud",
     "jamiwajiz",
@@ -11029,7 +11029,7 @@
    "s": [
     "qurtubi",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "nasafi"
    ]
   },
@@ -11272,7 +11272,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -11295,7 +11295,7 @@
     "mawsua",
     "samani",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -11328,7 +11328,7 @@
     "samani",
     "shawkani",
     "ibnatiyya",
-    "mukhtasar",
+    "muyassar",
     "mawardi",
     "makki"
    ]
@@ -11488,7 +11488,7 @@
    "x": "«وإذا شئنا بدلنا أمثالهم»: أهلكناهم بالعذاب وبدّلنا أمثالهم خيرًا منهم.",
    "s": [
     "ibnabizamanin",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "jazairi"
    ]
@@ -11661,7 +11661,7 @@
    "x": "«فمن شاء اتخذ إلى ربه سبيلا»: طريقًا إلى رضا ربه بالعمل بطاعته والانتهاء إلى أمره ونهيه.",
    "s": [
     "tabari",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {

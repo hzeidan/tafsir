@@ -290,7 +290,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -299,7 +299,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -481,7 +481,7 @@
     "samarqandi",
     "qasimi",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "makki"
    ]
@@ -558,7 +558,7 @@
    "x": "سُمّيت القيامة «الحاقة» لأن فيها يتحقق الوعد والوعيد؛ ولهذا عظّم أمرها بقوله: «وما أدراك ما الحاقة».",
    "s": [
     "ibnkathir",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -869,7 +869,7 @@
    "t": "munasaba",
    "x": "سُمّيت السورة «الحاقة» لافتتاحها بهذا اللفظ، وهي القيامة التي يتحقق فيها الوعد والوعيد، وتكرر ذكرها في مطلعها ثلاث مرات توكيدًا لأهمية شأنها.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -878,7 +878,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: تهويل يوم القيامة وتهديد المكذبين به وتذكيرهم بما حلّ بالأمم المكذبة، ووصف أهوال الجزاء وحال السعداء والأشقياء، والتنويه بشأن القرآن والقسم على صدق الرسول ﷺ وردّ افتراءات المشركين، وبيان أن القرآن رحمة للمؤمنين وحسرة على الكافرين.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1955,7 +1955,7 @@
     "basit",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "abusuud",
     "ibnjuzay",
     "mawardi",
@@ -2071,7 +2071,7 @@
     "ibnkathir",
     "mawsua",
     "durr",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -2206,7 +2206,7 @@
     "ibnatiyya",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "abusuud",
     "ibnjuzay",
@@ -2250,7 +2250,7 @@
     "ibnjawzi",
     "mawsua",
     "thalabi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -2371,7 +2371,7 @@
     "alusi",
     "shawkani",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "abusuud"
    ]
@@ -2808,7 +2808,7 @@
     "samani",
     "lubab",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "iji",
     "makki"
@@ -2844,7 +2844,7 @@
     "ibnkathir",
     "qurtubi",
     "durr",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -3106,7 +3106,7 @@
    "t": "tafsir",
    "x": "«وجاء فرعون»: الطاغية، ومن سبقه من الأمم الكافرة، وأهل قرى قوم لوط، بسبب الفعلة المنكرة من الكفر والشرك والفواحش.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3765,7 +3765,7 @@
     "ibnatiyya",
     "qinnawji",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "abusuud",
     "ibnjuzay",
     "jamiwajiz",
@@ -4009,7 +4009,7 @@
     "razi",
     "basit",
     "lubab",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi"
    ]
@@ -4229,7 +4229,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz"
    ]
@@ -4418,7 +4418,7 @@
     "tabari",
     "ibnashur",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "makki"
    ]
@@ -4886,7 +4886,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "abusuud"
    ]
   },
@@ -5083,7 +5083,7 @@
     "ibnatiyya",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -5463,7 +5463,7 @@
    "x": "الظاهر أن تمييز «ثمانية» المحذوف: أملاك أي ثمانية أشخاص، وعن الضحاك: صفوف، وعن الحسن: الله أعلم؛ قال أبو حيان: وذكروا في صفاتهم أشكالًا متكاذبة ضربنا عن ذكرها صفحًا.",
    "s": [
     "bahr",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -5991,7 +5991,7 @@
     "shawkani",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -6306,7 +6306,7 @@
    "x": "من شدة فرحه يقول لكل من لقيه: «هاؤم اقرءوا كتابيه» لأنه يعلم أن ما فيه خير وحسنات محضة، إذ بُدّلت سيئاته حسنات.",
    "s": [
     "ibnkathir",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -6543,7 +6543,7 @@
    "x": "أهل السعادة يُعطون كتبهم بأيمانهم تمييزًا لهم وتنويهًا بشأنهم، ويقول أحدهم فرحًا ومحبةً أن يطّلع الخلق على كرامته: «هاؤم اقرءوا كتابيه» أي دونكم كتابي فاقرؤوه، فإنه يبشّر بالجنات ومغفرة الذنوب وستر العيوب.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -6884,7 +6884,7 @@
     "samarqandi",
     "basit",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "ibnjuzay",
     "jazairi",
@@ -7011,7 +7011,7 @@
    "x": "الذي أوصله إلى هذه الحال ما منّ الله به عليه من الإيمان بالبعث والحساب والاستعداد له بالممكن من العمل؛ والظن هنا بمعنى اليقين.",
    "s": [
     "saadi",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -7490,7 +7490,7 @@
    "x": "«هنيئًا»: لا تتأذّون بما تأكلون ولا تشربون، ولا تحتاجون منه إلى غائط ولا بول.",
    "s": [
     "tabari",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -7993,7 +7993,7 @@
    "s": [
     "ibnashur",
     "wasit",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8032,7 +8032,7 @@
     "qasimi",
     "ibnatiyya",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -8070,7 +8070,7 @@
     "ibnkathir",
     "mawsua",
     "durr",
-    "mukhtasar",
+    "muyassar",
     "mawardi"
    ]
   },
@@ -8285,7 +8285,7 @@
     "qasimi",
     "ibnqayyim",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "ibnjuzay",
     "jamiwajiz",
@@ -8315,7 +8315,7 @@
    "x": "«ما أغنى عني ماليه هلك عني سلطانيه»: لم يدفع عني مالي ولا جاهي عذاب الله، بل خلص الأمر إليّ وحدي فلا معين ولا مجير.",
    "s": [
     "ibnkathir",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -10528,7 +10528,7 @@
    "x": "«وما هو بقول شاعر»: لأن محمدًا ﷺ لا يُحسن قول الشعر فتقولوا: هو شعر؛ «ولا بقول كاهن»: لأنه ليس بكاهن فتقولوا: هو من سجع الكهان.",
    "s": [
     "tabari",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "makki"
    ]
@@ -10553,7 +10553,7 @@
     "shawkani",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "iji"
    ]
   },
@@ -10840,7 +10840,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -11486,7 +11486,7 @@
     "qasimi",
     "basit",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -11534,7 +11534,7 @@
     "ibnjawzi",
     "shawkani",
     "qinnawji",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -12161,7 +12161,7 @@
    "s": [
     "tabari",
     "thalabi",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -12236,7 +12236,7 @@
    "s": [
     "saadi",
     "samani",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },

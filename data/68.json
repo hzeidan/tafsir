@@ -290,7 +290,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -299,7 +299,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -669,7 +669,7 @@
     "qurtubi",
     "mawsua",
     "durr",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -1097,7 +1097,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "abusuud",
     "ibnjuzay"
    ]
@@ -1801,9 +1801,9 @@
    "a": 1,
    "t": "tafsir",
    "x": "سُمّيت السورة «القلم» لافتتاحها بإقسام الله بالقلم، وفي ذلك التنويه بشأن القلم وما يترتب على علم الخط والكتابة من رقيّ الأمم وحضاراتها.",
-   "r": "التفسير الميسر",
+   "r": "المختصر في التفسير",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1811,9 +1811,9 @@
    "a": 1,
    "t": "munasaba",
    "x": "من مقاصد سورة القلم: تسلية النبي ﷺ عما لقيه من أذى المشركين وأمره بالصبر وبيان رفعة قدره وكمال هديه وضلال معانديه وتحذيره من طاعتهم؛ ووعيد المشركين بضرب مثل كفرانهم النعمة بقصة أصحاب الجنة ومقابلته بحال المتقين جمعًا بين الترغيب والترهيب؛ والحديث عن القيامة وأهوالها وعجز آلهتهم وأن ما هم فيه من النعمة استدراج.",
-   "r": "التفسير الميسر",
+   "r": "المختصر في التفسير",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3339,7 +3339,7 @@
     "thalabi",
     "shawkani",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "ibnjuzay",
     "jamiwajiz",
@@ -3847,7 +3847,7 @@
    "x": "«إن ربك هو أعلم بمن ضل عن سبيله وهو أعلم بالمهتدين»: تهديد للضالين ووعد للمهتدين، وبيان لحكمة الله حيث يهدي من يصلح للهداية دون غيره.",
    "s": [
     "saadi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "jazairi"
    ]
@@ -3872,7 +3872,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3911,7 +3911,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -3941,7 +3941,7 @@
    "x": "المكذبون ليسوا أهلًا لأن يُطاعوا لأنهم لا يأمرون إلا بما يوافق أهواءهم، فالمطيع لهم مقدم على ما يضره؛ والنهي عام في كل مكذب وكل طاعة ناشئة عن التكذيب، وإن كان السياق في طلبهم أن يسكت عن عيب آلهتهم ويسكتوا عنه.",
    "s": [
     "saadi",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -3993,7 +3993,7 @@
     "durr",
     "samarqandi",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "mawardi",
     "makki"
@@ -4185,7 +4185,7 @@
    "r": "البقرة: 109، الممتحنة: 8",
    "s": [
     "adwa",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4421,7 +4421,7 @@
    "x": "كثير الحلف لا يكون إلا كذّابًا، ولا يكون كذّابًا إلا وهو «مهين»: خسيس النفس ناقص الهمة، ليس له رغبة في الخير، بل إرادته في شهوات نفسه الخسيسة.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4502,7 +4502,7 @@
     "razi",
     "qasimi",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "jazairi",
     "iji"
@@ -4563,7 +4563,7 @@
     "ibnabizamanin",
     "samani",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "ibnjuzay",
     "jazairi",
@@ -5003,7 +5003,7 @@
    "x": "«معتد»: ظلوم يتعدى الحق (مقاتل)، ويمكن حمله على جميع الأخلاق الذميمة، أي أنه نهاية في جميع القبائح؛ و«أثيم» مبالغة في الإثم.",
    "s": [
     "razi",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -5064,7 +5064,7 @@
     "mawsua",
     "durr",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -5097,7 +5097,7 @@
     "tabari",
     "mawsua",
     "durr",
-    "muyassar",
+    "mukhtasar",
     "thaalibi"
    ]
   },
@@ -5285,7 +5285,7 @@
     "durr",
     "alusi",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "ibnjuzay",
     "mawardi",
     "iji"
@@ -5467,7 +5467,7 @@
    "s": [
     "ibnashur",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -6129,7 +6129,7 @@
     "qurtubi",
     "ibnabizamanin",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "mawardi",
     "makki"
    ]
@@ -6172,7 +6172,7 @@
    "x": "هذه الآيات وإن نزلت في بعض المشركين كالوليد بن المغيرة فهي عامة في كل من اتصف بهذا الوصف، لأن القرآن نزل لهداية الخلق كلهم، وربما نزل بعض الآيات في سبب أو شخص لتتضح به القاعدة العامة ويُعرف به أمثال الجزئيات.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -7609,7 +7609,7 @@
     "ibnjawzi",
     "samarqandi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "nasafi"
    ]
   },
@@ -7666,7 +7666,7 @@
    "x": "الحرث: شق الأرض لوضع الزريعة، ويُطلق على الجنة لأنهم يتعاهدونها بالحرث لإصلاح شجرها، وهو المراد هنا كقوله: ﴿وحرث حجر﴾.",
    "s": [
     "ibnashur",
-    "mukhtasar",
+    "muyassar",
     "ibnjuzay",
     "jazairi"
    ]
@@ -7774,7 +7774,7 @@
     "mawsua",
     "ibnabizamanin",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -8277,7 +8277,7 @@
    "s": [
     "mawsua",
     "durr",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8301,7 +8301,7 @@
     "ibnatiyya",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -8391,7 +8391,7 @@
    "x": "«أوسطهم»: أفضلهم وأقربهم إلى الخير، أحد الإخوة الثلاثة؛ والوسط يُطلق على الخيار، كـ﴿أمة وسطا﴾ و﴿الصلاة الوسطى﴾، ويقال: هو من سِطة قومه؛ وحُكي بلا عاطف لأنه في مجرى المحاورة، والاستفهام تقريري و«لولا» للتحضيض.",
    "s": [
     "ibnashur",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8505,7 +8505,7 @@
     "alusi",
     "qasimi",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "abusuud",
     "jamiwajiz"
@@ -8590,7 +8590,7 @@
    "x": "«سبحان ربنا إنا كنا ظالمين»: في تركنا الاستثناء وعزمنا على حرمان المساكين من ثمر جنتنا.",
    "s": [
     "tabari",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -8636,7 +8636,7 @@
    "x": "استدركوا بعد وقوع العذاب الذي لا يُرفع، لكن لعل تسبيحهم وإقرارهم بالظلم ينفعهم في تخفيف الإثم ويكون توبة.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -8797,7 +8797,7 @@
    "x": "«عسى ربنا أن يبدلنا خيرا منها»: رجَوا بتوبتهم أن يعوّضهم الله خيرًا من جنتهم الهالكة، «إنا إلى ربنا راغبون».",
    "s": [
     "tabari",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8913,7 +8913,7 @@
    "r": "مقاتل",
    "s": [
     "mawsua",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -9377,7 +9377,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "jamiwajiz",
@@ -9459,7 +9459,7 @@
     "ibnabizamanin",
     "samarqandi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -9539,7 +9539,7 @@
    "s": [
     "qurtubi",
     "qinnawji",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -11097,7 +11097,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "ibnjuzay",
     "jazairi",
@@ -11230,7 +11230,7 @@
    "s": [
     "bahr",
     "ibnatiyya",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -11329,7 +11329,7 @@
     "ibnkathir",
     "qurtubi",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -11362,7 +11362,7 @@
     "ibnkathir",
     "qurtubi",
     "saadi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "makki"
    ]
@@ -11540,7 +11540,7 @@
    "s": [
     "thalabi",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "abusuud",
     "jazairi",
     "iji"
@@ -11768,7 +11768,7 @@
    "x": "إمدادهم بالأموال والأولاد والأرزاق ليغتروا ويستمروا على ما يضرهم من كيد الله لهم، وكيد الله لأعدائه متين قوي يبلغ من عقوبتهم كل مبلغ.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -12111,7 +12111,7 @@
     "samarqandi",
     "basit",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "ibnjuzay",
     "jazairi",
@@ -12129,7 +12129,7 @@
     "ibnkathir",
     "adwa",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "jazairi"
    ]
@@ -12607,7 +12607,7 @@
     "razi",
     "alusi",
     "shawkani",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "jamiwajiz"
    ]
@@ -12930,7 +12930,7 @@
     "ibnqayyim",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -13175,7 +13175,7 @@
     "ibnatiyya",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",

@@ -268,7 +268,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -277,7 +277,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -1075,7 +1075,7 @@
    "x": "قال المهايمي: سُمّيت «الملك» لاشتمالها على كثير مما ينبغي أن يكون عليه الملك: كثرة الخيرات، وعموم القدرة، والإحياء والإماتة، واختبار الأعمال، والغلبة والغفران، ورفع الأبنية، وعدم التفاوت في الرعايا، وتزيين البلاد، والقهر على الأعداء، والترحم على الأولياء، وأن لا يقدر أحد على نصر من عاداه ولا رزق من منعه.",
    "s": [
     "qasimi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1128,7 +1128,7 @@
    "x": "«بيده الملك»: اليد مجاز عن القدرة والاستيلاء عند المتكلمين، وصفةٌ من صفاته عند المحدثين وهو الأَولى (القنوجي)، مع نفي التشبيه.",
    "s": [
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -1138,7 +1138,7 @@
    "t": "munasaba",
    "x": "من مقاصد سورة الملك: إثبات صفات العظمة لله (تفرّده بالملك والقدرة، وإتقان خلق السماوات وتزيينها، والتذكير بنعمة الأرض) دليلًا على توحيد الألوهية؛ والتحذير من الشياطين، وبيان أن النجاة في اتباع الرسول ﷺ، وإحاطة علم الله، والمقارنة بين مآل الفريقين؛ وتيئيس المشركين من الاعتماد على الأصنام في النصر والرزق، وتوبيخهم على كفر النعمة واستعجال موت النبي ﷺ، ووعيدهم.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1190,7 +1190,7 @@
    "s": [
     "tabari",
     "ibnabizamanin",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jazairi"
    ]
@@ -1254,7 +1254,7 @@
    "r": "محمد بن عجلان",
    "s": [
     "ibnkathir",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1862,7 +1862,7 @@
    "t": "hidaya",
    "x": "في الآية ترغيب في فعل الطاعات وزجر عن اقتراف المعاصي، إذ الحياة والموت إنما خُلقا للابتلاء.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1951,7 +1951,7 @@
     "qasimi",
     "basit",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "jazairi",
     "mawardi",
@@ -2065,7 +2065,7 @@
     "ibnkathir",
     "mawsua",
     "alusi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn"
    ]
   },
@@ -4335,7 +4335,7 @@
     "alusi",
     "shawkani",
     "ibnatiyya",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "abusuud",
     "ibnjuzay",
@@ -4392,7 +4392,7 @@
    "x": "«بالغيب»: في جميع أحوالهم حتى حين لا يطّلع عليهم إلا الله، فلا يُقدمون على معصية ولا يقصّرون في طاعة.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4444,7 +4444,7 @@
     "ibnkathir",
     "saadi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "iji",
     "makki"
@@ -4574,7 +4574,7 @@
     "razi",
     "ibnatiyya",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "thaalibi"
    ]
   },
@@ -4720,7 +4720,7 @@
    "s": [
     "saadi",
     "razi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4740,7 +4740,7 @@
    "r": "طه: 7",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4909,7 +4909,7 @@
     "baghawi",
     "ibnjawzi",
     "mawsua",
-    "mukhtasar",
+    "muyassar",
     "jazairi",
     "mawardi",
     "makki"
@@ -4925,7 +4925,7 @@
     "qurtubi",
     "mawsua",
     "qasimi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4936,7 +4936,7 @@
    "s": [
     "ibnkathir",
     "alusi",
-    "muyassar",
+    "mukhtasar",
     "jazairi"
    ]
   },
@@ -4966,7 +4966,7 @@
     "qasimi",
     "basit",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "mawardi",
@@ -5330,7 +5330,7 @@
    "x": "«وإليه النشور» تنبيه على أنا في هذا المسكن غير مستوطنين، دخلناه عابري سبيل لنتزوّد منه إلى دار القرار؛ فهو منزل عبور لا مستقر حبور، ففيها التحذير من الركون إلى الدنيا والحث على السير إلى الله.",
    "s": [
     "ibnqayyim",
-    "muyassar",
+    "mukhtasar",
     "thaalibi"
    ]
   },
@@ -5426,7 +5426,7 @@
     "adwa",
     "thalabi",
     "lubab",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -5575,7 +5575,7 @@
     "shawkani",
     "qasimi",
     "ibnatiyya",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "abusuud",
     "iji"
@@ -5682,7 +5682,7 @@
     "ibnkathir",
     "qasimi",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz",
     "jazairi",
@@ -5717,7 +5717,7 @@
     "razi",
     "shawkani",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "abusuud",
     "ibnjuzay"
    ]
@@ -5845,7 +5845,7 @@
     "razi",
     "basit",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "iji",
     "makki"
@@ -5860,7 +5860,7 @@
     "qurtubi",
     "shawkani",
     "lubab",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -6260,7 +6260,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "abusuud",
     "jamiwajiz",
     "iji"
@@ -7125,7 +7125,7 @@
     "qasimi",
     "basit",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "ibnjuzay",
     "jamiwajiz",
@@ -7841,7 +7841,7 @@
     "lubab",
     "qinnawji",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jazairi"
    ]

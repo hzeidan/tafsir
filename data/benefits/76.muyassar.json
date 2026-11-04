@@ -1,17 +1,5 @@
 [
 {
-"k": "tasmiya-insan",
-"a": 1,
-"t": "nuzul",
-"x": "سُمّيت السورة «الإنسان» لافتتاحها بذكر الإنسان وخلقه من عدم وخلق ما يلزمه من خيرات الأرض."
-},
-{
-"k": "maqasid-surah",
-"a": 1,
-"t": "munasaba",
-"x": "من مقاصد السورة: بيان قدرة الله في خلق الإنسان وتهيئته للتكليف بالسمع والبصر، وأمره بإفراد الله بالعبادة شكرًا وتحذيره من الشرك، وإثبات الجزاء؛ وذكر نعيم أهل السعادة وأوصافهم؛ وتثبيت النبي ﷺ وأمره بالصبر وتحذيره من الليونة للكافرين، وأن اصطفاءه للرسالة نعمة تُشكر بالإقبال على العبادة ليلًا ونهارًا."
-},
-{
 "k": "madhkur-khilaf"
 },
 {
@@ -21,22 +9,22 @@
 "k": "nabtalihi-hal-muqaddara"
 },
 {
-"k": "sami-basir-mubalagha"
-},
-{
-"k": "hadaynahu-bayan"
+"k": "hidaya-rusul-targhib"
 },
 {
 "k": "salasil-aghlal"
 },
 {
-"k": "abrar-tabari"
+"k": "abrar-mutiun"
 },
 {
-"k": "kafur-wasf"
+"k": "kafur-tabrid-afat"
 },
 {
-"k": "muqarrabun-sirf"
+"k": "ayn-la-tanqati"
+},
+{
+"k": "tadmin-yarwa"
 },
 {
 "k": "yufajjirunaha"
@@ -51,9 +39,6 @@
 "k": "ala-hubbihi-taam"
 },
 {
-"k": "asnaf-balad"
-},
-{
 "k": "lam-yaqulu-bi-alsinatihim"
 },
 {
@@ -63,19 +48,16 @@
 "k": "nadra-surur"
 },
 {
-"k": "bima-sabaru"
+"k": "sabr-thalatha"
 },
 {
 "k": "ittika-saadi"
 },
 {
-"k": "shams-zamharir-sayf-shita"
+"k": "mizaj-wahid"
 },
 {
 "k": "dhullilat-qutufuha"
-},
-{
-"k": "aniya-taam-akwab"
 },
 {
 "k": "fidda-qawarir"
@@ -87,28 +69,19 @@
 "k": "zanjabil-mazj"
 },
 {
-"k": "salsabil-lugha"
-},
-{
 "k": "mukhalladun-sinn"
 },
 {
-"k": "luluan-tashbih"
-},
-{
-"k": "raayta-yashi"
+"k": "luluan-manthura"
 },
 {
 "k": "mulk-kabir-mamlaka"
 },
 {
-"k": "sundus-bitana",
-"a": 21,
-"t": "tafsir",
-"x": "قال الميسر: «عاليهم ثياب سندس خضر وإستبرق»: ثياب بطائنها من الحرير الرقيق الأخضر، وظاهرها من الحرير الغليظ."
+"k": "sundus-istabraq"
 },
 {
-"k": "tahur-adnas"
+"k": "tahur-saadi"
 },
 {
 "k": "jaza-yuqal"
@@ -117,34 +90,37 @@
 "k": "shukr-qabul"
 },
 {
+"k": "nazzalna-tafriq"
+},
+{
 "k": "hukm-qadari-dini"
 },
 {
-"k": "athim-fajir-kafur-qalb"
+"k": "la-tuti-fima-yadu",
+"a": 24,
+"t": "tafsir",
+"x": "«ولا تطع منهم آثما أو كفورا»: لا تطع آثمًا فيما يدعو إليه من الإثم، ولا كافرًا فيما يدعو إليه من الكفر."
 },
 {
-"k": "bukra-awwal-nahar"
+"k": "bukra-asil-salawat"
 },
 {
-"k": "layl-tawil"
+"k": "salawat-khams-ibn-habib"
 },
 {
 "k": "ajila-dunya"
 },
 {
-"k": "waraahum-khilaf"
+"k": "thaqil-sabab"
 },
 {
-"k": "asr-khalq"
+"k": "asr-mafasil-shurj"
 },
 {
-"k": "tabdil-khayran"
+"k": "badalna-amthalahum"
 },
 {
 "k": "hadhihi-surah"
-},
-{
-"k": "sabil-ila-rabbih"
 },
 {
 "k": "mashia-amr-ilayh"

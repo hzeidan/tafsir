@@ -282,7 +282,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -291,7 +291,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -1255,7 +1255,7 @@
    "t": "nuzul",
    "x": "سُمّيت المعارج لذكر عروج الملائكة والروح من الأرض إلى السماء في مطلعها.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1264,7 +1264,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: تهديد الكافرين بعذاب يوم القيامة وتصوير حالهم فيه، وتثبيت النبي ﷺ وتسليته عما يلقاه من المستهزئين، وذكر طبيعة الإنسان في الجزع عند الشدة والبطر عند النعمة ومقابلة ذلك بأعمال المؤمنين، والتأكيد بالقسم على أن البعث والجزاء حق.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1512,7 +1512,7 @@
     "durr",
     "thalabi",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -1653,7 +1653,7 @@
    "x": "«ذي المعارج»: ذي العلوّ والجلال والعظمة والتدبير لسائر الخلق، الذي تعرج إليه الملائكة بما جعلها على تدبيره.",
    "s": [
     "saadi",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "jazairi"
    ]
@@ -1816,7 +1816,7 @@
     "ibnashur",
     "thalabi",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jazairi",
     "makki"
@@ -1909,7 +1909,7 @@
     "alusi",
     "ibnatiyya",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "abusuud",
     "thaalibi",
@@ -2329,7 +2329,7 @@
    "x": "هذا العروج كائن يوم القيامة وهو اليوم الذي مقداره خمسون ألف سنة، وهي تقريبات لنهاية عظمة تلك المنازل وعظمة ذلك اليوم؛ و«في يوم» يتنازعه «واقع» و«تعرج».",
    "s": [
     "ibnashur",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -3300,7 +3300,7 @@
     "mawsua",
     "durr",
     "alusi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3325,7 +3325,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "jazairi",
     "mawardi"
@@ -3541,7 +3541,7 @@
     "ibnkathir",
     "baghawi",
     "ibnashur",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -3585,7 +3585,7 @@
    "s": [
     "ibnjawzi",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jazairi"
    ]
@@ -4036,7 +4036,7 @@
     "thalabi",
     "shawkani",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "abusuud"
    ]
   },
@@ -4314,7 +4314,7 @@
    "t": "tafsir",
    "x": "«يبصّرونهم»: يرونهم ويعرفونهم ولا يستطيع أحد أن ينفع أحدًا.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -6142,7 +6142,7 @@
     "tabari",
     "baghawi",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -6459,7 +6459,7 @@
    "t": "tafsir",
    "x": "«إلا المصلين» فهم سالمون من تلك الصفات الذميمة.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -7192,7 +7192,7 @@
    "x": "المحروم: الذي لا يسأل الناس تعففًا مع حاجته فلا يُتفطَّن له فيبقى كالمحروم؛ وأصل المحروم: الممنوع من مرغوبه.",
    "s": [
     "ibnashur",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz",
     "jazairi"
@@ -7326,7 +7326,7 @@
    "t": "tafsir",
    "x": "«المحروم»: الذي لا يسألهم ممن حُرم الرزق لأي سبب كان.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -7348,7 +7348,7 @@
    "x": "«يصدقون بيوم الدين»: يوقنون بالمعاد والحساب والجزاء، فهم يعملون عمل من يرجو الثواب ويخاف العقاب.",
    "s": [
     "ibnkathir",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -7359,7 +7359,7 @@
    "x": "«بيوم الدين»: بيوم الجزاء، وهو يوم القيامة.",
    "s": [
     "qurtubi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn"
    ]
   },
@@ -7505,7 +7505,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "abusuud",
     "jamiwajiz"
    ]
@@ -7547,7 +7547,7 @@
    "x": "«غير مأمون»: لا يأمنه أحد ممن عقل عن الله أمره إلا بأمانٍ من الله تعالى.",
    "s": [
     "ibnkathir",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -7580,7 +7580,7 @@
    "x": "«غير مأمون»: لم يأتِ لأحد الأمان من عذاب الله، ولا ينبغي لأحد أن يأمن عذاب الله.",
    "s": [
     "samarqandi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -7646,7 +7646,7 @@
    "s": [
     "tabari",
     "ibnkathir",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -7707,7 +7707,7 @@
    "t": "tafsir",
    "x": "«لفروجهم حافظون»: بسترها وإبعادها عن الفواحش، و«غير ملومين» في التمتع بالزوجات والإماء بالوطء فما دونه.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -7876,7 +7876,7 @@
     "ibnabizamanin",
     "samarqandi",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -7946,7 +7946,7 @@
    "x": "الأمانات شاملة لما بين العبد وربه كالتكاليف السرية التي لا يطلع عليها إلا الله، ولما بينه وبين الخلق في الأموال والأسرار؛ والعهد شامل لعهد الله وعهد الخلق، والعبد مسؤول عنه هل وفّاه أم خانه.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8063,7 +8063,7 @@
     "tabari",
     "baghawi",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -8236,7 +8236,7 @@
    "x": "«بشهادتهم قائمون»: لا يشهدون إلا بما يعلمونه من غير زيادة ولا نقص ولا كتمان، ولا يحابون قريبًا ولا صديقًا، ويقصدون بإقامتها وجه الله.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8412,7 +8412,7 @@
    "x": "«يحافظون»: على مواقيتها وأركانها وواجباتها ومستحباتها.",
    "s": [
     "ibnkathir",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -8591,7 +8591,7 @@
    "t": "tafsir",
    "x": "«يحافظون»: بأدائها في وقتها وبطهارة وطمأنينة لا يشغلهم عنها شاغل.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8650,7 +8650,7 @@
    "x": "«مكرمون»: أكرمهم الله فيها بأنواع الكرامات.",
    "s": [
     "qurtubi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -8726,7 +8726,7 @@
    "t": "aqida",
    "x": "«مكرمون»: بما يلقونه من النعيم المقيم والنظر إلى وجه الله الكريم.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8764,7 +8764,7 @@
     "shawkani",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "mawardi"
    ]
   },
@@ -8786,7 +8786,7 @@
    "s": [
     "baghawi",
     "thalabi",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz",
     "iji"
@@ -9312,7 +9312,7 @@
     "samarqandi",
     "razi",
     "basit",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -9396,7 +9396,7 @@
    "s": [
     "alusi",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "abusuud"
    ]
   },
@@ -9459,7 +9459,7 @@
    "s": [
     "ibnkathir",
     "ibnashur",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -9623,7 +9623,7 @@
    "x": "«مما يعلمون»: من ماء دافق يخرج من بين الصلب والترائب، فهم ضعفاء لا يملكون لأنفسهم نفعًا ولا ضرًّا ولا موتًا ولا حياةً ولا نشورًا.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -10047,7 +10047,7 @@
     "samani",
     "samarqandi",
     "shawkani",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jazairi",
     "makki"
@@ -10079,7 +10079,7 @@
     "samani",
     "samarqandi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -10125,7 +10125,7 @@
    "s": [
     "mawsua",
     "basit",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -10154,7 +10154,7 @@
    "x": "قول من قال: «على أن نبدل خيرا منهم» أي نعطي محمدًا ﷺ من هو خير منهم وهم الأنصار، ليس بذاك عند الألوسي.",
    "s": [
     "alusi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -10166,7 +10166,7 @@
     "alusi",
     "shawkani",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "abusuud"
    ]
   },
@@ -10455,7 +10455,7 @@
     "mawsua",
     "durr",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "jazairi",
@@ -10520,7 +10520,7 @@
     "ibnkathir",
     "samani",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "ibnjuzay",
     "iji"
    ]

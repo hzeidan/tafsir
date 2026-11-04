@@ -258,7 +258,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -267,7 +267,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -455,7 +455,7 @@
     "alusi",
     "ibnatiyya",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "jazairi",
     "mawardi",
     "makki"
@@ -972,7 +972,7 @@
    "t": "nuzul",
    "x": "سُمّيت المزمل لاستهلالها بنداء النبي ﷺ بهذا الوصف، أي المتغطي بالثوب ونحوه.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -981,7 +981,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: الإشارة إلى ثقل الوحي وأمره ﷺ بالاستعانة عليه بإحياء الليل، وتثبيته والإعراض عن تكذيب المشركين والصبر على أذاهم؛ ووعظ المشركين بما حلّ بقوم فرعون ووعيدهم بأهوال القيامة؛ والثناء على طائفة واظبت على القيام، والأمر بالصلاة والزكاة والصدقة والوعد بالجزاء العظيم.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1135,7 +1135,7 @@
     "shawkani",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "abusuud"
    ]
@@ -1721,7 +1721,7 @@
     "samarqandi",
     "qasimi",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "jazairi",
     "iji",
     "makki"
@@ -2178,7 +2178,7 @@
    "t": "qiraat",
    "x": "«ورتل القرآن ترتيلا»: اقرأه بتؤدة وتمهّل مبيّنًا الحروف والوقوف.",
    "s": [
-    "muyassar",
+    "mukhtasar",
     "nasafi"
    ]
   },
@@ -2779,7 +2779,7 @@
    "x": "ناشئة الليل ساعاته، والمقصود أن قيام الليل أشد مواطأة بين القلب واللسان وأجمع للخاطر في أداء القراءة وتفهّمها من قيام النهار، لأن النهار وقت انتشار الناس ولغط الأصوات والمعاش.",
    "s": [
     "ibnkathir",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -3143,7 +3143,7 @@
    "x": "«إن ناشئة الليل»: الصلاة فيه بعد النوم، «أشد وطئا وأقوم قيلا»: أقرب إلى حصول مقصود القرآن، يتواطأ عليه القلب واللسان وتقل الشواغل ويفهم ما يقول ويستقيم له أمره، بخلاف النهار.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3567,7 +3567,7 @@
    "x": "«واذكر اسم ربك»: ادعه به.",
    "s": [
     "tabari",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3836,7 +3836,7 @@
    "x": "«واذكر اسم ربك»: شامل لأنواع الذكر كلها.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4443,7 +4443,7 @@
    "x": "الهجر الجميل: الهجر حيث اقتضت المصلحة، الذي لا أذية فيه، بالإعراض عن أقوالهم المؤذية، مع جدالهم بالتي هي أحسن.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4478,7 +4478,7 @@
    "s": [
     "razi",
     "alusi",
-    "muyassar",
+    "mukhtasar",
     "abusuud",
     "iji"
    ]
@@ -4537,7 +4537,7 @@
    "x": "«وذرني والمكذبين أولي النعمة»: دعني وإياهم، وهم أهل التنعّم في الدنيا، «ومهّلهم قليلا»: أخّرهم بالعذاب حتى يبلغ الكتاب أجله.",
    "s": [
     "tabari",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -4634,7 +4634,7 @@
     "qasimi",
     "basit",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "abusuud",
     "jamiwajiz",
     "jazairi",
@@ -5008,7 +5008,7 @@
     "samarqandi",
     "qasimi",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "mawardi",
     "makki"
    ]
@@ -5108,7 +5108,7 @@
    "x": "«ذا غصة»: لمرارته وبشاعته وكراهة طعمه وريحه الخبيث المنتن.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -5657,7 +5657,7 @@
     "ibnkathir",
     "ibnatiyya",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -5792,7 +5792,7 @@
    "t": "tafsir",
    "x": "«فأخذناه أخذا وبيلا»: عاقبناه عقابًا شديدًا في الدنيا بالغرق وفي الآخرة بعذاب النار، فلا تعصوا أنتم رسولكم فيصيبكم ما أصابه.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -6702,7 +6702,7 @@
     "durr",
     "thalabi",
     "samarqandi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -6824,7 +6824,7 @@
     "qurtubi",
     "mawsua",
     "ibnabizamanin",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "makki"
    ]
@@ -7142,7 +7142,7 @@
     "razi",
     "shawkani",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jazairi",
     "iji"
    ]
@@ -7160,7 +7160,7 @@
     "saadi",
     "shawkani",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "jazairi",
     "iji"

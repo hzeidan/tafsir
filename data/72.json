@@ -266,7 +266,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -275,7 +275,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -452,7 +452,7 @@
    "s": [
     "tabari",
     "ibnkathir",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -1026,7 +1026,7 @@
    "x": "«عجبا» وصف بالمصدر للمبالغة: عجب في نفسه لفصاحة كلامه وحسن مبانيه ودقة معانيه وغرابة أسلوبه وبلاغة مواعظه ومباينته لسائر الكتب؛ والعجب ما خرج عن أشكاله ونظائره.",
    "s": [
     "bahr",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "jamiwajiz",
@@ -1553,7 +1553,7 @@
    "t": "munasaba",
    "x": "سُمّيت سورة الجن لذكرها بعض أحوالهم وأقوالهم وأحاديثهم العجيبة وعلاقتهم بالإنس.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1562,7 +1562,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: إثبات كرامة للنبي ﷺ ببلوغ دعوته الجن فآمنوا فور سماعهم ودعوا قومهم ووحّدوا الله ونزّهوه عن الصاحبة والولد، وتضليل المتقوّلين على الله ومنكري البعث، وإبطال عبادة الجن، وحراسة السماء، وإبطال الكهانة وبلوغ الغيب لغير الرسل.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1649,7 +1649,7 @@
    "x": "«يهدي إلى الرشد»: يدل على الحق وسبيل الصواب، «فآمنا به»: صدّقناه، «ولن نشرك بربنا أحدا» من خلقه.",
    "s": [
     "tabari",
-    "muyassar",
+    "mukhtasar",
     "abusuud"
    ]
   },
@@ -1875,7 +1875,7 @@
    "t": "tafsir",
    "x": "«يهدي إلى الرشد»: يدل على الصواب في الاعتقاد والقول والعمل.",
    "s": [
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -2943,7 +2943,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "jazairi",
@@ -3065,7 +3065,7 @@
    "t": "tafsir",
    "x": "«وأنا ظننا»: حسبنا أن المشركين من الإنس والجن لا يكذبون حين زعموا أن لله صاحبة وولدًا، فصدّقنا قولهم تقليدًا لهم.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -3094,7 +3094,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "ibnjuzay",
@@ -3644,7 +3644,7 @@
    "t": "aqida",
    "x": "الاستعاذة بغير الله التي نعاها الله على أهل الجاهلية من الشرك الأكبر الذي لا يغفره الله إلا بالتوبة النصوح منه.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3653,7 +3653,7 @@
    "t": "hidaya",
    "x": "في الآية تحذير شديد من اللجوء إلى السحرة والمشعوذين وأشباههم.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3906,7 +3906,7 @@
     "ibnjawzi",
     "bahr",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "jazairi"
@@ -4011,7 +4011,7 @@
     "razi",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud",
     "ibnjuzay",
@@ -4639,7 +4639,7 @@
    "t": "hidaya",
    "x": "في الآيتين ٨ و٩ إبطال مزاعم السحرة والمشعوذين الذين يدّعون علم الغيب ويغرّرون بضعفة العقول بكذبهم وافترائهم.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4870,7 +4870,7 @@
    "t": "tafsir",
    "x": "«وأنا لا ندري»: لا نعلم سبب هذه الحراسة الشديدة أأريد شر بأهل الأرض أم خير، فقد انقطع عنا خبر السماء.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -5326,7 +5326,7 @@
     "ibnatiyya",
     "basit",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "ibnjuzay",
     "jamiwajiz",
     "thaalibi",
@@ -5443,7 +5443,7 @@
    "s": [
     "alusi",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "iji"
    ]
   },
@@ -5758,7 +5758,7 @@
    "t": "quran",
    "x": "«لما سمعنا الهدى»: القرآن الذي يهدي للتي هي أقوم، كما قال: «إن هذا القرآن يهدي للتي هي أقوم».",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -6072,7 +6072,7 @@
    "t": "tafsir",
    "x": "«فأولئك تحروا رشدا»: قصدوا طريق الحق والصواب واجتهدوا في اختياره فهداهم الله إليه.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -6131,7 +6131,7 @@
     "tabari",
     "ibnkathir",
     "qurtubi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -6303,7 +6303,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -6532,7 +6532,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -6907,7 +6907,7 @@
     "qurtubi",
     "saadi",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn"
    ]
   },
@@ -7318,7 +7318,7 @@
    "t": "hidaya",
    "x": "«ومن يعرض عن ذكر ربه»: عن طاعة ربه واستماع القرآن وتدبره والعمل به، يدخله عذابًا شديدًا شاقًّا.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -7375,7 +7375,7 @@
    "s": [
     "tabari",
     "baghawi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -7399,7 +7399,7 @@
     "basit",
     "lubab",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "iji",
@@ -8043,7 +8043,7 @@
    "t": "ahkam",
    "x": "في الآية وجوب تنزيه المساجد من كل ما يشوب الإخلاص لله ومتابعة رسوله محمد ﷺ.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -8667,7 +8667,7 @@
    "s": [
     "saadi",
     "wasit",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -8907,7 +8907,7 @@
    "t": "aqida",
    "x": "«لا أملك لكم ضرا ولا رشدا»: لا أملك دفع ضر قدّره الله عليكم، ولا جلب نفع منعكم الله إياه.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -9265,7 +9265,7 @@
     "bahr",
     "samarqandi",
     "ibnatiyya",
-    "muyassar",
+    "mukhtasar",
     "jazairi",
     "thaalibi"
    ]
@@ -9504,7 +9504,7 @@
    "s": [
     "tabari",
     "shawkani",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -9516,7 +9516,7 @@
    "s": [
     "ibnkathir",
     "baghawi",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -10352,7 +10352,7 @@
     "thalabi",
     "shawkani",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "ibnjuzay"
    ]
   },
@@ -10470,7 +10470,7 @@
    "x": "«رصدا»: يجعل للرسول حفظة من الملائكة يحفظون الوحي من أن تسترقه الشياطين فتلقيه إلى الكهنة فيتكلمون به قبل أن يخبر النبي ﷺ الناس؛ وقال الزجاج: من بين يدي الملك ومن خلفه، وقيل: من بين يدي الوحي.",
    "s": [
     "ibnjawzi",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -10749,7 +10749,7 @@
    "s": [
     "tabari",
     "qurtubi",
-    "mukhtasar",
+    "muyassar",
     "jazairi",
     "makki"
    ]
@@ -10974,7 +10974,7 @@
    "x": "«وأحاط بما لديهم»: بما عندهم وما أسرّوه وما أعلنوه.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {

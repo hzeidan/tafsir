@@ -1,12 +1,27 @@
 [
 {
+"k": "tasmiya-uruj",
+"a": 1,
+"t": "nuzul",
+"x": "سُمّيت المعارج لذكر عروج الملائكة والروح من الأرض إلى السماء في مطلعها."
+},
+{
+"k": "maqasid-sura",
+"a": 1,
+"t": "munasaba",
+"x": "من مقاصد السورة: تهديد الكافرين بعذاب يوم القيامة وتصوير حالهم فيه، وتثبيت النبي ﷺ وتسليته عما يلقاه من المستهزئين، وذكر طبيعة الإنسان في الجزع عند الشدة والبطر عند النعمة ومقابلة ذلك بأعمال المؤمنين، والتأكيد بالقسم على أن البعث والجزاء حق."
+},
+{
 "k": "saal-istihza-dua"
 },
 {
-"k": "maarij-uluw-fawadil"
+"k": "maarij-saadi-uluw"
 },
 {
-"k": "uruj-yawm-qiyama-ibn-ashur"
+"k": "ruh-jibril"
+},
+{
+"k": "yukhaffaf-mumin"
 },
 {
 "k": "sabr-jamil-la-shakwa"
@@ -15,16 +30,19 @@
 "k": "baid-mustahil"
 },
 {
-"k": "muhl-aqwal-qurtubi"
+"k": "muhl-durdi"
 },
 {
-"k": "ihn-daf-khiffa"
+"k": "ihn-manfush-qaria"
 },
 {
 "k": "hamim-shughl"
 },
 {
-"k": "yubassarunahum-nasb-ayn"
+"k": "la-yanfa-ahad",
+"a": 11,
+"t": "tafsir",
+"x": "«يبصّرونهم»: يرونهم ويعرفونهم ولا يستطيع أحد أن ينفع أحدًا."
 },
 {
 "k": "tartib-fida"
@@ -48,91 +66,64 @@
 "k": "halu-tarif"
 },
 {
-"k": "jazu-manu-mal"
-},
-{
-"k": "musallin-salimun",
-"a": 22,
-"t": "tafsir",
-"x": "«إلا المصلين» فهم سالمون من تلك الصفات الذميمة."
-},
-{
 "k": "daimun-saadi"
 },
 {
 "k": "haqq-zakat-tarjih"
 },
 {
-"k": "mahrum-ayy-sabab",
-"a": 25,
-"t": "tafsir",
-"x": "«المحروم»: الذي لا يسألهم ممن حُرم الرزق لأي سبب كان."
+"k": "mahrum-mutaaffif"
 },
 {
-"k": "yawm-din-jaza"
+"k": "yusaddiqun-amal"
 },
 {
-"k": "ishfaq-istiqsar"
+"k": "ghayr-mamun-amaan"
 },
 {
-"k": "ghayr-mamun-illa-aman"
-},
-{
-"k": "furuj-satr",
-"a": 29,
-"t": "tafsir",
-"x": "«لفروجهم حافظون»: بسترها وإبعادها عن الفواحش، و«غير ملومين» في التمتع بالزوجات والإماء بالوطء فما دونه."
+"k": "furuj-hifz"
 },
 {
 "k": "adun-tarif"
 },
 {
-"k": "amanat-sirriyya"
+"k": "amanat-uhud-tabari"
 },
 {
-"k": "shahada-saadi"
+"k": "shahadat-qaimun"
 },
 {
-"k": "muhafaza-tumanina",
-"a": 34,
-"t": "tafsir",
-"x": "«يحافظون»: بأدائها في وقتها وبطهارة وطمأنينة لا يشغلهم عنها شاغل."
+"k": "yuhafizun-arkan"
 },
 {
-"k": "mukramun-ruya",
-"a": 35,
-"t": "aqida",
-"x": "«مكرمون»: بما يلقونه من النعيم المقيم والنظر إلى وجه الله الكريم."
+"k": "mukramun-karamat"
 },
 {
-"k": "muhtiin-qurtubi"
+"k": "muhtiin-madd-anaq"
 },
 {
 "k": "izin-halaq"
 },
 {
-"k": "tama-bila-iman"
+"k": "tama-ibn-abbas"
 },
 {
-"k": "khalaqnahum-daf"
+"k": "main-mahin-quran"
 },
 {
 "k": "mashariq-kawakib-bath"
 },
 {
-"k": "tabdil-ansar-radd"
+"k": "nubaddil-muqatil"
 },
 {
-"k": "nubaddil-khayran"
-},
-{
-"k": "masbuqin-ajizin"
+"k": "masbuqin-hikma"
 },
 {
 "k": "dharhum-yakhudu"
 },
 {
-"k": "nusub-alam"
+"k": "nusub-sanam-tashbih"
 },
 {
 "k": "khashia-dhilla"

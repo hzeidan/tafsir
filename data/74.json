@@ -294,7 +294,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -303,7 +303,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -1029,7 +1029,7 @@
    "t": "tafsir",
    "x": "سُمّيت المدثر لأنها تحدثت عن نبينا محمد ﷺ في بدء الوحي ووصفته بالمدثر وهو المتغطي بالثوب، وفي ذلك دلالة على عظم أمر الوحي وجلالة شأنه.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1038,7 +1038,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: تكريم النبي ﷺ بالرسالة وتكليفه بأعباء الدعوة والصبر على الأذى وإعلان الوحدانية، وتهديد المجرمين بيوم عسير مع عرض قصة مشرك عرف الحق وتركه عنادًا وطعن في القرآن، ووصف جهنم وخزنتها، وحوار المؤمنين والمجرمين عن سبب دخولهم الجحيم.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1070,7 +1070,7 @@
     "adwa",
     "mawsua",
     "durr",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -1195,7 +1195,7 @@
    "x": "«قم فأنذر»: من النار.",
    "s": [
     "ibnabizamanin",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -1269,7 +1269,7 @@
     "tabari",
     "ibnkathir",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "thaalibi"
    ]
   },
@@ -1846,7 +1846,7 @@
    "s": [
     "bahr",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "jazairi"
    ]
@@ -2179,7 +2179,7 @@
    "t": "tafsir",
    "x": "«وثيابك فطهر»: طهّر نفسك من الذنوب وثيابك من النجاسات، جمعًا بين المعنيين.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -2280,7 +2280,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "thaalibi",
     "iji",
     "makki"
@@ -2430,7 +2430,7 @@
     "razi",
     "qasimi",
     "ibnatiyya",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -2625,7 +2625,7 @@
     "basit",
     "lubab",
     "ibnqayyim",
-    "muyassar",
+    "mukhtasar",
     "ibnjuzay",
     "mawardi",
     "thaalibi",
@@ -2655,7 +2655,7 @@
    "s": [
     "tabari",
     "mawsua",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "jazairi",
     "makki"
@@ -3165,7 +3165,7 @@
     "ibnabizamanin",
     "basit",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -3240,7 +3240,7 @@
    "s": [
     "bahr",
     "ibnatiyya",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud",
     "ibnjuzay",
@@ -3471,7 +3471,7 @@
     "ibnjawzi",
     "samani",
     "shawkani",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "ibnjuzay",
     "mawardi"
@@ -3648,7 +3648,7 @@
    "s": [
     "razi",
     "lubab",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3702,7 +3702,7 @@
     "mawsua",
     "durr",
     "samani",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -3856,7 +3856,7 @@
     "basit",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "ibnjuzay",
     "thaalibi"
@@ -4011,7 +4011,7 @@
    "x": "ذمّ الله الوليد ذمًّا لم يذمّ به غيره، وهذا جزاء كل من عاند الحق ونابذه: له الخزي في الدنيا ولعذاب الآخرة أخزى.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4396,7 +4396,7 @@
     "samani",
     "samarqandi",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "iji"
    ]
@@ -4455,7 +4455,7 @@
     "shawkani",
     "qasimi",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "abusuud"
    ]
   },
@@ -4611,7 +4611,7 @@
     "durr",
     "thalabi",
     "ibnabizamanin",
-    "mukhtasar",
+    "muyassar",
     "thaalibi",
     "makki"
    ]
@@ -4738,7 +4738,7 @@
     "tabari",
     "ibnkathir",
     "baghawi",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -4900,7 +4900,7 @@
     "ibnabizamanin",
     "samani",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "makki"
    ]
@@ -5361,7 +5361,7 @@
     "ibnkathir",
     "ibnjawzi",
     "durr",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -5453,7 +5453,7 @@
     "shawkani",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "jamiwajiz"
    ]
@@ -5615,7 +5615,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "mawardi",
     "thaalibi"
    ]
@@ -6342,7 +6342,7 @@
    "s": [
     "tabari",
     "thalabi",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -6535,7 +6535,7 @@
     "thalabi",
     "samarqandi",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "mawardi",
     "makki"
    ]
@@ -6584,7 +6584,7 @@
    "s": [
     "ibnjawzi",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "jamiwajiz",
@@ -7513,7 +7513,7 @@
     "mawsua",
     "durr",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "jazairi",
     "makki"
    ]
@@ -7528,7 +7528,7 @@
     "baghawi",
     "ibnjawzi",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -7560,7 +7560,7 @@
     "mawsua",
     "durr",
     "thalabi",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jazairi",
     "makki"
@@ -7597,7 +7597,7 @@
    "x": "«وما جعلنا عدتهم إلا فتنة»: إنما ذكرنا عدتهم اختبارًا للناس.",
    "s": [
     "ibnkathir",
-    "muyassar",
+    "mukhtasar",
     "nasafi"
    ]
   },
@@ -8000,7 +8000,7 @@
    "x": "رأى ابن عاشور أن «الذين في قلوبهم مرض» المترددون بين الإسلام والبقاء على الشرك، كالأخنس بن شريق والوليد بن المغيرة، وليس المنافقين لأنهم لم يظهروا إلا بالمدينة والآية مكية.",
    "s": [
     "ibnashur",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8692,7 +8692,7 @@
    "s": [
     "shawkani",
     "qinnawji",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -8861,19 +8861,19 @@
    ]
   },
   {
-   "id": "ziyadat-iman-amal",
+   "id": "nar-azama",
    "a": 31,
-   "t": "aqida",
-   "x": "«ويزداد الذين آمنوا إيمانا»: يزداد المؤمنون تصديقًا بالله ورسوله وعملًا بشرعه.",
+   "t": "tafsir",
+   "x": "«وما هي إلا ذكرى للبشر»: ما النار إلا تذكرة للبشر يعلمون بها عظمة الله سبحانه.",
    "s": [
     "muyassar"
    ]
   },
   {
-   "id": "nar-azama",
+   "id": "ziyadat-iman-amal",
    "a": 31,
-   "t": "tafsir",
-   "x": "«وما هي إلا ذكرى للبشر»: ما النار إلا تذكرة للبشر يعلمون بها عظمة الله سبحانه.",
+   "t": "aqida",
+   "x": "«ويزداد الذين آمنوا إيمانا»: يزداد المؤمنون تصديقًا بالله ورسوله وعملًا بشرعه.",
    "s": [
     "mukhtasar"
    ]
@@ -8991,7 +8991,7 @@
     "samani",
     "shawkani",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -9124,7 +9124,7 @@
    "t": "tafsir",
    "x": "«كلا»: ليس الأمر كما ذكروا من التكذيب للرسول فيما جاء به.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -9166,7 +9166,7 @@
     "ibnkathir",
     "mawsua",
     "durr",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -9733,7 +9733,7 @@
     "baghawi",
     "mawsua",
     "durr",
-    "muyassar",
+    "mukhtasar",
     "jazairi",
     "makki"
    ]
@@ -9745,7 +9745,7 @@
    "x": "«لمن شاء منكم أن يتقدم أو يتأخر»: أن يقبل النذارة ويهتدي للحق، أو يتأخر عنها ويردّها.",
    "s": [
     "ibnkathir",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -9958,7 +9958,7 @@
     "durr",
     "thalabi",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "makki"
    ]
@@ -10125,7 +10125,7 @@
    "t": "tafsir",
    "x": "«كل نفس بما كسبت رهينة»: محبوسة مرهونة بكسبها من أعمال السوء، لا تُفكّ حتى تؤدي ما عليها من الحقوق والعقوبات، إلا أصحاب اليمين الذين فكّوا رقابهم بالطاعة.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -10140,7 +10140,7 @@
     "mawsua",
     "durr",
     "thalabi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -10783,7 +10783,7 @@
     "durr",
     "thalabi",
     "samani",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "makki"
@@ -10980,7 +10980,7 @@
     "samani",
     "qasimi",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "abusuud"
@@ -11067,7 +11067,7 @@
    "t": "hidaya",
    "x": "«حتى أتانا اليقين»: تمادينا في التكذيب حتى جاءنا الموت فحال بيننا وبين التوبة؛ ففيه التحذير من تأخير التوبة.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -11415,7 +11415,7 @@
     "ibnabizamanin",
     "samarqandi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -11534,7 +11534,7 @@
     "ibnkathir",
     "qurtubi",
     "ibnabizamanin",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "iji"
    ]
@@ -11919,7 +11919,7 @@
    "t": "tafsir",
    "x": "«فرت من قسورة»: من أسد كاسر.",
    "s": [
-    "muyassar",
+    "mukhtasar",
     "jalalayn"
    ]
   },
@@ -11948,7 +11948,7 @@
     "samani",
     "shawkani",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz",
     "makki"
    ]
@@ -11978,7 +11978,7 @@
     "ibnkathir",
     "razi",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "iji"
    ]
   },
@@ -12491,7 +12491,7 @@
     "qurtubi",
     "samani",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "makki"
    ]
   },
@@ -12513,7 +12513,7 @@
     "samarqandi",
     "ibnatiyya",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "mawardi",
     "makki"
@@ -12606,7 +12606,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz"
    ]
   },
@@ -12776,7 +12776,7 @@
    "s": [
     "shawkani",
     "qinnawji",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {

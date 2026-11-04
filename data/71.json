@@ -266,7 +266,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -275,7 +275,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -494,7 +494,7 @@
     "razi",
     "qasimi",
     "basit",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -924,7 +924,7 @@
    "x": "قال المهايمي: سُمّيت سورة نوح لاشتمالها على تفاصيل دعوته وأدعيته؛ وهي مكية وآيها ثمان وعشرون.",
    "s": [
     "qasimi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -993,19 +993,19 @@
    ]
   },
   {
-   "id": "maqasid-surah",
+   "id": "shirk-sabab-adhab",
    "a": 1,
-   "t": "munasaba",
-   "x": "من مقاصد السورة: ذكر رسالة نوح، وضرب المثل للمشركين بقومه إذ هم أول المشركين في بني آدم، وتفصيل دعوته بالأمر بالتوحيد ونبذ الأصنام، والتذكير بالبعث، والإنذار بالعذاب، والاستدلال ببدائع الصنع على التفرد بالألوهية.",
+   "t": "tafsir",
+   "x": "«عذاب أليم» بسبب ما هم عليه من الشرك بالله.",
    "s": [
     "muyassar"
    ]
   },
   {
-   "id": "shirk-sabab-adhab",
+   "id": "maqasid-surah",
    "a": 1,
-   "t": "tafsir",
-   "x": "«عذاب أليم» بسبب ما هم عليه من الشرك بالله.",
+   "t": "munasaba",
+   "x": "من مقاصد السورة: ذكر رسالة نوح، وضرب المثل للمشركين بقومه إذ هم أول المشركين في بني آدم، وتفصيل دعوته بالأمر بالتوحيد ونبذ الأصنام، والتذكير بالبعث، والإنذار بالعذاب، والاستدلال ببدائع الصنع على التفرد بالألوهية.",
    "s": [
     "mukhtasar"
    ]
@@ -1137,7 +1137,7 @@
    "s": [
     "saadi",
     "shawkani",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz"
    ]
@@ -1192,7 +1192,7 @@
    "x": "«واتقوه»: اتركوا محارمه واجتنبوا مآثمه، «وأطيعون» فيما آمركم به وأنهاكم عنه.",
    "s": [
     "ibnkathir",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -1204,7 +1204,7 @@
    "s": [
     "qurtubi",
     "samarqandi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1356,7 +1356,7 @@
     "samani",
     "qasimi",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -1443,7 +1443,7 @@
     "shawkani",
     "lubab",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "jamiwajiz",
     "mawardi",
@@ -1580,7 +1580,7 @@
    "x": "«أجل مسمى»: الأجل المعيّن بتقدير الله عند خلق كل أحد، كما في حديث الملك الذي يؤمر بكتب أجله حين ينفخ فيه الروح، وتنوين «أجل» للنوعية.",
    "s": [
     "ibnashur",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1889,7 +1889,7 @@
    "t": "tafsir",
    "x": "«ويؤخركم إلى أجل مسمى»: يُطِل أمد أمتكم في الحياة إلى وقت محدد في علم الله، تعمرون الأرض ما استقمتم على ذلك.",
    "s": [
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -2243,7 +2243,7 @@
     "tabari",
     "thalabi",
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -2641,7 +2641,7 @@
     "ibnkathir",
     "durr",
     "ibnabizamanin",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "makki"
    ]
@@ -2762,7 +2762,7 @@
    "x": "نوّع نوح الدعوة جهرًا وسرًّا وفيما بينه وبينهم لتكون أنجع فيهم؛ فعلى الداعية أن ينوّع أساليبه.",
    "s": [
     "ibnkathir",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -2877,7 +2877,7 @@
    "x": "«استغفروا ربكم»: سلوه غفران ذنوبكم وتوبوا إليه من الكفر ووحّدوه وأخلصوا له العبادة، «إنه كان غفارا» لمن أناب إليه.",
    "s": [
     "tabari",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3093,7 +3093,7 @@
     "ibnkathir",
     "mawsua",
     "qasimi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3285,7 +3285,7 @@
    "x": "«مدرارا»: المطر دائمًا كلما احتاجوا إليه.",
    "s": [
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "jazairi"
    ]
   },
@@ -3345,7 +3345,7 @@
    "x": "«ويمددكم بأموال وبنين ويجعل لكم جنات... أنهارا»: يكثر أموالكم وأولادكم ويرزقكم بساتين وأنهارًا تسقون بها زروعكم؛ وخاطبهم بذلك لأنهم كانوا قومًا يحبون الأموال والأولاد.",
    "s": [
     "tabari",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3557,7 +3557,7 @@
     "shawkani",
     "ibnatiyya",
     "ibnqayyim",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -3683,7 +3683,7 @@
    "x": "«لا ترجون لله وقارا»: لا تخافون لله عظمة، وليس لله عندكم قدر.",
    "s": [
     "saadi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4153,7 +4153,7 @@
    "x": "«طباقا»: سماء فوق سماء؛ والطباق مصدر طابقت مطابقة وطباقًا.",
    "s": [
     "tabari",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4410,7 +4410,7 @@
     "tabari",
     "baghawi",
     "thalabi",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4752,7 +4752,7 @@
     "samarqandi",
     "ibnatiyya",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "mawardi",
     "thaalibi",
@@ -4854,7 +4854,7 @@
    "s": [
     "razi",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "jazairi",
     "mawardi"
    ]
@@ -4930,7 +4930,7 @@
     "thalabi",
     "samani",
     "ibnatiyya",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "jazairi"
    ]
@@ -4980,7 +4980,7 @@
    "s": [
     "tabari",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "nasafi"
    ]
   },
@@ -5126,7 +5126,7 @@
     "shawkani",
     "ibnatiyya",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "thaalibi"
    ]
   },
@@ -5184,7 +5184,7 @@
    "t": "hidaya",
    "x": "«لتسلكوا منها سبلا فجاجا»: سعيًا في طلب الكسب الحلال.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -5761,7 +5761,7 @@
     "ibnqayyim",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud",
     "ibnjuzay",
@@ -6482,7 +6482,7 @@
    "t": "ahkam",
    "x": "من حِكم تحريم التماثيل وتحريم بناء القباب على القبور أنها تصير مع تطاول الزمن معبودة للجهال، كما وقع في أصنام قوم نوح.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -6790,7 +6790,7 @@
     "samarqandi",
     "shawkani",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz"
    ]
@@ -7084,7 +7084,7 @@
    "s": [
     "razi",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "nasafi"
    ]
   },
@@ -7210,7 +7210,7 @@
     "shawkani",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "mawardi",
     "thaalibi",
     "makki"
@@ -7230,7 +7230,7 @@
     "ibnabizamanin",
     "samani",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "nasafi",
     "jamiwajiz",
@@ -7508,7 +7508,7 @@
    "x": "«إنك إن تذرهم يضلوا عبادك»: يصدّوا المؤمنين عن سبيلك، «ولا يلدوا إلا فاجرا» في دينك «كفارا» لنعمتك.",
    "s": [
     "tabari",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -7552,7 +7552,7 @@
     "ibnashur",
     "shawkani",
     "wasit",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {

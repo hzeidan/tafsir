@@ -288,7 +288,7 @@
    "full": "التفسير الميسر",
    "author": "نخبة من العلماء (مجمع الملك فهد)",
    "d": null,
-   "src": "ar-tafsir-muyassar",
+   "src": "ar-tafsir-al-mukhtasar",
    "g": "mukhtasar"
   },
   {
@@ -297,7 +297,7 @@
    "full": "المختصر في التفسير",
    "author": "مركز تفسير للدراسات القرآنية",
    "d": null,
-   "src": "ar-tafsir-al-mukhtasar",
+   "src": "ar-tafsir-muyassar",
    "g": "mukhtasar"
   },
   {
@@ -484,7 +484,7 @@
     "shawkani",
     "basit",
     "ibnqayyim",
-    "muyassar",
+    "mukhtasar",
     "thaalibi",
     "makki"
    ]
@@ -522,7 +522,7 @@
     "thalabi",
     "samarqandi",
     "basit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn"
    ]
   },
@@ -1180,7 +1180,7 @@
    "t": "nuzul",
    "x": "سُمّيت «المرسلات» لافتتاحها بقسم الله بالمرسلات وهي الرياح.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1189,7 +1189,7 @@
    "t": "munasaba",
    "x": "من مقاصد السورة: الاستدلال على وقوع البعث عقب فناء الدنيا، وذكر أوصاف ذلك اليوم، ودلائل القدرة على الإعادة، والتعريض بعذاب المكذبين في الدنيا وبيان مآلهم في الآخرة، وذكر المتقين في مقابلهم وما أُعدّ لهم من الإكرام.",
    "s": [
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -1406,7 +1406,7 @@
     "ibnkathir",
     "qasimi",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "iji"
    ]
@@ -1429,7 +1429,7 @@
     "lubab",
     "ibnqayyim",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "mawardi",
     "thaalibi"
@@ -1599,7 +1599,7 @@
     "samani",
     "ibnatiyya",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "thaalibi",
     "makki"
@@ -1612,7 +1612,7 @@
    "x": "قال ابن كثير: «الفارقات» و«الملقيات» هي الملائكة بلا خلاف، تنزل بأمر الله على الرسل تفرق بين الحق والباطل والهدى والغي والحلال والحرام.",
    "s": [
     "ibnkathir",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -1976,7 +1976,7 @@
     "qasimi",
     "basit",
     "qinnawji",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "makki"
    ]
@@ -2146,7 +2146,7 @@
    "x": "«عذرا أو نذرا»: تنذر الناس ما أمامهم من المخاوف وتقطع أعذارهم، فلا يكون لهم حجة على الله.",
    "s": [
     "saadi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -2342,7 +2342,7 @@
     "baghawi",
     "saadi",
     "ibnabizamanin",
-    "muyassar",
+    "mukhtasar",
     "makki"
    ]
   },
@@ -2357,7 +2357,7 @@
     "samarqandi",
     "shawkani",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "nasafi",
     "abusuud",
@@ -2668,7 +2668,7 @@
     "ibnabizamanin",
     "samani",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jazairi",
     "iji",
@@ -2736,7 +2736,7 @@
    "r": "مقاتل",
    "s": [
     "mawsua",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -2789,7 +2789,7 @@
     "samani",
     "qasimi",
     "wasit",
-    "mukhtasar",
+    "muyassar",
     "nasafi",
     "makki"
    ]
@@ -2849,7 +2849,7 @@
    "x": "«نُسفت»: فرّقتها الرياح، وذلك بعد التسيير وقبل كونها هباء.",
    "s": [
     "bahr",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -2919,7 +2919,7 @@
     "durr",
     "ibnabizamanin",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "iji",
     "makki"
@@ -2984,7 +2984,7 @@
     "qurtubi",
     "shawkani",
     "qinnawji",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -3026,7 +3026,7 @@
     "thalabi",
     "samani",
     "samarqandi",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "thaalibi"
    ]
@@ -3281,7 +3281,7 @@
     "qasimi",
     "lubab",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "abusuud",
     "iji"
    ]
@@ -3301,7 +3301,7 @@
     "shawkani",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "jamiwajiz",
     "jazairi",
     "makki"
@@ -4412,7 +4412,7 @@
    "s": [
     "ibnashur",
     "wasit",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -4423,7 +4423,7 @@
    "s": [
     "bahr",
     "samarqandi",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4497,7 +4497,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -4647,7 +4647,7 @@
    "t": "tafsir",
    "x": "«فقدرنا»: قدّرنا صفة المولود وقدره ولونه وغير ذلك، فنعم القادرون لذلك كله نحن.",
    "s": [
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -5165,7 +5165,7 @@
     "lubab",
     "qinnawji",
     "wasit",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud",
     "ibnjuzay"
@@ -5245,7 +5245,7 @@
     "samani",
     "shawkani",
     "qinnawji",
-    "muyassar",
+    "mukhtasar",
     "jalalayn",
     "jamiwajiz"
    ]
@@ -5313,7 +5313,7 @@
     "basit",
     "lubab",
     "qinnawji",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -7267,7 +7267,7 @@
    "s": [
     "saadi",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "jamiwajiz"
    ]
   },
@@ -7287,7 +7287,7 @@
    "x": "«ولا يؤذن لهم فيعتذرون» لأنه لا عذر لهم فيعتذرون.",
    "s": [
     "samani",
-    "muyassar"
+    "mukhtasar"
    ]
   },
   {
@@ -7400,7 +7400,7 @@
    "x": "«جمعناكم والأولين»: جمعهم بقدرته في صعيد واحد يسمعهم الداعي وينفذهم البصر.",
    "s": [
     "ibnkathir",
-    "mukhtasar"
+    "muyassar"
    ]
   },
   {
@@ -7473,7 +7473,7 @@
    "x": "«جمعناكم والأولين»: جمعناكم يا أمة محمد ﷺ مع من مضى قبلكم.",
    "s": [
     "samarqandi",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud"
    ]
@@ -8591,7 +8591,7 @@
     "shawkani",
     "basit",
     "lubab",
-    "mukhtasar",
+    "muyassar",
     "jalalayn",
     "ibnjuzay",
     "jamiwajiz",
@@ -8729,7 +8729,7 @@
     "alusi",
     "shawkani",
     "qasimi",
-    "muyassar",
+    "mukhtasar",
     "nasafi",
     "abusuud"
    ]
@@ -8960,7 +8960,7 @@
     "ibnabizamanin",
     "shawkani",
     "qasimi",
-    "mukhtasar",
+    "muyassar",
     "ibnjuzay",
     "jamiwajiz",
     "makki"
@@ -9012,7 +9012,7 @@
     "ibnjawzi",
     "samani",
     "basit",
-    "muyassar",
+    "mukhtasar",
     "mawardi"
    ]
   },

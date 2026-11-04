@@ -1,12 +1,14 @@
 [
-{"k":"yawm-qiyama-mana"},{"k":"lawwama-madh"},{"k":"jawab-qasam"},{"k":"jam-izam"},{"k":"banan-iada-adwa"},
-{"k":"yafjur-ibnqayyim"},{"k":"ayyana-istibad"},{"k":"bariqa-kalbi-jahannam"},{"k":"khasafa-qamar"},
-{"k":"jumia-jirm","a":9,"t":"tafsir","x":"«وجمع الشمس والقمر»: جُمع جِرم الشمس والقمر (لا مجرد ضوئهما)."},
-{"k":"aynal-mafarr"},{"k":"wazar"},{"k":"mustaqarr-rujaa"},{"k":"qaddama-akhkhara"},{"k":"basira-jawarih"},{"k":"maadhir-itidhar"},
+{"k":"tasmiya-muyassar","a":1,"t":"tafsir","x":"سُمّيت «القيامة» لافتتاحها بقسم الله بيوم القيامة تعظيمًا له وتحقيقًا لوقوعه."},
+{"k":"maqasid-sura","a":1,"t":"munasaba","x":"من مقاصد السورة: تأكيد البعث بالإقسام على وقوعه، وإثبات المعاد بالبراهين العقلية، والتذكير بيوم القيامة وبعض أشراطه، وانقسام الخلق فيه إلى سعداء وأشقياء، وبيان حال الإنسان عند الاحتضار وكربه، وتوجيه النبي ﷺ إلى الصفة التي ينبغي أن يكون عليها عند تلقي القرآن من جبريل."},
+{"k":"lawwama-madh"},{"k":"jawab-qasam"},{"k":"jam-izam"},
+{"k":"banan-iada-adwa"},{"k":"yafjur-amamah"},{"k":"ayyana-istibad"},
+{"k":"bariqa-maqsud"},{"k":"khasafa-qamar"},{"k":"jumia-dau"},{"k":"aynal-mafarr-tamanni"},
+{"k":"wazar"},{"k":"mustaqarr"},{"k":"yunabba-kull"},{"k":"basira-hujja-lazima"},{"k":"maadhir-itidhar"},
 {"k":"tahrik-nuzul"},{"k":"jamuh-sadr"},{"k":"ittabi-istima"},{"k":"bayan-ilham"},
-{"k":"ajila-ilm-qudra","a":20,"t":"hidaya","x":"«كلا بل تحبون العاجلة»: أنتم تعلمون أن القادر على خلقكم ابتداءً لا يعجز عن إحيائكم بعد موتكم، لكن سبب تكذيبكم حبّكم الدنيا سريعة الانقضاء، وترككم الآخرة التي طريقها فعل الطاعات وترك المحرمات."},
-{"k":"nadira-nur"},{"k":"nazira-ruya"},{"k":"basira"},{"k":"faqira"},
-{"k":"kalla-wajhan"},{"k":"raq-tabib"},{"k":"zann-yaqin"},{"k":"saq-dunya-akhira"},{"k":"masaq"},
-{"k":"la-saddaqa"},{"k":"yatamatta"},{"k":"awla-dua"},
-{"k":"suda"},{"k":"nutfa"},{"k":"alaqa-sawwa"},{"k":"zawjayn"},{"k":"iada-bala"}
+{"k":"ajila-sabab-takdhib"},{"k":"nadira"},{"k":"nazira-ruya"},{"k":"basira"},{"k":"faqira-asl"},
+{"k":"taraqi"},{"k":"raq-tabib"},{"k":"zann-yaqin-malaika"},{"k":"saq-dunya-akhira"},{"k":"mustaqarr-mashia"},
+{"k":"la-saddaqa"},{"k":"yatamatta"},
+{"k":"awla-halak","a":34,"t":"tafsir","x":"«أولى لك فأولى ثم أولى لك فأولى»: هلاكٌ لك فهلاك، ثم هلاك لك فهلاك."},
+{"k":"suda"},{"k":"ibda-dalil-iada"},{"k":"alaqa-taqwim"},{"k":"zawjayn"},{"k":"iada-bala"}
 ]
