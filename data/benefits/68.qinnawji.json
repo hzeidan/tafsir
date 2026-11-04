@@ -1,0 +1,657 @@
+[
+{
+"k": "makki-tafsil"
+},
+{
+"k": "adad-kalimat"
+},
+{
+"k": "tartib-nuzul"
+},
+{
+"k": "qiraa-nun-idgham-q"
+},
+{
+"k": "qiraa-nun-ibn-atiyya"
+},
+{
+"k": "nun-dawat-kitaba"
+},
+{
+"k": "nun-samaka-marfu"
+},
+{
+"k": "nun-hut"
+},
+{
+"k": "bahamut"
+},
+{
+"k": "nun-aqwal"
+},
+{
+"k": "nun-nasir-nur"
+},
+{
+"k": "nun-muqattaa"
+},
+{
+"k": "nun-harf-mahalli",
+"a": 1,
+"t": "tafsir",
+"x": "اختار المحلي أن «ن» أحد حروف الهجاء كالفواتح الواقعة في أوائل السور، وأراد بذلك الرد على من قال: إنه مقتطع من اسمه تعالى «الرحمن» أو «النصير» أو «الناصر» أو «النور».",
+"r": "المحلي"
+},
+{
+"k": "nun-sukun-nasafi",
+"a": 1,
+"t": "lugha",
+"x": "قال النسفي: الظاهر أن المراد بـ«ن» هذا الحرف من حروف المعجم، وأما قول من قال: إنه الدواة أو الحوت الذي عليه الأرض فمشكل، سواء جُعل اسم جنس أو اسم علم، لأن السكون دليل على أنه من حروف المعجم؛ إذ لو كان اسمًا لأُعرب.",
+"r": "النسفي"
+},
+{
+"k": "qalam-bayan"
+},
+{
+"k": "qalam-qadar-tabari"
+},
+{
+"k": "qalam-nima"
+},
+{
+"k": "qalam-awwal-khalq"
+},
+{
+"k": "nun-dawat-abi-hurayra"
+},
+{
+"k": "yasturun-damir"
+},
+{
+"k": "ma-masdariyya"
+},
+{
+"k": "yasturun-isnad-ala"
+},
+{
+"k": "yasturun-yamalun"
+},
+{
+"k": "jawab-qasam"
+},
+{
+"k": "bi-nimat-zajjaj"
+},
+{
+"k": "bi-nimat-aqwal"
+},
+{
+"k": "bi-nimat-qasam-bahr"
+},
+{
+"k": "majnun-radd"
+},
+{
+"k": "hafnawi-muqsam",
+"a": 2,
+"t": "balagha",
+"x": "قال الحفناوي: أقسم الله أولًا بالقلم ثم بسطر الملائكة أو بمسطورهم، فالمقسم به شيئان، والمقسم عليه ثلاثة أشياء: نفي الجنون عنه ﷺ، وثبوت الأجر له، وكونه على دين الإسلام (على تفسير الخلق العظيم بالدين).",
+"r": "الحفناوي"
+},
+{
+"k": "mamnun-aqwal"
+},
+{
+"k": "ajr-ghayr-mamnun"
+},
+{
+"k": "khuluq-aqwal-q"
+},
+{
+"k": "khuluq-khim"
+},
+{
+"k": "khuluquhu-quran"
+},
+{
+"k": "khuluq-muminun"
+},
+{
+"k": "khuluq-rida-sakhat"
+},
+{
+"k": "khiyarukum-akhlaq"
+},
+{
+"k": "tubsir-yubsirun"
+},
+{
+"k": "tubsir-badr"
+},
+{
+"k": "rasm-bi-ayyikum",
+"a": 6,
+"t": "qiraat",
+"x": "قال الخطيب: تُرسم «بأييكم» في هذا الموضع بياءين في المصحف.",
+"r": "الخطيب الشربيني"
+},
+{
+"k": "ba-zaida-q"
+},
+{
+"k": "ba-mubtada-daif"
+},
+{
+"k": "maftun-aqwal"
+},
+{
+"k": "qiraa-fi-ayy"
+},
+{
+"k": "maftun-hadhf-nahhas"
+},
+{
+"k": "maftun-muadhdhab"
+},
+{
+"k": "maftun-shaytan"
+},
+{
+"k": "dalal-fitra"
+},
+{
+"k": "mumalaa-kufr"
+},
+{
+"k": "tahyij-tashaddud"
+},
+{
+"k": "tudhin-ithna-ashar"
+},
+{
+"k": "fa-yudhinun-raf"
+},
+{
+"k": "qiraa-fa-yudhinu"
+},
+{
+"k": "hallaf-zajr"
+},
+{
+"k": "mahin-aqwal"
+},
+{
+"k": "marwan-aisha"
+},
+{
+"k": "hamz-lamz-farq"
+},
+{
+"k": "hammaz-yad"
+},
+{
+"k": "namim"
+},
+{
+"k": "qabrayn-namima"
+},
+{
+"k": "mannaa-islam"
+},
+{
+"k": "ahl-nar-utul"
+},
+{
+"k": "utul-layth"
+},
+{
+"k": "utul-jarr"
+},
+{
+"k": "zanim-lugha"
+},
+{
+"k": "zanim-zanama"
+},
+{
+"k": "zanim-rajul-su"
+},
+{
+"k": "bada-rutbi"
+},
+{
+"k": "bada-shihab"
+},
+{
+"k": "jafa-asadd-zamakhshari"
+},
+{
+"k": "hallaf-nuzul-thalatha"
+},
+{
+"k": "akhnas"
+},
+{
+"k": "an-kana-tatu"
+},
+{
+"k": "qiraa-aan-kana-q"
+},
+{
+"k": "qiraa-in-kana-nafi"
+},
+{
+"k": "khurtum-aqwal"
+},
+{
+"k": "khurtum-fil-khinzir"
+},
+{
+"k": "khurtum-zajjaj-ifrad"
+},
+{
+"k": "wasm-ar"
+},
+{
+"k": "khurtum-khamr"
+},
+{
+"k": "balawnahum-qaht"
+},
+{
+"k": "bala-taklif-shukr"
+},
+{
+"k": "janna-sanaa"
+},
+{
+"k": "thulth-janna"
+},
+{
+"k": "ashab-janna-habasha"
+},
+{
+"k": "ashab-janna-iman"
+},
+{
+"k": "aqsamu-illa-awsat",
+"a": 17,
+"t": "tafsir",
+"x": "«إذ أقسموا»: أي حلف معظمهم إلا الأوسط فإنه قال لهم: لا تفعلوا، واصنعوا من الإحسان ما كان يصنعه أبوكم؛ قال البقاعي: وكأنه تعالى طوى ذكر قوله هنا لأنه مع الدلالة عليه بما يأتي («ألم أقل لكم») لم يؤثّر فيهم شيئًا.",
+"r": "البقاعي"
+},
+{
+"k": "idh-aqsamu-irab",
+"a": 17,
+"t": "irab",
+"x": "«إذ» في «إذ أقسموا» تعليلية، أو ظرفية بنوع تسمّح، لأن الإقسام كان قبل ابتلائهم لا وقته؛ و«ليصرمنها» جواب القسم، و«مصبحين» داخلين في وقت الصباح قبل انتشار الفقراء."
+},
+{
+"k": "asram-nakhl"
+},
+{
+"k": "la-yastathnun"
+},
+{
+"k": "la-yastathnun-masakin"
+},
+{
+"k": "la-yanthanun"
+},
+{
+"k": "taif-layl-nazar"
+},
+{
+"k": "qiraa-tayf"
+},
+{
+"k": "taif-nar"
+},
+{
+"k": "taif-jibril"
+},
+{
+"k": "hirman-ilm-qiyam"
+},
+{
+"k": "azm-muakhadha"
+},
+{
+"k": "sarim-razi-wujuh"
+},
+{
+"k": "sarim-aqwal-q"
+},
+{
+"k": "tanadaw-itirad",
+"a": 21,
+"t": "irab",
+"x": "«فتنادوا مصبحين» معطوف على «أقسموا»، وما بينهما («ولا يستثنون. فطاف عليها...فأصبحت كالصريم») اعتراض لبيان ما نزل بتلك الجنة."
+},
+{
+"k": "an-ightadu"
+},
+{
+"k": "ghada-ila-ala"
+},
+{
+"k": "in-kuntum-istibta"
+},
+{
+"k": "sarimin-azm"
+},
+{
+"k": "khafata-lugha"
+},
+{
+"k": "tashawur-khafi"
+},
+{
+"k": "an-tafsiriyya"
+},
+{
+"k": "nahy-dukhul-ablagh",
+"a": 24,
+"t": "balagha",
+"x": "أوقع النهي على دخول المساكين («لا يدخلنها...مسكين») دون إدخالهم لأنه أبلغ، إذ دخولهم أعم من أن يكون بإدخالهم أو بدونه، فالنهي عنه نهي عن كل سبيل إليه."
+},
+{
+"k": "hard-thamaniya"
+},
+{
+"k": "hard-azhari"
+},
+{
+"k": "qiraa-harad"
+},
+{
+"k": "qadirin-aqwal"
+},
+{
+"k": "qadirin-tadyiq"
+},
+{
+"k": "hard-tasrif",
+"a": 25,
+"t": "lugha",
+"x": "«حرد» بمعنى القصد: حرَد يحرِد (باب ضرب)، تقول: حردتُ حردك أي قصدت قصدك؛ وقال أبو نصر صاحب الأصمعي: هو مخفّف فبابه «فهِم»، وقال ابن السكيت: وقد يُحرّك فبابه «طرِب» فهو حارد وحَردان؛ ومن المنع: حردت الإبل إذا قلّت ألبانها، والحَرود من النوق القليلة اللبن.",
+"r": "ابن السكيت، أبو نصر"
+},
+{
+"k": "dallun-mahrumun"
+},
+{
+"k": "bal-mahrumun-qasr"
+},
+{
+"k": "haqq-masakin-wajib"
+},
+{
+"k": "awsatuhum"
+},
+{
+"k": "istithna-tasbih-tazim"
+},
+{
+"k": "tasbih-tanzih"
+},
+{
+"k": "tusabbihun-istithna"
+},
+{
+"k": "subhan-istighfar"
+},
+{
+"k": "talawum-razi"
+},
+{
+"k": "ya-waylana-nida",
+"a": 31,
+"t": "balagha",
+"x": "«يا ويلنا»: نداء للويل كأنهم قالوا: يا ويل هذا وقتُ حضورك إلينا ومنادمتك لنا، فإنه لا نديم لنا الآن غيرك."
+},
+{
+"k": "taghin-shukr"
+},
+{
+"k": "badal-hayawan"
+},
+{
+"k": "qiraa-yubaddilana"
+},
+{
+"k": "ila-raghba"
+},
+{
+"k": "kadhalika-adhab"
+},
+{
+"k": "jannat-naim"
+},
+{
+"k": "muslimin-nuzul"
+},
+{
+"k": "istifhamat-sabaa",
+"a": 35,
+"t": "balagha",
+"x": "وُبّخ الكفار في هذه الآيات باستفهامات سبعة، أولها «أفنجعل المسلمين كالمجرمين»، وآخرها «أم لهم شركاء»، والاستفهام فيها للتقريع والتوبيخ؛ والفاء في «أفنجعل» عاطفة على مقدّر يقتضيه المقام: أنحيف في الحكم فنجعل..."
+},
+{
+"k": "muslimin-maqluba",
+"a": 35,
+"t": "balagha",
+"x": "قال علي القاري: كأن العبارة مقلوبة، والأصل: أفنجعل المجرمين كالمسلمين، لأن صناديد قريش جعلوا أنفسهم كالمسلمين بل أفضل؛ وليس في الآية إلا نفي المساواة والكفار ادّعوا الأفضلية، إلا أن يقال: إذا انتفت المساواة انتفت الأفضلية بالأولى.",
+"r": "علي القاري"
+},
+{
+"k": "hukm-awaj"
+},
+{
+"k": "tadrusun-sultan"
+},
+{
+"k": "inna-lakum-hikaya"
+},
+{
+"k": "tadrusun-waqf"
+},
+{
+"k": "qiraa-anna-lakum"
+},
+{
+"k": "aymanun-juz-kull"
+},
+{
+"k": "jawab-qasam-aymanun"
+},
+{
+"k": "qiraa-baligha-nasb"
+},
+{
+"k": "zaim-aqwal"
+},
+{
+"k": "shuraka-madhhab"
+},
+{
+"k": "nafy-adilla-alusi"
+},
+{
+"k": "yawm-amil"
+},
+{
+"k": "saq-istiara"
+},
+{
+"k": "saq-aqwal-ukhra"
+},
+{
+"k": "saq-nasafi-tawil",
+"a": 42,
+"t": "aqida",
+"x": "قال النسفي: لا كشف ثمّة ولا ساق، ولكن كُني به عن الشدة، لأنهم إذا ابتُلوا بشدة كشفوا عن الساق؛ وأما من شبّه فلضيق عطنه وقلة نظره في علم البيان، ولو كان الأمر كما زعم المشبّه لكان من حق الساق أن تُعرَّف لأنها ساق معهودة عنده.",
+"r": "النسفي"
+},
+{
+"k": "qiraa-saq-q"
+},
+{
+"k": "saq-abi-hurayra-sahih"
+},
+{
+"k": "saq-ibn-masud-sifa"
+},
+{
+"k": "shir-diwan-arab"
+},
+{
+"k": "saq-shawkani-tarjih"
+},
+{
+"k": "saq-sifa-bukhari"
+},
+{
+"k": "saq-nur-azim"
+},
+{
+"k": "saq-nur-mubham"
+},
+{
+"k": "saq-imrar-ahl-hadith",
+"a": 42,
+"t": "aqida",
+"x": "قرّر صاحب فتح البيان أن حديث أبي سعيد «يكشف ربنا عن ساقه» ثابت في الصحيحين، و«إذا جاء نهر الله بطل نهر معقل»، وذلك لا يستلزم تجسيمًا ولا تشبيهًا ﴿ليس كمثله شيء﴾؛ وأن شيوخ الإسلام تهيّبوا القول فيه فأجروه على ظاهر لفظه ولم يكشفوا عن باطن معناه، وأن التأويل مذهب المتكلمين ومنهم النسفي والبيضاوي؛ ونقل قول ولي الله الدهلوي في حجة الله البالغة: إن استطالة الخائضين على أهل الحديث وتسميتهم مجسمة ومشبهة ليست بشيء، وإنهم مخطئون رواية ودراية.",
+"r": "صديق حسن خان، ولي الله الدهلوي"
+},
+{
+"k": "sajda-wahida-wahidi"
+},
+{
+"k": "saq-ghita-rabi"
+},
+{
+"k": "sujud-imtihan",
+"a": 42,
+"t": "aqida",
+"x": "الدعاء إلى السجود يوم القيامة امتحان لإيمانهم لا تكليف بالسجود، إذ تلك الدار ليست دار تكليف؛ وأما في الدنيا فكانوا يُدعون إليه دعوة تكليف («وقد كانوا يدعون إلى السجود»)."
+},
+{
+"k": "khushu-istiara"
+},
+{
+"k": "sujud-maktuba"
+},
+{
+"k": "jamaa-kab"
+},
+{
+"k": "dharni-zajjaj"
+},
+{
+"k": "hadith-quran"
+},
+{
+"k": "hadith-qiyama"
+},
+{
+"k": "istidraj-aqwal"
+},
+{
+"k": "istidraj-lugha"
+},
+{
+"k": "kayd-la-yusamma",
+"a": 44,
+"t": "aqida",
+"x": "معنى الكيد والمكر والاستدراج: الأخذ من جهة الأمن، ولا يجوز أن يُسمّى الله سبحانه كائدًا وماكرًا ومستدرجًا (أي لا يُشتق له منها اسم)؛ وسمّى إحسانه كيدًا واستدراجًا لكونه في صورة الكيد باعتبار عاقبته، ووصفه بالمتانة لقوة أثره في التسبب للهلاك."
+},
+{
+"k": "imla-lugha"
+},
+{
+"k": "kayd-istiara"
+},
+{
+"k": "maghram-awd"
+},
+{
+"k": "ghayb-lawh"
+},
+{
+"k": "isbir-mansukh"
+},
+{
+"k": "la-takun-hal"
+},
+{
+"k": "ghamm-karb-farq"
+},
+{
+"k": "nida-mustahsan"
+},
+{
+"k": "nima-aqwal"
+},
+{
+"k": "qiraa-taddarakuhu"
+},
+{
+"k": "madhmum-isma"
+},
+{
+"k": "ijtaba-nubuwwa-razi"
+},
+{
+"k": "ijtaba-ibn-abbas"
+},
+{
+"k": "qiraa-yuzliqunak"
+},
+{
+"k": "zalaq-lugha"
+},
+{
+"k": "qiraa-yazhaqunak"
+},
+{
+"k": "yuzliqunak-aqwal"
+},
+{
+"k": "ba-absar-ala"
+},
+{
+"k": "nazar-bughd"
+},
+{
+"k": "ayn-bani-asad"
+},
+{
+"k": "ayn-haqq"
+},
+{
+"k": "ayn-qabr"
+},
+{
+"k": "ayn-ruqya-hasan",
+"a": 51,
+"t": "athar",
+"x": "قال الحسن البصري: رقية العين هذه الآية «وإن يكاد الذين كفروا ليزلقونك بأبصارهم...».",
+"r": "الحسن البصري"
+},
+{
+"k": "ayn-munkirun",
+"a": 51,
+"t": "aqida",
+"x": "أخذ جماهير العلماء بظاهر حديث «العين حق» وقالوا: إنه حق، وإنه ليُدخل الرجل القبر والجمل القدر؛ وأنكره طوائف من المبتدعة ولا اعتداد بهم بعدما ورد في كلام النبوة وصحّ."
+},
+{
+"k": "lamma-zarf-harf"
+},
+{
+"k": "dhikr-hal"
+},
+{
+"k": "dhikr-sharaf"
+}
+]

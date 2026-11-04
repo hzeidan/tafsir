@@ -1,0 +1,359 @@
+[
+{
+"k": "haya-awatiq",
+"a": 4,
+"t": "hadith",
+"x": "عن زينب بنت يزيد: سألت نساء أهل الشام عائشة عن خلقه ﷺ فقالت: كان خلقه القرآن، اقرؤوه فقد كان خلقه القرآن، وكان أشد حياءً من العواتق في خدرها.",
+"r": "عائشة؛ ابن مردويه"
+},
+{
+"k": "anas-thaman",
+"a": 4,
+"t": "hadith",
+"x": "عن أنس: خدمت رسول الله ﷺ وأنا ابن ثمان سنين فما لامني على شيء قط، فإن لامني لائم قال: «دعوه، فإنه لو قُضي شيء لكان».",
+"r": "أنس؛ الخرائطي"
+},
+{
+"k": "abu-jahl-badr-qudra",
+"a": 17,
+"t": "nuzul",
+"x": "ابن جريج: قال أبو جهل يوم بدر: خذوهم أخذًا فاربطوهم في الحبال ولا تقتلوا منهم أحدًا، فنزل «إنا بلوناهم كما بلونا أصحاب الجنة»: في قدرتهم عليهم كما اقتدر أصحاب الجنة على الجنة.",
+"r": "ابن جريج"
+},
+{
+"k": "tartib-nuzul"
+},
+{
+"k": "nun-hut"
+},
+{
+"k": "nun-hut-marfu"
+},
+{
+"k": "qalam-awwal-khalq"
+},
+{
+"k": "nun-lawh-nur"
+},
+{
+"k": "nun-dawat-kitaba"
+},
+{
+"k": "nun-lawh-mahfuz"
+},
+{
+"k": "nun-dawat-abi-hurayra"
+},
+{
+"k": "nun-asma-allah"
+},
+{
+"k": "qalam-dhikr"
+},
+{
+"k": "qalam-yamin"
+},
+{
+"k": "qalam-nima-qatada"
+},
+{
+"k": "nun-samaka-marfu"
+},
+{
+"k": "yasturun"
+},
+{
+"k": "yasturun-yamalun"
+},
+{
+"k": "majnun-nuzul-muqatil"
+},
+{
+"k": "ajr-ghayr-mamnun"
+},
+{
+"k": "khuluq-muminun"
+},
+{
+"k": "khuluquhu-quran"
+},
+{
+"k": "khuluq-rida-sakhat"
+},
+{
+"k": "khuluq-din"
+},
+{
+"k": "anas-uff"
+},
+{
+"k": "maymuna-bab"
+},
+{
+"k": "tubsir-quran"
+},
+{
+"k": "maftun-shaytan"
+},
+{
+"k": "tubsir-yatabayyan"
+},
+{
+"k": "maftun-aqwal"
+},
+{
+"k": "tudhin-aqwal"
+},
+{
+"k": "tudhin-wahn"
+},
+{
+"k": "marwan-aisha"
+},
+{
+"k": "hallaf-man"
+},
+{
+"k": "hallaf-mahin"
+},
+{
+"k": "mutad-qawl-amal"
+},
+{
+"k": "zuhur-fuhsh"
+},
+{
+"k": "utul"
+},
+{
+"k": "zanim-shir-ibn-abbas"
+},
+{
+"k": "zanim-walad-zina"
+},
+{
+"k": "zanim-asabi"
+},
+{
+"k": "zanim-aqwal"
+},
+{
+"k": "sitta-la-yadkhulun"
+},
+{
+"k": "utul-hadith-ibn-ghanm"
+},
+{
+"k": "jawwaz-luza"
+},
+{
+"k": "zanim-shabi"
+},
+{
+"k": "akhnas"
+},
+{
+"k": "zanim-zanama"
+},
+{
+"k": "ahl-nar-utul"
+},
+{
+"k": "tabki-samaa"
+},
+{
+"k": "utul-hadith-fahish"
+},
+{
+"k": "utul-abi-darda"
+},
+{
+"k": "ahl-nar-ibn-umar"
+},
+{
+"k": "utul-dai-ibn-abbas"
+},
+{
+"k": "zanim-bukhari"
+},
+{
+"k": "zanim-rajul-su"
+},
+{
+"k": "zanim-nafi-azraq"
+},
+{
+"k": "zanim-hajin"
+},
+{
+"k": "khurtum-aqwal"
+},
+{
+"k": "qiraa-a-an-kana"
+},
+{
+"k": "hammaz-khurtum-hadith"
+},
+{
+"k": "bani-israil-qatada"
+},
+{
+"k": "ahl-kitab"
+},
+{
+"k": "ashab-janna-habasha"
+},
+{
+"k": "ashab-janna-shaykh"
+},
+{
+"k": "hard-aqwal"
+},
+{
+"k": "sarim-aqwal"
+},
+{
+"k": "yasrimunnaha-yahdurunnaha"
+},
+{
+"k": "la-yastathnun-masakin"
+},
+{
+"k": "taif-aqwal"
+},
+{
+"k": "sarim-masruma"
+},
+{
+"k": "hirman-rizq-dhanb"
+},
+{
+"k": "hirman-ilm-qiyam"
+},
+{
+"k": "sarim-nafi-azraq"
+},
+{
+"k": "harth-inab"
+},
+{
+"k": "tashawur-khafi"
+},
+{
+"k": "dallun-mahrumun"
+},
+{
+"k": "mahrumun-muharafun"
+},
+{
+"k": "awsatuhum"
+},
+{
+"k": "awsat-ikrima"
+},
+{
+"k": "ashab-janna-iman"
+},
+{
+"k": "tusabbihun-istithna"
+},
+{
+"k": "kadhalika-adhab"
+},
+{
+"k": "zaim"
+},
+{
+"k": "kitab-tadrusun"
+},
+{
+"k": "aymanun-ahd"
+},
+{
+"k": "saq-sifa-bukhari"
+},
+{
+"k": "saq-abi-hurayra-sahih"
+},
+{
+"k": "qiraa-yaksifu-ibn-masud"
+},
+{
+"k": "saq-ibn-masud-sifa"
+},
+{
+"k": "saq-nur-azim"
+},
+{
+"k": "saq-shidda"
+},
+{
+"k": "shir-diwan-arab"
+},
+{
+"k": "saq-nafi-azraq"
+},
+{
+"k": "qiraa-taksif"
+},
+{
+"k": "saq-sutur-ikrima"
+},
+{
+"k": "said-jubayr-saq"
+},
+{
+"k": "hal-bayn-tair"
+},
+{
+"k": "saq-munafiq-tawbikh-mujahid"
+},
+{
+"k": "saq-iltafat-mujahid"
+},
+{
+"k": "saq-ghita-rabi"
+},
+{
+"k": "sujud-munafiq-tawbikh"
+},
+{
+"k": "jamaa-kab"
+},
+{
+"k": "sujud-maktuba"
+},
+{
+"k": "saq-hasan-mursal"
+},
+{
+"k": "saq-hadith-ibn-masud-marfu"
+},
+{
+"k": "ibn-masud-dajjal-saq"
+},
+{
+"k": "sahib-hut"
+},
+{
+"k": "yunus-wahb"
+},
+{
+"k": "makzum"
+},
+{
+"k": "tadarakahu"
+},
+{
+"k": "yuzliqunak"
+},
+{
+"k": "qiraa-yazhaqunak"
+},
+{
+"k": "ayn-haqq"
+},
+{
+"k": "ayn-qabr"
+}
+]

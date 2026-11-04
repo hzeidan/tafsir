@@ -1,0 +1,578 @@
+[
+{
+"k": "adad-kalimat"
+},
+{
+"k": "nun-muqattaa"
+},
+{
+"k": "nun-hut"
+},
+{
+"k": "bahamut"
+},
+{
+"k": "nun-hut-aqsam"
+},
+{
+"k": "nun-rahman"
+},
+{
+"k": "nun-dawat-abi-hurayra"
+},
+{
+"k": "nun-dawat-ajami"
+},
+{
+"k": "nun-midad"
+},
+{
+"k": "nun-lawh-nur"
+},
+{
+"k": "nun-nasir-nur"
+},
+{
+"k": "nun-nahr"
+},
+{
+"k": "nun-harf-qushayri"
+},
+{
+"k": "nun-irab-radd"
+},
+{
+"k": "irab-zamakhshari-shihab",
+"a": 1,
+"t": "irab",
+"x": "قال شهاب الدين السمين في ردّ الزمخشري على من جعل «ن» الدواة أو الحوت (لو كان جنسًا لنُوّن وأُعرب، ولو كان علمًا لأُعرب): هذا الذي أورده أبو القاسم من محاسن علم الإعراب، وقلّ من يتقنه."
+},
+{
+"k": "nun-batiniyya"
+},
+{
+"k": "qiraa-nun-bahr"
+},
+{
+"k": "nun-kasr-la-jarr",
+"a": 1,
+"t": "irab",
+"x": "كسر «نونِ» لالتقاء الساكنين، ولا يجوز أن يكون مجرورًا بحرف قسم محذوف كقولهم «اللهِ لأفعلنّ» لوجهين: أن ذلك مختص بلفظ الجلالة نادر في غيره، وأنه كان ينبغي أن يُنوّن، ولا يحسن جعله ممنوعًا من الصرف للسورة إذ لا يظهر فيه الجر حينئذ؛ والفتح يحتمل البناء للخفة كأين، أو الجر بحرف قسم مقدّر على لغة ضعيفة، أو النصب بفعل محذوف (اقرؤوا نون) أو بنزع الخافض."
+},
+{
+"k": "ashab-qalam"
+},
+{
+"k": "qalam-gharib-hadir"
+},
+{
+"k": "qalam-majaz-qadi"
+},
+{
+"k": "qalam-aql-falasifa"
+},
+{
+"k": "yasturun-yamalun"
+},
+{
+"k": "yasturun-tazim"
+},
+{
+"k": "radd-zamakhshari-bi-nimat"
+},
+{
+"k": "bi-nimat-madmun",
+"a": 2,
+"t": "irab",
+"x": "قال السمين: الذي تتعلق به الباء في نحو «بنعمة ربك» معنى مضمون الجملة نفيًا وإثباتًا: انتفى عنك ذلك بنعمة ربك، والباء سببية؛ أما المثال «أنت بحمد الله فاضل» فالباء فيه متعلقة بلفظ «فاضل»."
+},
+{
+"k": "bi-nimat-zajjaj"
+},
+{
+"k": "khadija-waraqa"
+},
+{
+"k": "bi-nimat-aqwal"
+},
+{
+"k": "nima-dalil-razi"
+},
+{
+"k": "mamnun-tikrar"
+},
+{
+"k": "mamnun-aqwal"
+},
+{
+"k": "khuluq-aqwal-q"
+},
+{
+"k": "khuluq-khim"
+},
+{
+"k": "khuluq-muminun"
+},
+{
+"k": "la-takalluf"
+},
+{
+"k": "khisal-anbiya-razi"
+},
+{
+"k": "tubsir-dunya-akhira"
+},
+{
+"k": "ba-mubtada-daif",
+"a": 6,
+"t": "irab",
+"x": "زيادة الباء في المبتدأ في «بأييكم المفتون» ضعيفة لأن الباء لا تُزاد في المبتدأ إلا في «بحسبك» فقط؛ وعلى القول بالزيادة يتم الكلام عند «يبصرون»، وعلى غيره تتعلق الباء بما قبلها."
+},
+{
+"k": "tabsir-taliq",
+"a": 6,
+"t": "irab",
+"x": "ينبغي أن يقال: الكلام إنما يتم عند «المفتون» سواء قيل بزيادة الباء أم لا، لأن «تبصر ويبصرون» معلّق بالاستفهام بعده، لأنه فعل بمعنى الرؤية البصرية يُعلّق على الصحيح بدليل قولهم: أما ترى أيّ برقٍ هاهنا، فالجملة الاستفهامية في محل نصب مفعول الإبصار."
+},
+{
+"k": "ba-maa-shaytan"
+},
+{
+"k": "maftun-muadhdhab"
+},
+{
+"k": "maftun-hadhf-nahhas"
+},
+{
+"k": "mumalaa-kufr"
+},
+{
+"k": "fa-yudhinun-ikhtisas"
+},
+{
+"k": "qiraa-fa-yudhinu"
+},
+{
+"k": "tudhin-ithna-ashar"
+},
+{
+"k": "fa-yudhinun-raf"
+},
+{
+"k": "hallaf-man"
+},
+{
+"k": "mahin-aqwal"
+},
+{
+"k": "hamz-lamz-farq"
+},
+{
+"k": "namim-tamr",
+"a": 11,
+"t": "lugha",
+"x": "«النميم» قيل: مصدر بمعنى النميمة، وقيل: جمعها اسم جنس كتمرة وتمر؛ وأنشد الزمخشري: «تشبّبي تشبّبَ النميمه ... تمشي بها زهرًا إلى تميمه»، و«مشّاء» مثال مبالغة من المشي أي يكثر السعاية."
+},
+{
+"k": "utul-jarr"
+},
+{
+"k": "walid-ashara-banin"
+},
+{
+"k": "athim-fail"
+},
+{
+"k": "ahl-nar-utul"
+},
+{
+"k": "jawwaz-qasir",
+"a": 13,
+"t": "lugha",
+"x": "الجوّاظ: الجموع المنوع، وقيل: الكثير اللحم المختال في مشيته، وقيل: القصير البطين؛ والجعظري: الفظ الغليظ المتكبر، قال ابن الأثير: وقيل: الذي ينتفخ بما ليس عنده وفيه قِصَر."
+},
+{
+"k": "utul-hadith-ibn-ghanm"
+},
+{
+"k": "tabki-samaa"
+},
+{
+"k": "zanim-aqwal"
+},
+{
+"k": "zanim-asabi"
+},
+{
+"k": "walid-dai"
+},
+{
+"k": "walad-zina-hadith"
+},
+{
+"k": "qiraa-utulun-qat",
+"a": 13,
+"t": "irab",
+"x": "قرأ الحسن «عتلٌّ» بالرفع أي هو عتلّ، وحقه أن يُقرأ ما بعده بالرفع أيضًا، لأنهم قالوا في القطع: إنه يُبدأ بالإتباع ثم بالقطع من غير عكس."
+},
+{
+"k": "bada-tartib-wasif"
+},
+{
+"k": "jafa-asadd-zamakhshari"
+},
+{
+"k": "qiraa-hisham-dhakwan",
+"a": 14,
+"t": "qiraat",
+"x": "في «أأن كان»: حقّق حمزة وأبو بكر الهمزتين بلا ألف بينهما على أصلهما، وسهّل ابن ذكوان الثانية بلا إدخال ألف مخالفًا أصله في التحقيق، وسهّلها هشام مع إدخال ألف ملتزمًا التسهيل هنا وأصله الوجهان."
+},
+{
+"k": "an-kana-amil"
+},
+{
+"k": "radd-makki-mani-manawi",
+"a": 14,
+"t": "irab",
+"x": "تعقّب السمين قول مكي وأبي البقاء إن «تتلى» لا يعمل في «أن كان» لأن ما بعد «إذا» لا يعمل فيما قبلها، بأنه يوهم أن المانع صناعي فقط، والمانع معنوي، إذ لا يصح أن تُعلّل تلاوة آيات الله عليه بكونه ذا مال وبنين."
+},
+{
+"k": "qiraa-in-kana-nafi"
+},
+{
+"k": "shartan"
+},
+{
+"k": "qiraa-aan-kana-q"
+},
+{
+"k": "khurtum-shantamari",
+"a": 16,
+"t": "lugha",
+"x": "الخرطوم هنا عبارة عن الوجه كله من التعبير بالجزء عن الكل لأنه أظهر ما فيه وأعلاه؛ وقال الشنتمري: الخرطوم الخمر أول ما يخرج من الدنّ، فجُعلت كالأنف لأنه أول ما يبدو من الوجه، ومنه قول علقمة: «والقوم تصرعهم صهباءُ خرطوم»."
+},
+{
+"k": "khurtum-aqwal"
+},
+{
+"k": "khurtum-alamat"
+},
+{
+"k": "wasm-ar"
+},
+{
+"k": "khurtum-ibtila"
+},
+{
+"k": "khurtum-khamr-tasaffuf"
+},
+{
+"k": "balawnahum-qaht"
+},
+{
+"k": "janna-sanaa"
+},
+{
+"k": "taif-jibril"
+},
+{
+"k": "musbihin-tamma",
+"a": 17,
+"t": "irab",
+"x": "«مصبحين» حال من فاعل «ليصرمنها»، وهو من أصبح التامة أي داخلين في الصباح، كقوله: ﴿وإنكم لتمرون عليهم مصبحين﴾."
+},
+{
+"k": "kaf-masdariyya"
+},
+{
+"k": "la-yastathnun-la-hal",
+"a": 18,
+"t": "irab",
+"x": "جملة «ولا يستثنون» مستأنفة، ويضعف كونها حالًا من حيث إن المضارع المنفي بـ«لا» كالمثبت في امتناع دخول الواو عليه، وإضمار مبتدأ قبله مستغنى عنه؛ وقيل: لا يستثنون عزمهم عن الحرمان."
+},
+{
+"k": "thunya-lugha"
+},
+{
+"k": "qiraa-tayf"
+},
+{
+"k": "sarm-ishtiqaq",
+"a": 20,
+"t": "lugha",
+"x": "أصل مادة «صرم» الدلالة على القطع: ومنه الصَّرم والصُّرم القطيعة («وإن كنتِ قد أزمعتِ صرمي فأجملي»)، والصريمة قطعة منصرمة من الرمل لا تنبت، والصارم القاطع، وناقة مُصرّمة انقطع لبنها، وانصرم الشهر قرب انفصاله، وأصرم زيد ساءت حاله كأنه انقطع سعده."
+},
+{
+"k": "sarim-razi-wujuh"
+},
+{
+"k": "azm-muakhadha"
+},
+{
+"k": "ghada-ala"
+},
+{
+"k": "sarimin-azm"
+},
+{
+"k": "khafata-khafada"
+},
+{
+"k": "an-tafsiriyya"
+},
+{
+"k": "qiraa-la-yadkhulannaha"
+},
+{
+"k": "hard-hal",
+"a": 25,
+"t": "irab",
+"x": "يجوز أن يكون «قادرين» حالًا من فاعل «غدوا» و«على حرد» متعلق به، أو «على حرد» هو الحال و«قادرين» حال ثانية أو حال من ضمير الحال الأولى؛ وعُطف الحرد على الغضب في البيت لتغاير اللفظ كقوله: «كذبًا ومينا»."
+},
+{
+"k": "hard-infirad"
+},
+{
+"k": "hard-aqwal"
+},
+{
+"k": "qiraa-harad"
+},
+{
+"k": "qadirin-aqwal"
+},
+{
+"k": "dallun-mahrumun"
+},
+{
+"k": "hirman-rizq-dhanb"
+},
+{
+"k": "tasbih-qudra-razi"
+},
+{
+"k": "tasbih-salat-hasan"
+},
+{
+"k": "talawum-razi"
+},
+{
+"k": "taghin-shukr"
+},
+{
+"k": "badal-hayawan"
+},
+{
+"k": "ashab-janna-iman"
+},
+{
+"k": "mathal-badr"
+},
+{
+"k": "maqsud-qissa-razi"
+},
+{
+"k": "haqq-masakin-wajib"
+},
+{
+"k": "jannat-naim"
+},
+{
+"k": "inda-hal",
+"a": 34,
+"t": "irab",
+"x": "«عند ربهم» يجوز أن يكون منصوبًا بالاستقرار في «للمتقين»، أو حالًا من «جنات»."
+},
+{
+"k": "muslim-mujrim-qadi"
+},
+{
+"k": "tadrusun-sultan"
+},
+{
+"k": "inna-lakum-hikaya"
+},
+{
+"k": "qiraa-anna-lakum"
+},
+{
+"k": "qiraa-a-inna-lakum"
+},
+{
+"k": "jawab-qasam-aymanun"
+},
+{
+"k": "qiraa-baligha-nasb"
+},
+{
+"k": "zaim-aqwal"
+},
+{
+"k": "sal-taliq"
+},
+{
+"k": "qiraa-bishirkihim"
+},
+{
+"k": "shuraka-madhhab"
+},
+{
+"k": "yawm-amil-khashia",
+"a": 42,
+"t": "irab",
+"x": "في ناصب «يوم يكشف» أقوال: «فليأتوا» فلا يوقف على «صادقين»، أو «اذكر»، أو محذوف ظرف (يكون كيت وكيت)، أو «خاشعة» قاله أبو البقاء؛ و«عن ساق» قائم مقام الفاعل."
+},
+{
+"k": "taksif-saa-sitr"
+},
+{
+"k": "akshaf-akhla",
+"a": 42,
+"t": "lugha",
+"x": "«يُكشِف» من أكشف إذا دخل في الكشف، وأكشف الرجل إذا انقلبت شفته العليا لانكشاف ما تحتها، ويقال له أيضًا: أخلع."
+},
+{
+"k": "saq-mukhaddarat"
+},
+{
+"k": "saq-aqwal-ukhra"
+},
+{
+"k": "saq-tawil-qurtubi"
+},
+{
+"k": "hijab-ruya"
+},
+{
+"k": "saq-razi-majaz"
+},
+{
+"k": "razi-zamakhshari-bayan"
+},
+{
+"k": "yawm-dunya-abu-muslim"
+},
+{
+"k": "khushu-absar-takhsis"
+},
+{
+"k": "wujuh-bayad-sawad"
+},
+{
+"k": "sujud-maktuba"
+},
+{
+"k": "jamaa-kab"
+},
+{
+"k": "man-maful-maah-marjuh",
+"a": 44,
+"t": "irab",
+"x": "«ومن يكذب» منصوب نسقًا على ضمير المتكلم، أو مفعولًا معه وهو مرجوح لإمكان النسق من غير ضعف."
+},
+{
+"k": "hadith-qiyama"
+},
+{
+"k": "istidraj-badr"
+},
+{
+"k": "istidraj-aqwal"
+},
+{
+"k": "istidraj-israili"
+},
+{
+"k": "istidraj-lugha"
+},
+{
+"k": "imla-quran"
+},
+{
+"k": "kayd-irada"
+},
+{
+"k": "maghram-awd"
+},
+{
+"k": "ghayb-lawh"
+},
+{
+"k": "isbir-mansukh"
+},
+{
+"k": "la-takun-hal"
+},
+{
+"k": "ghamm-karb-farq"
+},
+{
+"k": "tadaraka-tadhkir"
+},
+{
+"k": "taddaraka-shadh",
+"a": 49,
+"t": "qiraat",
+"x": "قراءة الحسن والأعمش «تدّاركه» بالتشديد خُرّجت على «تتداركه» مضارعًا فأُدغم، وهو شاذ لأن الساكن الأول قبل المدغم غير حرف لين، كقراءة البزّي ﴿إذ تّلقونه﴾ و﴿نارا تّلظى﴾، على حكاية الحال."
+},
+{
+"k": "nima-aqwal"
+},
+{
+"k": "lawla-jawab-ibn-ashur"
+},
+{
+"k": "madhmum-isma"
+},
+{
+"k": "isbir-uhud-thaqif"
+},
+{
+"k": "ijtaba-ibn-abbas"
+},
+{
+"k": "ijtaba-nubuwwa-razi"
+},
+{
+"k": "jaalahu-afal-ibad"
+},
+{
+"k": "qiraa-yuzliqunak-bahr"
+},
+{
+"k": "zalaq-lugha"
+},
+{
+"k": "ba-absar-ala",
+"a": 51,
+"t": "irab",
+"x": "الباء في «بأبصارهم» إما للتعدية كالداخلة على الآلة، أي جعلوا أبصارهم كالآلة المزلقة كقولك: عملت بالقدوم، وإما للسببية أي بسبب عيونهم."
+},
+{
+"k": "ibn-abbas-tuyus"
+},
+{
+"k": "ayn-bani-asad"
+},
+{
+"k": "ayn-bughd-khilaf"
+},
+{
+"k": "yuzliqunak-aqwal"
+},
+{
+"k": "lamma-zarf-harf"
+},
+{
+"k": "dhikr-razi"
+},
+{
+"k": "dawa-ayn"
+},
+{
+"k": "dhikr-sharaf"
+},
+{
+"k": "fadl-ubayy"
+}
+]
