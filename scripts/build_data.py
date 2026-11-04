@@ -15,7 +15,8 @@ TYPES = json.load(open(ROOT / "data/types.json", encoding="utf-8"))
 GROUPS = json.load(open(ROOT / "data/groups.json", encoding="utf-8"))
 MISSING = ["تفسير ابن أبي حاتم", "البيضاوي (أنوار التنزيل)", "الوجيز للواحدي", "تفسير ابن عثيمين"]
 
-# Editor notes (clearly separated from what the tafsir itself says).
+# Editor notes for surah 67 (clearly separated from what the tafsir itself says).
+# Other surahs keep theirs in data/notes/<n>.json.
 NOTES = {
     "samawat-ibn-ashur": "اجتهاد لابن عاشور يخالف ظاهر قول جمهور المفسرين في أن السماوات سبع أجرام طباق بعضها فوق بعض.",
     "nar-makhluqa": "مذهب أهل السنة أن الجنة والنار مخلوقتان موجودتان الآن.",
@@ -71,10 +72,19 @@ def build(surah: int):
                     errors.append(f"{t['id']}: back-ref to unknown key {k}")
                 elif t["id"] not in pending["s"]:
                     pending["s"].append(t["id"])
-    for k, n in NOTES.items():
+    notes, append = (NOTES, APPEND) if surah == 67 else ({}, {})
+    nf = ROOT / f"data/notes/{surah}.json"  # {"notes": {key: text}, "append": {key: text}}
+    if nf.exists():
+        extra = json.load(open(nf, encoding="utf-8"))
+        notes = {**notes, **extra.get("notes", {})}
+        append = {**append, **extra.get("append", {})}
+    for k in list(notes) + list(append):
+        if k not in by_key:
+            errors.append(f"notes: unknown key {k}")
+    for k, n in notes.items():
         if k in by_key:
             by_key[k]["n"] = n
-    for k, add in APPEND.items():
+    for k, add in append.items():
         if k in by_key:
             by_key[k]["x"] += add
     if errors:
