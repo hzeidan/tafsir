@@ -1,0 +1,336 @@
+[
+{
+"k": "ibn-atiyya-makki-nuzul",
+"a": 1,
+"t": "nuzul",
+"x": "قال ابن عطية: قال بعض العلماء هي مكية كلها، وحكى النقاش والثعلبي عن مجاهد وقتادة أنها مدنية، وقال الحسن وعكرمة: منها آية مكية والباقي مدني، وأنها نزلت في صنيع علي في إطعامه عشاءه وعشاء أهله، وقيل في صنيع ابن الدحداح."
+},
+{
+"k": "hal-qad-sibawayh"
+},
+{
+"k": "insan-kull-ibn-abbas"
+},
+{
+"k": "hin-yamin-ibn-atiyya",
+"a": 1,
+"t": "ahkam",
+"x": "الحين مدة غير محدودة تقع على القليل والكثير، وإنما يُحتاج إلى تحديده في الأيمان: من حلف ألا يكلم أخاه حينًا، فقيل: سنة، وقيل: ستة أشهر."
+},
+{
+"k": "insan-2-ibn-atiyya"
+},
+{
+"k": "amshaj-ibn-arabi-wazn"
+},
+{
+"k": "amshaj-khilaf"
+},
+{
+"k": "amshaj-akhlat-arba"
+},
+{
+"k": "nabtalihi-ijad"
+},
+{
+"k": "nabtalihi-ibn-atiyya"
+},
+{
+"k": "hidaya-ibn-atiyya"
+},
+{
+"k": "amma-fath-hamza"
+},
+{
+"k": "sarf-jam-shuara"
+},
+{
+"k": "sarf-masahif"
+},
+{
+"k": "abrar-aqwal"
+},
+{
+"k": "kas-ibn-kaysan",
+"a": 5,
+"t": "lugha",
+"x": "قال ابن كيسان: لا يقال «كأس» إلا لما فيه نبيذ ونحوه، ولا «ظعينة» إلا إذا كان عليها امرأة، ولا «مائدة» إلا وعليها طعام وإلا فهو خِوان."
+},
+{
+"k": "mizaj-tarafayn",
+"a": 5,
+"t": "lugha",
+"x": "«المزاج» ما تُمزج به الخمور، وهي أيضًا مزاج له لأنهما تمازجا؛ وقال بعضهم: المزاج نفس الكافور."
+},
+{
+"k": "kafur-nakha-ibn-atiyya"
+},
+{
+"k": "aynan-nasb"
+},
+{
+"k": "yashrabu-biha"
+},
+{
+"k": "ibad-khusus-muminin",
+"a": 6,
+"t": "aqida",
+"x": "«عباد الله» هنا خصوص في المؤمنين الناعمين، لأن جميع الخلق عباده."
+},
+{
+"k": "yufajjirunaha-qasab"
+},
+{
+"k": "nadhr-taa"
+},
+{
+"k": "mustatir"
+},
+{
+"k": "istatara-dhu-rumma",
+"a": 7,
+"t": "lugha",
+"x": "«مستطيرا»: متصلًا شائعًا كاستطارة الفجر والصدع في الزجاجة، وبه شُبّه في القلب، كقول ذي الرمة: «فهاجوا صدع قلبي فاستطارا»."
+},
+{
+"k": "ala-hubbihi-amdah"
+},
+{
+"k": "miskin-tawwaf"
+},
+{
+"k": "la-yutm-bad-hulm",
+"a": 8,
+"t": "hadith",
+"x": "اليتيم: الصبي الذي لا أب له من الناس، والذي لا أم له من البهائم، وهي صفة قبل البلوغ، لقوله ﷺ: «لا يُتم بعد احتلام».",
+"r": "أبو داود عن علي"
+},
+{
+"k": "kull-kabid-ratba"
+},
+{
+"k": "sadaqat-sijn"
+},
+{
+"k": "asir-mamluk-hadith"
+},
+{
+"k": "asir-rahain"
+},
+{
+"k": "asir-mara"
+},
+{
+"k": "qawl-nass-niyya-ibn-atiyya"
+},
+{
+"k": "nutimkum-iskan",
+"a": 9,
+"t": "qiraat",
+"x": "قرأ أبو عمرو في رواية ابن عياش «نطعمْكم» بسكون الميم، قال أبو علي: أسكن تخفيفًا."
+},
+{
+"k": "abus-majaz-isnadi"
+},
+{
+"k": "qamtarir-tawil-shadid-qarib"
+},
+{
+"k": "waqqahum-qiraa"
+},
+{
+"k": "nadra-badal-abus"
+},
+{
+"k": "sabr-abi-jafar"
+},
+{
+"k": "muttakiin-hal"
+},
+{
+"k": "muttakin-bila-hamz",
+"a": 13,
+"t": "qiraat",
+"x": "قرأ أبو جعفر وشيبة «متّكين» بغير همز."
+},
+{
+"k": "arika-habashiyya"
+},
+{
+"k": "hawa-janna-sajsaj"
+},
+{
+"k": "zamharir-qamar"
+},
+{
+"k": "daniya-sifat-janna"
+},
+{
+"k": "daniya-raf-akhfash"
+},
+{
+"k": "zill-dunuw-ibn-atiyya",
+"a": 14,
+"t": "tafsir",
+"x": "دنوّ الظلال لتوسّط أنعَمِها، لأن الشيء المظلّ إذا بعُد فتر ظلّه لا سيما من الشجر؛ والتذليل أن تطيب الثمرة فتتدلّى نحو الأرض، وهو في الجنة بحسب إرادة ساكنيها؛ ومنه قول الأنصاري: «والنخل قد ذُلّلت فهي مطوّقة بثمرها»."
+},
+{
+"k": "kub-qubb",
+"a": 15,
+"t": "lugha",
+"x": "«الكوب»: ما لا عروة له ولا أذن من الأواني، وهو الذي تسميه العامة «القُبّ» لكنها تسمي به ما له عروة وذلك خطأ؛ وقال قتادة: الكوب القدح."
+},
+{
+"k": "fidda-shaffafa-ibn-atiyya"
+},
+{
+"k": "fidda-abu-ali-majaz",
+"a": 16,
+"t": "khilaf",
+"x": "قال أبو علي الفارسي: جعلها من فضة لصفائها وملازمتها تلك الصفة، وليست من فضة في حقيقة أمرها، كقول الشاعر: «والضنين من البخل» (أي كأنه منه)."
+},
+{
+"k": "qaddaruha-aqwal-qurtubi"
+},
+{
+"k": "quddiruha-abu-ali"
+},
+{
+"k": "zanjabil-arab"
+},
+{
+"k": "zanjabil-mazj"
+},
+{
+"k": "salsabil-ittisa",
+"a": 18,
+"t": "tafsir",
+"x": "قيل في «سلسبيلا»: عبارة عن اتّساعها."
+},
+{
+"k": "salsabil-sarf-sifa"
+},
+{
+"k": "mukhalladun-khilaf"
+},
+{
+"k": "khulda-qurt"
+},
+{
+"k": "durra-jawhara",
+"a": 19,
+"t": "lugha",
+"x": "شُبّهوا باللؤلؤ المنثور في بياضهم وانتشارهم وجمالهم، ومنه سُمّيت المرأة دُرّة وجوهرة؛ وكرّر ذكر الرؤية «وإذا رأيت ثمّ رأيت» مبالغة."
+},
+{
+"k": "thumma-qiraa"
+},
+{
+"k": "mulk-ittisa-ibn-atiyya"
+},
+{
+"k": "alf-ghulam"
+},
+{
+"k": "aliyahum-qiraat-bahr"
+},
+{
+"k": "alwan-harir",
+"a": 21,
+"t": "lugha",
+"x": "قال ابن عطية: السندس رقيق الديباج، وقيل: هو الحرير الأخضر، والإستبرق والدِّمَقْس هما الأبيض، والأرجوان هو الأحمر."
+},
+{
+"k": "khudr-akhfash-qubh"
+},
+{
+"k": "khudr-istabraq-qiraat"
+},
+{
+"k": "istabraq-fil-madi"
+},
+{
+"k": "sharab-tahur-rashh"
+},
+{
+"k": "qail-allah-malaika",
+"a": 22,
+"t": "tafsir",
+"x": "«إن هذا كان لكم جزاء» محذوف يقتضيه القول: يقول الله تعالى لهم والملائكة عنه."
+},
+{
+"k": "hukm-rabb-ibn-atiyya",
+"a": 24,
+"t": "tafsir",
+"x": "«حكم ربك»: أن يبلّغ ويكافح ويتحمّل المشقة ويصبر على الأذى ليعرّف الله إليهم."
+},
+{
+"k": "aw-takhyir-ibn-atiyya",
+"a": 24,
+"t": "irab",
+"x": "قال ابن عطية: «آثما أو كفورا» تخيير في أن يعرف الذي ينبغي ألا يطيعه بأي وصف كان من هذين، لأن كل واحد منهم آثم وكفور؛ وقال أبو عبيدة: «أو» بمعنى الواو وليس فيه تخيير."
+},
+{
+"k": "nahy-imam-athim"
+},
+{
+"k": "dhikr-tasbih-qawl"
+},
+{
+"k": "salawat-khams-ibn-habib"
+},
+{
+"k": "qiyam-naskh-ibn-zayd"
+},
+{
+"k": "ajila-itiqad",
+"a": 27,
+"t": "tafsir",
+"x": "«هؤلاء» كفار قريش، وحبّهم العاجلة أنهم لا يعتقدون غيرها، و«يذرون وراءهم» فيما يأتي من الزمن بعد موتهم، كقول لبيد: «أليس ورائي إن تراخت منيّتي ∗ لزوم العصا»."
+},
+{
+"k": "thaqil-nasab",
+"a": 27,
+"t": "balagha",
+"x": "وُصف اليوم بالثقل على جهة النسب أي ذا ثقل على الكفار، كقولهم: ليل نائم."
+},
+{
+"k": "asr-mafasil-shurj"
+},
+{
+"k": "asr-ibn-atiyya-fasih"
+},
+{
+"k": "tabdil-hujja-baath"
+},
+{
+"k": "tadhkira-ihtimalat"
+},
+{
+"k": "tadhkira-tahdhir"
+},
+{
+"k": "zamakhshari-qasr-itizal"
+},
+{
+"k": "tishaun-kasr",
+"a": 30,
+"t": "qiraat",
+"x": "قرأ يحيى بن وثاب «تِشاءون» بكسر التاء."
+},
+{
+"k": "alim-tayassur-ibn-atiyya"
+},
+{
+"k": "zalimin-nasb"
+},
+{
+"k": "yashaun-qiraa"
+},
+{
+"k": "zalimun-irtijal",
+"a": 31,
+"t": "irab",
+"x": "قال أبو الفتح ابن جني: قراءة «والظالمون» بالرفع على ارتجال جملة مستأنفة."
+}
+]

@@ -1,0 +1,320 @@
+[
+{
+"k": "hal-ahl-hamza"
+},
+{
+"k": "hal-bimana-qad"
+},
+{
+"k": "samin-qad-asma",
+"a": 1,
+"t": "irab",
+"x": "قال أبو حيان: بقي على الزمخشري قيد أن «هل» بمعنى «قد» في الجمل الفعلية لأن «قد» مختصة بالأفعال؛ قال السمين (شهاب الدين): هذا لا يرد لأنه قد تقرر أن «قد» لا تباشر الأسماء."
+},
+{
+"k": "insan-adam"
+},
+{
+"k": "insan-wahid-razi-qarina"
+},
+{
+"k": "hin-mia-wa-ishrin"
+},
+{
+"k": "lam-yakun-nat-hal"
+},
+{
+"k": "amshaj-lugha"
+},
+{
+"k": "amshaj-mufrad-kashshaf"
+},
+{
+"k": "radd-kashshaf-sibawayh"
+},
+{
+"k": "samin-difa-kashshaf",
+"a": 2,
+"t": "irab",
+"x": "قال السمين: الزمخشري لم يجعل «أفعالًا» مفردًا (في أمشاج)، إنما قال: يوصف به المفرد، أي على التأويل؛ دفاعًا عنه أمام اعتراض أبي حيان."
+},
+{
+"k": "amshaj-khilaf"
+},
+{
+"k": "amshaj-tabai"
+},
+{
+"k": "nabtalihi-lam-taqdir"
+},
+{
+"k": "hiss-qabl-aql"
+},
+{
+"k": "sabil-jins-aw-huda"
+},
+{
+"k": "imma-aqwal-razi"
+},
+{
+"k": "imma-ahl-sunna-razi"
+},
+{
+"k": "imma-jaza-kufiyyin"
+},
+{
+"k": "samin-imma-shart",
+"a": 3,
+"t": "irab",
+"x": "ردّ السمين قول مكي إن «إن» الشرطية لا تصح هنا لأنه يلزم رفع «شاكرا» مع إضمار الفعل: لا نسلّم، فيمكن إضمار فعل ينصبه تقديره: إنا خلقناه شاكرًا فشكورًا، وإنا خلقناه كافرًا فكفورًا."
+},
+{
+"k": "amma-fath-hamza"
+},
+{
+"k": "shakir-kafur-mubalagha"
+},
+{
+"k": "radd-khawarij-shakir"
+},
+{
+"k": "nar-makhluqa-razi"
+},
+{
+"k": "sarf-hujaj"
+},
+{
+"k": "sarf-masahif"
+},
+{
+"k": "samin-radd-zamakhshari-shir",
+"a": 4,
+"t": "qiraat",
+"x": "قال السمين عن قول الزمخشري إن قارئ «سلاسلا» ممن ضري برواية الشعر: في هذه العبارة فظاظة وغلظة لا سيما على مشيخة الإسلام وأئمة العلماء الأعلام؛ ومنع الصرف ظاهر لصيغة منتهى الجموع، وجمعهم «صواحبات» لا يقدح لأنه جمع تصحيح لا تكسير."
+},
+{
+"k": "kafur-ladhidh-razi"
+},
+{
+"k": "kana-sila-hukm"
+},
+{
+"k": "min-ba-farq"
+},
+{
+"k": "ibad-muminun-rida"
+},
+{
+"k": "nadhr-hadd"
+},
+{
+"k": "wujub-wafa-nadhr"
+},
+{
+"k": "nadhr-asamm"
+},
+{
+"k": "mustatir-sari"
+},
+{
+"k": "sharr-hikma"
+},
+{
+"k": "mustatir-awliya"
+},
+{
+"k": "taah-tazim-shafaqa"
+},
+{
+"k": "razi-nuzul-ali-umum"
+},
+{
+"k": "ala-hubbihi-damir"
+},
+{
+"k": "asnaf-balad"
+},
+{
+"k": "itam-asir-imam"
+},
+{
+"k": "asir-gharim"
+},
+{
+"k": "ihsan-aqsam-shirk"
+},
+{
+"k": "shukur-akhfash"
+},
+{
+"k": "khawf-mukafaa"
+},
+{
+"k": "nadhr-khawf-itam-ridan"
+},
+{
+"k": "abus-asad"
+},
+{
+"k": "qamtarir-wahidi"
+},
+{
+"k": "jaza-gharadayn"
+},
+{
+"k": "muwasat-kiswa"
+},
+{
+"k": "daniya-zamakhshari-waw"
+},
+{
+"k": "daniya-qiraa-ibn-masud"
+},
+{
+"k": "zill-bila-shams"
+},
+{
+"k": "dhullilat-qutufuha"
+},
+{
+"k": "turbat-janna-fidda"
+},
+{
+"k": "kanat-takwin"
+},
+{
+"k": "qawarir-wujuh-razi"
+},
+{
+"k": "safa-naqa-shakl"
+},
+{
+"k": "quddiruha-abu-ali"
+},
+{
+"k": "zanjabil-arab"
+},
+{
+"k": "salsabil-la-ladh"
+},
+{
+"k": "sal-sabilan-kashshaf"
+},
+{
+"k": "sal-sabilan-yajib-tarh"
+},
+{
+"k": "samin-radd-abi-hayyan-sal",
+"a": 18,
+"t": "khilaf",
+"x": "قال السمين: لو تأمل أبو حيان ما قاله الزمخشري في «سَلْ سبيلًا» لم يلمه ولم يتعجب منه، لأن الزمخشري هو الذي شنّع على هذا القول غاية التشنيع؛ وفي قول أبي البقاء «السلسبيل كلمة واحدة» تلويح إلى ردّه."
+},
+{
+"k": "mukhalladun-dawam-sura"
+},
+{
+"k": "luluu-shua"
+},
+{
+"k": "thamma-zarf"
+},
+{
+"k": "raayta-yashi"
+},
+{
+"k": "hadhf-mawsul-kufiyyin"
+},
+{
+"k": "mulk-ladhdhat-razi"
+},
+{
+"k": "raayta-khitab"
+},
+{
+"k": "aliyahum-mufrad-jam"
+},
+{
+"k": "aliyahum-hal-arba"
+},
+{
+"k": "khudr-akhfash-qubh"
+},
+{
+"k": "asawir-razi-thalatha"
+},
+{
+"k": "siwar-rijal"
+},
+{
+"k": "tahur-naw-akhar"
+},
+{
+"k": "jaza-wajhan-razi"
+},
+{
+"k": "shakir-majaz-razi"
+},
+{
+"k": "radiya-mardiyya"
+},
+{
+"k": "nazm-surah-razi"
+},
+{
+"k": "tanzil-tathbit-qital"
+},
+{
+"k": "tikrar-amr-nahy"
+},
+{
+"k": "nahy-masum-faida"
+},
+{
+"k": "athim-am-kafur-khass"
+},
+{
+"k": "walid-athim-qalam"
+},
+{
+"k": "radd-zajjaj-aw-razi"
+},
+{
+"k": "dhikr-tasbih-qawl"
+},
+{
+"k": "shahwa-la-shubha"
+},
+{
+"k": "wara-thalatha-razi"
+},
+{
+"k": "ajila-raghba-rahba"
+},
+{
+"k": "tabdil-istighna"
+},
+{
+"k": "radd-zamakhshari-idha-razi"
+},
+{
+"k": "jabr-qadar-razi"
+},
+{
+"k": "radd-zarf-an-yasha"
+},
+{
+"k": "khatima-tawhid"
+},
+{
+"k": "janna-fadl-la-istihqaq"
+},
+{
+"k": "jaffa-qalam"
+},
+{
+"k": "zalimin-yuadhdhib-shura"
+},
+{
+"k": "zalimin-raf-ishtighal"
+}
+]
